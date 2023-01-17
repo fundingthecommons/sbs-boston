@@ -1,0 +1,16 @@
+{
+  "siteUrl": "events.plnetwork.io",
+  "gtmId": "",
+  "fathomSiteId": "RBFTFNYG",
+  "theme": "content/themes/protocol.md",
+  "logo": {
+    "logoTypeStyle": "",
+    "image": ""
+  },
+  "nav": {
+    "navAlignment": "text-right",
+    "navTypeStyle": "text-accent2 mg-body-sm ",
+    "navBackgroundColor": " opacity-100",
+    "padding": "pt-7 pb-10 pr-10 pl-8"
+  }
+}
