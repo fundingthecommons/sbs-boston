@@ -147,7 +147,7 @@ export const Header = ({
 
                 {pageJumps(blocks)?.map(function (item, index) {
                   return (
-                    <li className="inline-block ml-6 first:ml-0" key={index}>
+                    <li className="inline-block bg-white px-4 py-1 ml-4 first:ml-0" key={index}>
                       <a className={"block no-underline"} href={`#${lowerDash(item)}`} onClick={ () => pageJump(item) }>{item}</a>
                     </li>
                   )
