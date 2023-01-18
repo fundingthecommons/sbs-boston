@@ -120,7 +120,7 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-start gap-12
-      padding: pt-60 pb-20 pr-10 pl-10
+      padding: pt-60 pb-40 pr-32 pl-32
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -188,7 +188,7 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
-      padding: pt-20 pb-20 pr-10 pl-10
+      padding: pt-48 pb-20 pr-32 pl-32
       featureContent: w-full min-h-0 text-left
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -202,6 +202,13 @@ blocks:
       headlineStyles: text-black
       subheadStyles: text-black
       textStyles: text-black
+    background:
+      fillStyles: ' opacity-100'
+      ornaments:
+        - src: /uploads/bg-blue-windmills.png
+          alignment: top
+          xOffset: ''
+          yOffset: '-200'
     label: ''
     headline: FAQ
     subhead: ''
