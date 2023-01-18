@@ -114,9 +114,9 @@ blocks:
       padding: pt-20 pb-20 pr-10 pl-10
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
+      headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
+      textStyles: text-black mg-copy-medium undefined
     cardStyle:
       fillStyles: bg-white opacity-100
       grid: grid-cols-2 items-start gap-6
@@ -126,9 +126,9 @@ blocks:
       contentPadding: pt-8 pb-8 pr-8 pl-8
       borderStyles: border-primary border-1
       labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
+      headlineStyles: text-black mg-headline-medium mb-3
       subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
+      textStyles: text-black mg-copy-medium undefined
       buttonLayout: undefined
       buttonWidth: undefined
     label: ''
@@ -173,10 +173,10 @@ blocks:
       alignment: flex-col-reverse items-center gap-6
       padding: pt-20 pb-20 pr-10 pl-10
       featureContent: w-full min-h-0 text-left
-      labelStyles: text-black
-      headlineStyles: text-black
-      subheadStyles: text-black
-      textStyles: text-black
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-primary mg-headline-large undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: bg-white opacity-100
       fillStylesActive: bg-gray-light opacity-100
@@ -214,7 +214,7 @@ blocks:
       padding: pt-20 pb-20 pr-10 pl-10
       featureContent: w-1/2 min-h-0 text-left
       labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
+      headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
       textStyles: text-black undefined undefined
     cardStyle:
@@ -253,7 +253,7 @@ blocks:
       padding: pt-20 pb-20 pr-10 pl-10
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
+      headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
       textStyles: text-black undefined undefined
     cardStyle:
@@ -288,9 +288,9 @@ blocks:
       featureImage: '  mx-auto'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
+      headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
+      textStyles: text-black mg-copy-medium undefined
     headline: Join us in Boston
     subhead: ''
     body: >
@@ -306,9 +306,9 @@ blocks:
       padding: pt-20 pb-20 pr-10 pl-10
       featureContent: w-full min-h-0 text-left
       labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
+      headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
+      textStyles: text-black mg-copy-medium undefined
     cardStyle:
       fillStyles: bg-primary opacity-100
       grid: grid-cols-2 items-start gap-6
