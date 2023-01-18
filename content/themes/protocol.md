@@ -1,6 +1,6 @@
 ---
 name: Protocol
-desktopWidth: '1100'
+desktopWidth: '1280'
 colors:
   primary: '#00D400'
   accent1: '#C6F6C6'
@@ -18,7 +18,7 @@ typo:
       {"family":"Inter:wght@400","size":"14","lineHeight":"16","letterSpacing":"0","margin":"0","smSize":"14","smLineHeight":"16","smLetterSpacing":"0","smMargin":"0"}
   - label: Copy Medium
     typography: >-
-      {"family":"Inter:wght@400","size":"16","lineHeight":"24","letterSpacing":"0","margin":"0","smSize":"16","smLineHeight":"24","smLetterSpacing":"0","smMargin":"0"}
+      {"family":"Inter:wght@400","size":"16","lineHeight":"24","letterSpacing":"0","margin":"28","smSize":"16","smLineHeight":"24","smLetterSpacing":"0","smMargin":"28"}
   - label: Copy Large
     typography: >-
       {"family":"Inter:wght@400","size":"32","lineHeight":"48","letterSpacing":"","margin":"","smSize":"32","smLineHeight":"48","smLetterSpacing":"","smMargin":""}
@@ -35,13 +35,20 @@ typo:
     typography: >-
       {"family":"Arial","size":"0","lineHeight":"0","letterSpacing":"","margin":"","smSize":"0","smLineHeight":"0","smLetterSpacing":"","smMargin":""}
 buttons:
+  - label: Minor
+    fill: ' opacity-100'
+    typography: >-
+      {"color":"text-primary","family":"Inter:wght@400","size":"18","lineHeight":"16","letterSpacing":"0","smSize":"18","smLineHeight":"16","smLetterSpacing":"0"}
+    padding: pt-3.5 pb-3.5 undefined undefined
+    primaryBorder: border-white border-0
+    primaryRounded: undefined
   - label: Primary
     fill: bg-primary opacity-100
     typography: >-
-      {"color":"white","family":"Inter:wght@400","size":"18","lineHeight":"18","letterSpacing":"0","smSize":"18","smLineHeight":"18","smLetterSpacing":"0"}
-    padding: pt-2.5 pb-2.5 pr-9 pl-9
+      {"color":"white","family":"Inter:wght@400","size":"17","lineHeight":"18","letterSpacing":"0","smSize":"17","smLineHeight":"18","smLetterSpacing":"0"}
+    padding: pt-4 pb-4 pr-10 pl-10
     primaryBorder: border-primary border-0
-    primaryRounded: rounded
+    primaryRounded: rounded-none
 linkColor: primary
 ---
 

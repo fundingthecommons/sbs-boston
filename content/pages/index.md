@@ -2,13 +2,22 @@
 blocks:
   - style:
       alignment: 'flex-col items-start '
-      padding: pt-40 pb-8 pr-10 pl-10
+      padding: pt-40 pb-8 pr-32 pl-32
       featureImage: '  mx-auto'
       featureContent: w-2/5 min-h-0 text-left
       labelStyles: text-black undefined undefined
       headlineStyles: text-black undefined undefined
       subheadStyles: text-black undefined undefined
       textStyles: text-black undefined mb-0
+    background:
+      fillStyles: ' opacity-100'
+      src: ''
+      position: object-right-top
+      ornaments:
+        - src: /uploads/bg-cherry-blossoms.jpg
+          alignment: top
+          width: '900'
+          xOffset: '200'
     headline: ''
     subhead: ''
     body: >
@@ -17,9 +26,9 @@ blocks:
     _template: feature
   - style:
       alignment: flex-col items-start gap-6
-      padding: pt-0 pb-20 pr-10 pl-10
+      padding: pt-0 pb-20 pr-32 pl-32
       featureImage: wpx-450  mr-auto
-      featureContent: 'w-1/2 min-h-0 text-left sm:w-full sm:min-h-0 sm:text-left'
+      featureContent: 'w-2/3 min-h-0 text-left sm:w-full sm:min-h-0 sm:text-left'
       labelStyles: 'text-primary mg-copy-medium '
       headlineStyles: 'text-black mg-hidden '
       subheadStyles: text-primary mg-copy-medium mb-7
@@ -58,11 +67,11 @@ blocks:
     _template: embed
   - style:
       alignment: flex-col-reverse items-center gap-8
-      padding: pt-20 pb-20 pr-10 pl-10
+      padding: pt-20 pb-20 pr-32 pl-32
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
-      subheadStyles: text-black  undefined
+      subheadStyles: 'text-black undefined '
       textStyles: 'text-black mg-copy-medium '
     cardStyle:
       fillStyles: bg-white opacity-100
@@ -73,9 +82,9 @@ blocks:
       contentPadding: pt-2 pb-2 pr-2 pl-2
       borderStyles: border-primary border-1
       labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
+      headlineStyles: text-black mg-headline-small undefined
+      subheadStyles: text-black mg-copy-small undefined
+      textStyles: text-black  undefined
       buttonLayout: undefined
       buttonWidth: undefined
     label: ''
@@ -111,7 +120,7 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-start gap-12
-      padding: pt-20 pb-20 pr-10 pl-10
+      padding: pt-60 pb-20 pr-10 pl-10
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -131,6 +140,12 @@ blocks:
       textStyles: text-black mg-copy-medium undefined
       buttonLayout: undefined
       buttonWidth: undefined
+    background:
+      fillStyles: ' opacity-100'
+      ornaments:
+        - src: /uploads/bg-green-ocean.png
+          alignment: top
+          yOffset: '-180'
     label: ''
     headline: Conference Topics
     subhead: ''
@@ -140,7 +155,9 @@ blocks:
       veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
       commodo consequat.
     items:
-      - headline: Sed ut perspiciatis unde omnis iste natus sit.
+      - image:
+          src: ''
+        headline: Sed ut perspiciatis unde omnis iste natus sit.
         body: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -211,8 +228,8 @@ blocks:
     _template: accordian
   - style:
       alignment: flex-col-reverse items-start gap-6
-      padding: pt-20 pb-20 pr-10 pl-10
-      featureContent: w-1/2 min-h-0 text-left
+      padding: pt-28 pb-0 pr-10 pl-10
+      featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
@@ -220,10 +237,10 @@ blocks:
     cardStyle:
       fillStyles: bg-gray opacity-100
       grid: grid-cols-5 justify-center gap-6
-      alignment: flex-row items-start  text-center
-      image: '  undefined undefined'
+      alignment: flex-col items-start  text-center
+      image: wpx- hpx-100 object-center object-fill
       imagePadding: pt-0 pb-0 pr-0 pl-0
-      contentPadding: pt-2 pb-2 pr-2 pl-2
+      contentPadding: pt-0 pb-0 pr-0 pl-0
       borderStyles: border-white border-0
       labelStyles: text-black undefined undefined
       headlineStyles: text-black undefined undefined
@@ -231,21 +248,40 @@ blocks:
       textStyles: text-black undefined undefined
       buttonLayout: undefined
       buttonWidth: undefined
+    background:
+      fillStyles: from-accent3 to-white bg-gradient-to-b opacity-100
+      ornaments:
+        - src: /uploads/ornament-cloud.svg
+          alignment: top
+          width: '381'
+          height: '257'
+          xOffset: '-400'
+          yOffset: '50'
     label: ''
     headline: Sponsors
     subhead: ''
     body: ''
     items:
-      - body: ''
-      - body: ''
-      - headline: Headline
-        subhead: Subhead
+      - image:
+          src: /uploads/topl.svg
         body: ''
-      - headline: Headline
-        subhead: Subhead
+      - image:
+          src: /uploads/topl.svg
         body: ''
-      - headline: Headline
-        subhead: Subhead
+      - image:
+          src: /uploads/topl.svg
+        headline: ''
+        subhead: ''
+        body: ''
+      - image:
+          src: /uploads/topl.svg
+        headline: ''
+        subhead: ''
+        body: ''
+      - image:
+          src: /uploads/topl.svg
+        headline: ''
+        subhead: ''
         body: ''
     _template: cards
   - style:
@@ -257,12 +293,12 @@ blocks:
       subheadStyles: text-black undefined undefined
       textStyles: text-black undefined undefined
     cardStyle:
-      fillStyles: bg-gray opacity-100
+      fillStyles: ' opacity-100'
       grid: grid-cols-5 items-start gap-6
-      alignment: flex-row items-start  undefined
-      image: '  undefined undefined'
+      alignment: flex-col items-start  undefined
+      image: ' hpx-100 object-center object-fill'
       imagePadding: pt-0 pb-0 pr-0 pl-0
-      contentPadding: pt-2 pb-2 pr-2 pl-2
+      contentPadding: pt-0 pb-0 pr-0 pl-0
       borderStyles: border-white border-0
       labelStyles: text-black undefined undefined
       headlineStyles: text-black undefined undefined
@@ -275,22 +311,35 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - headline: Headline
-        subhead: Subhead
+      - image:
+          src: /uploads/protocol.svg
+        headline: ''
+        subhead: ''
         body: ''
-      - headline: Headline
-        subhead: Subhead
+      - image:
+          src: /uploads/filecoin.svg
+        headline: ''
+        subhead: ''
         body: ''
     _template: cards
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: pt-20 pb-20 pr-10 pl-10
+      padding: pt-0 pb-60 pr-10 pl-10
       featureImage: '  mx-auto'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
-      textStyles: text-black mg-copy-medium undefined
+      textStyles: 'text-black mg-copy-medium '
+    background:
+      fillStyles: from-accent1 to-white bg-gradient-to-t opacity-100
+      ornaments:
+        - src: /uploads/ornament-windmill.svg
+          alignment: bottom
+          width: '233'
+          height: '578'
+          xOffset: '400'
+          yOffset: '200'
     headline: Join us in Boston
     subhead: ''
     body: >
@@ -300,6 +349,7 @@ blocks:
     buttons:
       - label: Tickets
         link: '#'
+        buttonStyle: primary
     _template: feature
   - style:
       alignment: flex-col-reverse items-start gap-6
@@ -312,8 +362,8 @@ blocks:
     cardStyle:
       fillStyles: bg-primary opacity-100
       grid: grid-cols-2 items-start gap-6
-      alignment: flex-row items-start  undefined
-      image: '  undefined undefined'
+      alignment: flex-col items-start  undefined
+      image: ' hpx-300 object-center object-cover'
       imagePadding: pt-0 pb-0 pr-0 pl-0
       contentPadding: pt-2 pb-2 pr-2 pl-2
       borderStyles: border-white border-0
@@ -329,10 +379,14 @@ blocks:
     body: |
       See where we’ve been, and explore past content.
     items:
-      - headline: 'SBS LATAM Bogotá, Colombia'
+      - image:
+          src: /uploads/previous-sbs-bogota.jpg
+        headline: 'SBS LATAM Bogotá, Colombia'
         subhead: 'Oct. 12, 2022'
         body: ''
-      - headline: 'SBS EU, Paris, France'
+      - image:
+          src: /uploads/previous-sbs-paris.jpg
+        headline: 'SBS EU, Paris, France'
         subhead: 'July 22—23, 2022'
         body: ''
     navigationLabel: Past Events

@@ -4,8 +4,9 @@
   "fathomSiteId": "RBFTFNYG",
   "theme": "content/themes/protocol.md",
   "logo": {
-    "logoTypeStyle": "",
-    "image": ""
+    "logoTypeStyle": "undefined undefined ",
+    "image": "/uploads/sbs-symbol.svg",
+    "imageWidth": "60"
   },
   "nav": {
     "navAlignment": "text-right",
