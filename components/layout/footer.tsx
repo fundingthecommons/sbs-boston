@@ -13,8 +13,8 @@ const ProtocolLogo = ({className}) => {
 
 export const Footer = () => {
   return (
-    <footer className="relative bg-accent4 text-white px-16 py-16">
-      <div className="flex items-center gap-6 mb-10">
+    <footer className="relative bg-accent4 text-white p-16 sm:p-10">
+      <div className="flex items-center gap-6 mb-10 sm:flex-col sm:text-center sm:gap-8">
         <FilecoinMark className="flex-none" />
         <div className="flex-1">
           <h3 className="font-bold">The Sustainable Blockchain Summit is organized by Filecoin Green.</h3>
