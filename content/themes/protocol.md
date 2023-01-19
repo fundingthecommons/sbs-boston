@@ -30,7 +30,7 @@ typo:
       {"family":"Inter:wght@700","size":"17","lineHeight":"24","letterSpacing":"0","margin":"0","smSize":"17","smLineHeight":"24","smLetterSpacing":"0","smMargin":"0"}
   - label: Headline Large
     typography: >-
-      {"family":"Inter:wght@700","size":"36","lineHeight":"48","letterSpacing":"0","margin":"20","smSize":"36","smLineHeight":"48","smLetterSpacing":"0","smMargin":"20"}
+      {"family":"Inter:wght@700","size":"36","lineHeight":"48","letterSpacing":"0","margin":"16","smSize":"28","smLineHeight":"36","smLetterSpacing":"0","smMargin":"10"}
   - label: Hidden
     typography: >-
       {"family":"Arial","size":"0","lineHeight":"0","letterSpacing":"","margin":"","smSize":"0","smLineHeight":"0","smLetterSpacing":"","smMargin":""}

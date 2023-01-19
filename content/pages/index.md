@@ -126,8 +126,8 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-12
-      padding: 'pt-60 pb-40 pr-32 pl-32 sm:pt-60 sm:pb-40 sm:pr-5 sm:pl-5'
-      featureContent: w-full min-h-0 text-center
+      padding: 'pt-60 pb-40 pr-32 pl-32 sm:pt-60 sm:pb-14 sm:pr-5 sm:pl-5'
+      featureContent: 'w-full min-h-0 text-center sm:w-full sm:min-h-0 sm:text-left'
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
@@ -140,7 +140,7 @@ blocks:
       alignment: flex-row items-start  text-left
       image: '  object-center object-cover'
       imagePadding: pt-0 pb-0 pr-0 pl-0
-      contentPadding: pt-8 pb-8 pr-8 pl-8
+      contentPadding: pt-8 pb-0 pr-8 pl-8
       borderStyles: border-primary border-1
       labelStyles: text-black undefined undefined
       headlineStyles: text-black mg-headline-medium mb-3
@@ -243,7 +243,7 @@ blocks:
     _template: accordian
   - style:
       alignment: flex-col-reverse items-start gap-6
-      padding: pt-14 pb-0 pr-32 pl-32
+      padding: 'pt-14 pb-0 pr-32 pl-32 sm:pt-14 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -251,7 +251,9 @@ blocks:
       textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: ' opacity-100'
-      grid: grid-cols-5 justify-center gap-6
+      grid: >-
+        grid-cols-5 justify-center gap-6 sm:grid-cols-2 sm:justify-center
+        sm:gap-12
       alignment: flex-col items-start  text-center
       image: wpx- hpx-100 object-center object-fill
       imagePadding: pt-0 pb-0 pr-0 pl-0
@@ -302,7 +304,7 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
-      padding: 'pt-20 pb-20 pr-32 pl-32 sm:pt-10 sm:pb-10 sm:pr-32 sm:pl-32'
+      padding: 'pt-20 pb-20 pr-32 pl-32 sm:pt-14 sm:pb-14 sm:pr-24 sm:pl-24'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -310,10 +312,10 @@ blocks:
       textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: ' opacity-100'
-      grid: grid-cols-5 items-start gap-6
+      grid: 'grid-cols-2 items-start  sm:grid-cols-1 items-start sm:gap-12'
       alignment: flex-col items-start  undefined
-      image: ' hpx-100 object-center object-fill'
-      imagePadding: pt-0 pb-0 pr-0 pl-0
+      image: ' hpx-200 object-center object-fill'
+      imagePadding: 'pt-0 pb-0 pr-12 pl-12 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
       contentPadding: pt-0 pb-0 pr-0 pl-0
       borderStyles: border-white border-0
       labelStyles: text-black undefined undefined
@@ -379,7 +381,9 @@ blocks:
       textStyles: text-black mg-copy-medium undefined
     cardStyle:
       fillStyles: bg-primary opacity-100
-      grid: grid-cols-2 items-start gap-6
+      grid: >-
+        grid-cols-2 justify-center gap-6 sm:grid-cols-1 sm:justify-center
+        sm:gap-6
       alignment: flex-col items-start  undefined
       image: wpx- hpx-300 object-center object-cover
       imagePadding: pt-0 pb-0 pr-0 pl-0
