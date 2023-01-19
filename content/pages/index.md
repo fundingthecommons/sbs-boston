@@ -242,7 +242,7 @@ blocks:
       subheadStyles: text-black undefined undefined
       textStyles: text-black undefined undefined
     cardStyle:
-      fillStyles: bg-gray opacity-100
+      fillStyles: ' opacity-100'
       grid: grid-cols-5 justify-center gap-6
       alignment: flex-col items-start  text-center
       image: wpx- hpx-100 object-center object-fill
@@ -360,7 +360,7 @@ blocks:
     _template: feature
   - style:
       alignment: flex-col-reverse items-start gap-6
-      padding: pt-20 pb-20 pr-10 pl-10
+      padding: pt-20 pb-20 pr-32 pl-32
       featureContent: w-full min-h-0 text-left
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -370,12 +370,12 @@ blocks:
       fillStyles: bg-primary opacity-100
       grid: grid-cols-2 items-start gap-6
       alignment: flex-col items-start  undefined
-      image: ' hpx-300 object-center object-cover'
+      image: wpx- hpx-300 object-center object-cover
       imagePadding: pt-0 pb-0 pr-0 pl-0
-      contentPadding: pt-2 pb-2 pr-2 pl-2
+      contentPadding: pt-3 pb-3 pr-5 pl-5
       borderStyles: border-white border-0
       labelStyles: text-black undefined undefined
-      headlineStyles: text-white mg-headline-small undefined
+      headlineStyles: text-white mg-headline-medium mb-3
       subheadStyles: text-white mg-copy-small undefined
       textStyles: text-black undefined undefined
       buttonLayout: undefined
