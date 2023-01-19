@@ -68,7 +68,7 @@ blocks:
   - style:
       alignment: flex-col-reverse items-center gap-8
       padding: pt-20 pb-20 pr-32 pl-32
-      featureContent: w-full min-h-0 text-center
+      featureContent: w-4/5 min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: 'text-black undefined '
@@ -119,9 +119,9 @@ blocks:
     navigationLabel: Speakers
     _template: cards
   - style:
-      alignment: flex-col-reverse items-start gap-12
+      alignment: flex-col-reverse items-center gap-12
       padding: pt-60 pb-40 pr-32 pl-32
-      featureContent: w-full min-h-0 text-center
+      featureContent: w-4/5 min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
@@ -196,12 +196,12 @@ blocks:
       textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: bg-white opacity-100
-      fillStylesActive: bg-gray-light opacity-100
-      padding: pt-4 pr-4 pb-4 pl-4
-      borderStyles: border-gray border-1
-      headlineStyles: text-black
-      subheadStyles: text-black
-      textStyles: text-black
+      fillStylesActive: ' opacity-100'
+      padding: pt-4 pb-4 pr-0 pl-0
+      borderStyles: border-black border-1
+      headlineStyles: text-black mg-headline-medium undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black mg-copy-medium mb-0
     background:
       fillStyles: ' opacity-100'
       ornaments:
@@ -235,7 +235,7 @@ blocks:
     _template: accordian
   - style:
       alignment: flex-col-reverse items-start gap-6
-      padding: pt-28 pb-0 pr-10 pl-10
+      padding: pt-28 pb-0 pr-32 pl-32
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -293,7 +293,7 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
-      padding: pt-20 pb-20 pr-10 pl-10
+      padding: pt-20 pb-20 pr-32 pl-32
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -331,9 +331,9 @@ blocks:
     _template: cards
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: pt-0 pb-60 pr-10 pl-10
+      padding: pt-0 pb-60 pr-32 pl-32
       featureImage: '  mx-auto'
-      featureContent: w-full min-h-0 text-center
+      featureContent: w-4/5 min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined

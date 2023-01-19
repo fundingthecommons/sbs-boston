@@ -30,6 +30,10 @@ const borderWidth = (borderClasses) => {
   return borderWidthString.slice(lastDashIndex + 1) || ""
 }
 
+const stripTopPadding = (paddingClasses) => {
+  return paddingClasses.split(" ").filter(item => !item.includes("pt-")).join(" ")
+}
+
 const AccordianItem = ({ data, index, cardstyle, isLast, parentField = "" }) => {
   const [active, setActive] = React.useState(false);
   const borderWidthClass = isLast ? '' : `border-b-${borderWidth(cardstyle?.borderStyles)}`
@@ -50,7 +54,7 @@ const AccordianItem = ({ data, index, cardstyle, isLast, parentField = "" }) => 
       </div>
       <div className={`text-body1 lg:text-body-lg  ${borderColor(cardstyle?.borderStyles)} ${active ? '' : 'hidden'}`}>
         <div
-          className={`relative flex-1 border-box ${cardstyle?.padding}`}
+          className={`relative flex-1 border-box ${stripTopPadding(cardstyle?.padding)}`}
         >
           <div className={`absolute inset-0 -z-1`} />
           {data.subhead && (
@@ -75,8 +79,8 @@ export const Accordian = ({ data, parentField = "" }) => {
   return (
     <Section background={data.background} navigationLabel={data.navigationLabel}>
       <div className={`relative flex w-full max-w-site-full mx-auto ${style?.padding} ${style?.alignment}`}>
-        <div className={`${wrapClasses(style)}`}>
-          <div className={`rounded-xl border-${borderWidth(data.cardStyle?.borderStyles)} ${borderColor(data?.cardStyle?.borderStyles)} overflow-hidden`}>
+        <div className={`${wrapClasses(style)} border-b-${borderWidth(data.cardStyle?.borderStyles)} ${borderColor(data?.cardStyle?.borderStyles)}`}>
+          <div className={`border-t-${borderWidth(data.cardStyle?.borderStyles)} ${borderColor(data?.cardStyle?.borderStyles)} overflow-hidden`}>
               {data.items.map((item, index) => {
                 const isLast = data.items?.length === index + 1
                 return (
