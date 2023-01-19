@@ -2,9 +2,9 @@
 blocks:
   - style:
       alignment: 'flex-col items-start '
-      padding: pt-40 pb-8 pr-32 pl-32
+      padding: 'pt-40 pb-8 pr-32 pl-32 sm:pt-52 sm:pb-8 sm:pr-5 sm:pl-5'
       featureImage: '  mx-auto'
-      featureContent: w-2/5 min-h-0 text-left
+      featureContent: 'w-2/5 min-h-0 text-left sm:w-full sm:min-h-0 sm:text-left'
       labelStyles: text-black undefined undefined
       headlineStyles: text-black undefined undefined
       subheadStyles: text-black undefined undefined
@@ -26,10 +26,10 @@ blocks:
     _template: feature
   - style:
       alignment: flex-col items-start gap-6
-      padding: pt-0 pb-20 pr-32 pl-32
+      padding: 'pt-0 pb-20 pr-32 pl-32 sm:pt-0 sm:pb-20 sm:pr-5 sm:pl-5'
       featureImage: wpx-450  mr-auto
       featureContent: 'w-2/3 min-h-0 text-left sm:w-full sm:min-h-0 sm:text-left'
-      labelStyles: 'text-primary mg-copy-medium '
+      labelStyles: text-primary mg-copy-medium mb-0
       headlineStyles: 'text-black mg-hidden '
       subheadStyles: text-primary mg-copy-medium mb-7
       textStyles: text-black mg-copy-medium mb-6
@@ -67,24 +67,28 @@ blocks:
     _template: embed
   - style:
       alignment: flex-col-reverse items-center gap-8
-      padding: pt-20 pb-20 pr-32 pl-32
-      featureContent: w-4/5 min-h-0 text-center
+      padding: 'pt-20 pb-20 pr-32 pl-32 sm:pt-10 sm:pb-10 sm:pr-5 sm:pl-5'
+      featureContent: 'w-4/5 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-left'
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: 'text-black undefined '
       textStyles: 'text-black mg-copy-medium '
     cardStyle:
       fillStyles: bg-white opacity-100
-      grid: grid-cols-4 items-start gap-6
-      alignment: flex-col items-start  undefined
-      image: '  undefined undefined'
+      grid: >-
+        grid-cols-4 justify-start gap-6 sm:grid-cols-1 sm:justify-center
+        sm:gap-6
+      alignment: >-
+        flex-col items-start  undefined sm:flex-row sm:items-start sm:gap-2
+        undefined
+      image: '  undefined undefined sm:wpx-80  undefined undefined'
       imagePadding: pt-0 pb-0 pr-0 pl-0
-      contentPadding: pt-2 pb-2 pr-2 pl-2
+      contentPadding: 'pt-2 pb-2 pr-2 pl-2 sm:pt-4 sm:pb-4 sm:pr-4 sm:pl-4'
       borderStyles: border-primary border-1
       labelStyles: text-black undefined undefined
       headlineStyles: text-black mg-headline-small undefined
       subheadStyles: text-black mg-copy-small undefined
-      textStyles: text-black  undefined
+      textStyles: 'text-black undefined '
       buttonLayout: undefined
       buttonWidth: undefined
     background:
@@ -122,17 +126,19 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-12
-      padding: pt-60 pb-40 pr-32 pl-32
-      featureContent: w-4/5 min-h-0 text-center
+      padding: 'pt-60 pb-40 pr-32 pl-32 sm:pt-60 sm:pb-40 sm:pr-5 sm:pl-5'
+      featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
       textStyles: text-black mg-copy-medium undefined
     cardStyle:
       fillStyles: bg-white opacity-100
-      grid: grid-cols-2 items-start gap-6
-      alignment: flex-row items-start  undefined
-      image: '  undefined undefined'
+      grid: >-
+        grid-cols-2 justify-center gap-6 sm:grid-cols-1 sm:justify-center
+        sm:gap-6
+      alignment: flex-row items-start  text-left
+      image: '  object-center object-cover'
       imagePadding: pt-0 pb-0 pr-0 pl-0
       contentPadding: pt-8 pb-8 pr-8 pl-8
       borderStyles: border-primary border-1
@@ -190,7 +196,7 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
-      padding: pt-48 pb-20 pr-32 pl-32
+      padding: 'pt-48 pb-20 pr-32 pl-32 sm:pt-20 sm:pb-20 sm:pr-5 sm:pl-5'
       featureContent: w-full min-h-0 text-left
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -237,7 +243,7 @@ blocks:
     _template: accordian
   - style:
       alignment: flex-col-reverse items-start gap-6
-      padding: pt-28 pb-0 pr-32 pl-32
+      padding: pt-14 pb-0 pr-32 pl-32
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -296,7 +302,7 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
-      padding: pt-20 pb-20 pr-32 pl-32
+      padding: 'pt-20 pb-20 pr-32 pl-32 sm:pt-10 sm:pb-10 sm:pr-32 sm:pl-32'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -334,7 +340,7 @@ blocks:
     _template: cards
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: pt-0 pb-60 pr-32 pl-32
+      padding: 'pt-0 pb-60 pr-32 pl-32 sm:pt-0 sm:pb-14 sm:pr-5 sm:pl-5'
       featureImage: '  mx-auto'
       featureContent: w-4/5 min-h-0 text-center
       labelStyles: text-black undefined undefined
@@ -365,7 +371,7 @@ blocks:
     _template: feature
   - style:
       alignment: flex-col-reverse items-start gap-6
-      padding: pt-20 pb-20 pr-32 pl-32
+      padding: 'pt-20 pb-20 pr-32 pl-32 sm:pt-14 sm:pb-14 sm:pr-5 sm:pl-5'
       featureContent: w-full min-h-0 text-left
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
