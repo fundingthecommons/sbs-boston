@@ -87,6 +87,8 @@ blocks:
       textStyles: text-black  undefined
       buttonLayout: undefined
       buttonWidth: undefined
+    background:
+      fillStyles: ' opacity-100'
     label: ''
     headline: Previous Speakers
     subhead: ''
@@ -256,14 +258,15 @@ blocks:
       buttonLayout: undefined
       buttonWidth: undefined
     background:
-      fillStyles: from-accent3 to-white bg-gradient-to-b opacity-100
+      fillStyles: ' opacity-100'
+      src: /uploads/bg-gradient-slant-blue.svg
       ornaments:
         - src: /uploads/ornament-cloud.svg
           alignment: top
-          width: '381'
-          height: '257'
-          xOffset: '-400'
-          yOffset: '50'
+          width: '250'
+          height: ''
+          xOffset: '-440'
+          yOffset: '0'
     label: ''
     headline: Sponsors
     subhead: ''
@@ -339,14 +342,16 @@ blocks:
       subheadStyles: text-black undefined undefined
       textStyles: 'text-black mg-copy-medium '
     background:
-      fillStyles: from-accent1 to-white bg-gradient-to-t opacity-100
+      fillStyles: ' opacity-100'
+      src: /uploads/bg-gradient-slant-green.svg
+      position: object-right-bottom
       ornaments:
         - src: /uploads/ornament-windmill.svg
           alignment: bottom
-          width: '233'
-          height: '578'
+          width: '200'
+          height: ''
           xOffset: '400'
-          yOffset: '200'
+          yOffset: '220'
     headline: Join us in Boston
     subhead: ''
     body: >
