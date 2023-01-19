@@ -151,10 +151,9 @@ export const Layout = ({ rawData, data = layoutData, children }) => {
 
   function typographyClass(obj, isMobile: boolean) {
     const typography = JSON.parse(obj?.typography)
-    const mobilePrefix = isMobile ? 'sm\\:' : ''
     if (!obj.label) return
     return `
-      .${mobilePrefix}mg-${slugify(obj.label)} {
+      .mg-${slugify(obj.label)} {
         font-family: "${justFontFamily(typography?.family)}";
         font-weight: ${justFontWeight(typography?.family)};
         font-size: ${isMobile ? typography?.smSize : typography?.size}px;
@@ -276,7 +275,7 @@ export const Layout = ({ rawData, data = layoutData, children }) => {
           {children}
           <Blocks blocks={global.blocks} />
         </div>
-        <Footer globalData={global} />
+        <Footer />
       </div>
     </>
   );
