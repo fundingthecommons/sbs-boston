@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import { Header } from "./header";
+import { Footer } from "./footer";
 import { Blocks } from "../../components/blocks-renderer";
 import layoutData from "../../content/global/index.json";
 
@@ -275,6 +276,7 @@ export const Layout = ({ rawData, data = layoutData, children }) => {
           {children}
           <Blocks blocks={global.blocks} />
         </div>
+        <Footer globalData={global} />
       </div>
     </>
   );
