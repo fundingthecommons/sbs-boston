@@ -405,7 +405,13 @@ blocks:
     _template: cards
 backgroundColor: white
 meta:
-  title: PL Network Events
-  description: A listing of all PL Network events
+  title: SBS Boston | April 13-14 2023
+  description: >-
+    We bring together experts and enthusiasts in ReFi, Energy Systems, Carbon
+    Markets, and Cryptoeconomics for discussions and networking. Our focus is on
+    measuring and reducing the environmental impact of blockchains, using web3
+    tools to regenerate the natural world, improving governance to benefit those
+    affected by climate change, and broadening our ambitions to include all
+    planetary boundaries.
 ---
 
