@@ -165,12 +165,10 @@ blocks:
     items:
       - image:
           src: ''
-        headline: Sed ut perspiciatis unde omnis iste natus sit.
+        headline: Decarbonizing Crypto
         body: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Let’s measure the impact of web3 systems, deeply decarbonize them, and
+          prove it!
       - headline: Sed ut perspiciatis unde omnis iste natus sit.
         subhead: ''
         body: >
@@ -424,5 +422,6 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
