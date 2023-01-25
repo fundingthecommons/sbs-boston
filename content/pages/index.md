@@ -60,10 +60,7 @@ blocks:
       fullWidth: false
       minHeight: undefined
       padding: pt-20 pb-20 undefined undefined
-    markup: >-
-      <div class="p-8">Join us at SBS Boston to tackle pressing questions like
-      reducing environmental impact, regenerating the natural world and
-      uplifting marginalized communities.</div>
+    markup: please delete this section!
     _template: embed
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -417,6 +414,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
