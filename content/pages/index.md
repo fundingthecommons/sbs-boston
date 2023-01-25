@@ -222,9 +222,11 @@ blocks:
           Anyone with a .edu email address can claim the complimentary EDU
           ticket. You must register using your .edu email address for
           verification.
-      - headline: What does the ticket include?
+      - headline: Where can I find the agenda?
         subhead: ''
-        text: ''
+        text: >
+          The agenda will be announced soon. Keep an eye out on this website for
+          updates.
       - headline: Can I organize a side event?
         subhead: ''
         text: ''
@@ -416,6 +418,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
