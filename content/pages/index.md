@@ -232,9 +232,10 @@ blocks:
         text: >
           Please email requests about press passes to
           [sbs-boston@protocol.ai](mailto:sbs-boston@protocol.ai)
-      - headline: How do I reach the organizers?
+      - headline: Is there a dress code?
         subhead: ''
-        text: ''
+        text: |
+          No.
     navigationLabel: FAQ
     _template: accordian
   - style:
@@ -420,6 +421,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
