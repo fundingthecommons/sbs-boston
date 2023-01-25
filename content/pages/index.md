@@ -241,6 +241,8 @@ blocks:
           Yes, complimentary wifi will be available to all registered attendees.
           The wifi network username and password will be distributed through
           various materials and signage throughout the event.
+      - headline: How do I reach the organizers?
+        text: "Please reach out to\_ [sbs-boston@protocol.ai](mailto:sbs-boston@protocol.ai) with any questions or suggestions.\n"
     navigationLabel: FAQ
     _template: accordian
   - style:
@@ -426,6 +428,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
