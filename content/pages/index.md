@@ -179,13 +179,12 @@ blocks:
         body: >
           How can open, publicly verifiable data help us understand what is in a
           carbon offset and what its impact is?
-      - headline: Sed ut perspiciatis unde omnis iste natus sit.
+      - headline: Biodiversity
         subhead: ''
         body: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          The world is rapidly waking up to the biodiversity crisis. What role
+          can web3 play in helping us to measure biodiversity and mobilize
+          resources to protect it?
     navigationLabel: Schedule
     _template: cards
   - style:
@@ -418,6 +417,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
