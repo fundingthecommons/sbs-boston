@@ -174,13 +174,11 @@ blocks:
         body: >
           How can we build an inclusive, regenerative economy, using tools like
           supply chain traceability and measure-to-earn programs?
-      - headline: Sed ut perspiciatis unde omnis iste natus sit.
+      - headline: Transparency in Carbon Offsets
         subhead: ''
         body: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          How can open, publicly verifiable data help us understand what is in a
+          carbon offset and what its impact is?
       - headline: Sed ut perspiciatis unde omnis iste natus sit.
         subhead: ''
         body: >
@@ -420,6 +418,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
