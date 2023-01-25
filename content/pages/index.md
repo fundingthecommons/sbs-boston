@@ -227,9 +227,11 @@ blocks:
         text: >
           The agenda will be announced soon. Keep an eye out on this website for
           updates.
-      - headline: Can I organize a side event?
+      - headline: Are there press passes?
         subhead: ''
-        text: ''
+        text: >
+          Please email requests about press passes to
+          [sbs-boston@protocol.ai](mailto:sbs-boston@protocol.ai)
       - headline: How do I reach the organizers?
         subhead: ''
         text: ''
@@ -418,6 +420,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
