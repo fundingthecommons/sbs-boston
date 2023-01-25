@@ -217,8 +217,11 @@ blocks:
           All tickets include entry to the full 2-day event, access to all talks
           and workshops, meals including breakfast, lunch, happy hour, plus
           exclusive SBB swag.
-      - headline: Sounds great! How do I participate?
-        text: ''
+      - headline: Who is eligible for the EDU Ticket?
+        text: >
+          Anyone with a .edu email address can claim the complimentary EDU
+          ticket. You must register using your .edu email address for
+          verification.
       - headline: What does the ticket include?
         subhead: ''
         text: ''
@@ -413,6 +416,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
