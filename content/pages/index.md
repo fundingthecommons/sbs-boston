@@ -236,6 +236,11 @@ blocks:
         subhead: ''
         text: |
           There is no dress code.
+      - headline: Will there be Wi-Fi at the event?
+        text: >
+          Yes, complimentary wifi will be available to all registered attendees.
+          The wifi network username and password will be distributed through
+          various materials and signage throughout the event.
     navigationLabel: FAQ
     _template: accordian
   - style:
@@ -421,6 +426,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
