@@ -158,10 +158,10 @@ blocks:
     headline: Conference Topics
     subhead: ''
     body: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+      At SBS Boston, we'll together tackle pressing questions like reducing
+      environmental impact, regenerating the natural world, and uplifting
+      marginalized communities. Here are some other important areas where we’ll
+      focus our attention.
     items:
       - image:
           src: ''
@@ -417,6 +417,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
