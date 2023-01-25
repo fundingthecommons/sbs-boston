@@ -212,12 +212,11 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - headline: Who is it for? Why should I attend?
+      - headline: What does my ticket include?
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis,
-          est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio
-          sem nec elit. Donec sed odio dui. Nullam id dolor id nibh ultricies
-          vehicula ut id elit.
+          All tickets include entry to the full 2-day event, access to all talks
+          and workshops, meals including breakfast, lunch, happy hour, plus
+          exclusive SBB swag.
       - headline: Sounds great! How do I participate?
         text: ''
       - headline: What does the ticket include?
@@ -414,6 +413,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
