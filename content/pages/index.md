@@ -115,7 +115,7 @@ blocks:
         subhead: Zumo
         body: ''
       - image:
-          src: /uploads/avatar.jpg
+          src: /uploads/paula-palermo.png
         headline: Paula Palermo
         subhead: Impacta Finance
         body: ''
@@ -450,6 +450,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
