@@ -135,6 +135,9 @@ blocks:
         subhead: Gitcoin
       - headline: Rim Jeong
         subhead: Forest Protocol
+      - headline: Alan Ransil
+        subhead: Filecoin Green
+        body: ''
     navigationLabel: Speakers
     _template: cards
   - style:
@@ -447,6 +450,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
