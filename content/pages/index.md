@@ -39,7 +39,7 @@ blocks:
       src: /uploads/sbs-boston-logo.svg
     label: 'April 13 - 14, 2023'
     headline: SBS Boston
-    subhead: 'The Tower, Boston, MA'
+    subhead: 'The Tower, Boston USA'
     body: >
       We bring together experts and enthusiasts in ReFi, Energy Systems, Carbon
       Markets, and Cryptoeconomics for discussions and networking. Our focus is
