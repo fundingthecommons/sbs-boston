@@ -131,6 +131,8 @@ blocks:
       - headline: Sage Shelton
         subhead: ReSci Network
         body: ''
+      - headline: Kevin Owocki
+        subhead: Gitcoin
     navigationLabel: Speakers
     _template: cards
   - style:
@@ -443,6 +445,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
