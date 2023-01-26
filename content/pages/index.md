@@ -123,20 +123,27 @@ blocks:
           src: /uploads/michael-casey.jpeg
         headline: Michael Casey
         subhead: Coindesk
+        body: ''
       - headline: Steven Haft
         subhead: Consensus
+        body: ''
       - headline: Sharfy Adamantine
         subhead: Gainforest
         body: ''
       - headline: Alex Paris
         subhead: UN Climate Change
-      - headline: Sage Shelton
+        body: ''
+      - image:
+          src: ''
+        headline: Sage Shelton
         subhead: ReSci Network
         body: ''
       - headline: Kevin Owocki
         subhead: Gitcoin
+        body: ''
       - headline: Rim Jeong
         subhead: Forest Protocol
+        body: ''
       - headline: Alan Ransil
         subhead: Filecoin Green
         body: ''
@@ -452,6 +459,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
