@@ -121,6 +121,8 @@ blocks:
         body: ''
       - headline: Michael Casey
         subhead: Coindesk
+      - headline: Steven Haft
+        subhead: Consensus
     navigationLabel: Speakers
     _template: cards
   - style:
@@ -433,6 +435,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
