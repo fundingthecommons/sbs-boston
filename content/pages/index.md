@@ -39,7 +39,7 @@ blocks:
       src: /uploads/sbs-boston-logo.svg
     label: 'April 13 - 14, 2023'
     headline: SBS Boston
-    subhead: 'Kresge Complex??, MIT campus'
+    subhead: 'The Tower, Boston, MA'
     body: >
       We bring together experts and enthusiasts in ReFi, Energy Systems, Carbon
       Markets, and Cryptoeconomics for discussions and networking. Our focus is
@@ -459,6 +459,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
