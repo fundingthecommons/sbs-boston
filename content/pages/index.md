@@ -119,7 +119,9 @@ blocks:
         headline: Paula Palermo
         subhead: Impacta Finance
         body: ''
-      - headline: Michael Casey
+      - image:
+          src: /uploads/michael-casey.jpeg
+        headline: Michael Casey
         subhead: Coindesk
       - headline: Steven Haft
         subhead: Consensus
@@ -450,6 +452,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
