@@ -123,6 +123,8 @@ blocks:
         subhead: Coindesk
       - headline: Steven Haft
         subhead: Consensus
+      - headline: Sharfy Adamantine
+        subhead: Rainforest
     navigationLabel: Speakers
     _template: cards
   - style:
@@ -435,6 +437,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
