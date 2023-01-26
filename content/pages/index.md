@@ -105,7 +105,7 @@ blocks:
         subhead: Global Carbon Reward
         body: ''
       - image:
-          src: /uploads/avatar.jpg
+          src: /uploads/juan-benet.jpg
         headline: Juan Benet
         subhead: Protocol Labs
         body: ''
@@ -450,6 +450,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
