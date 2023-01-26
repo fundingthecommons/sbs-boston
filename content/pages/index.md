@@ -124,7 +124,8 @@ blocks:
       - headline: Steven Haft
         subhead: Consensus
       - headline: Sharfy Adamantine
-        subhead: Rainforest
+        subhead: Gainforest
+        body: ''
     navigationLabel: Speakers
     _template: cards
   - style:
