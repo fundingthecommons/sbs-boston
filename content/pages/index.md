@@ -128,6 +128,9 @@ blocks:
         body: ''
       - headline: Alex Paris
         subhead: UN Climate Change
+      - headline: Sage Shelton
+        subhead: ReSci Network
+        body: ''
     navigationLabel: Speakers
     _template: cards
   - style:
@@ -440,6 +443,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
