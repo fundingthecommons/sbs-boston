@@ -133,6 +133,8 @@ blocks:
         body: ''
       - headline: Kevin Owocki
         subhead: Gitcoin
+      - headline: Rim Jeong
+        subhead: Forest Protocol
     navigationLabel: Speakers
     _template: cards
   - style:
@@ -445,6 +447,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
