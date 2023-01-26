@@ -126,6 +126,8 @@ blocks:
       - headline: Sharfy Adamantine
         subhead: Gainforest
         body: ''
+      - headline: Alex Paris
+        subhead: UN Climate Change
     navigationLabel: Speakers
     _template: cards
   - style:
@@ -438,6 +440,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
