@@ -57,12 +57,6 @@ blocks:
     navigationLabel: Tickets
     _template: feature
   - style:
-      fullWidth: false
-      minHeight: undefined
-      padding: pt-20 pb-20 undefined undefined
-    markup: please delete this section!
-    _template: embed
-  - style:
       alignment: flex-col-reverse items-center gap-8
       padding: 'pt-20 pb-20 pr-32 pl-32 sm:pt-10 sm:pb-10 sm:pr-5 sm:pl-5'
       featureContent: 'w-4/5 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-left'
@@ -459,6 +453,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
