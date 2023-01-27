@@ -14,10 +14,10 @@ blocks:
       src: ''
       position: object-right-top
       ornaments:
-        - src: /uploads/bg-cherry-blossoms.jpg
+        - src: /uploads/cherry_blossoms.jpg
           alignment: top
           width: '900'
-          xOffset: '200'
+          xOffset: '240'
     headline: ''
     subhead: ''
     body: >
@@ -339,7 +339,7 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
-      padding: 'pt-20 pb-20 pr-32 pl-32 sm:pt-14 sm:pb-14 sm:pr-24 sm:pl-24'
+      padding: 'pt-20 pb-0 pr-32 pl-32 sm:pt-14 sm:pb-0 sm:pr-24 sm:pl-24'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -375,9 +375,12 @@ blocks:
         subhead: ''
         body: ''
     _template: cards
+  - image:
+      src: /uploads/george-washington-statue.jpg
+    _template: fullImage
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: 'pt-0 pb-60 pr-32 pl-32 sm:pt-0 sm:pb-14 sm:pr-5 sm:pl-5'
+      padding: 'pt-20 pb-60 pr-32 pl-32 sm:pt-10 sm:pb-14 sm:pr-5 sm:pl-5'
       featureImage: '  mx-auto'
       featureContent: w-4/5 min-h-0 text-center
       labelStyles: text-black undefined undefined
@@ -459,39 +462,4 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
