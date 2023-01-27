@@ -57,6 +57,12 @@ blocks:
     navigationLabel: Tickets
     _template: feature
   - style:
+      fullWidth: false
+      minHeight: undefined
+      padding: pt-20 pb-20 undefined undefined
+    markup: please delete this section!
+    _template: embed
+  - style:
       alignment: flex-col-reverse items-center gap-8
       padding: 'pt-20 pb-20 pr-32 pl-32 sm:pt-10 sm:pb-10 sm:pr-5 sm:pl-5'
       featureContent: 'w-4/5 min-h-0 text-center sm:w-full sm:min-h-0 sm:text-left'
@@ -70,9 +76,9 @@ blocks:
         grid-cols-4 justify-start gap-6 sm:grid-cols-1 sm:justify-center
         sm:gap-6
       alignment: >-
-        flex-col items-start  undefined sm:flex-row sm:items-start sm:gap-2
-        undefined
-      image: '  undefined undefined sm:wpx-80  undefined undefined'
+        flex-col items-start  text-left sm:flex-row sm:items-start sm:gap-2
+        sm:text-left
+      image: ' hpx-220 object-center object-cover sm:wpx-80  sm:object-center sm:object-cover'
       imagePadding: pt-0 pb-0 pr-0 pl-0
       contentPadding: 'pt-2 pb-2 pr-2 pl-2 sm:pt-4 sm:pb-4 sm:pr-4 sm:pl-4'
       borderStyles: border-primary border-1
@@ -453,6 +459,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
