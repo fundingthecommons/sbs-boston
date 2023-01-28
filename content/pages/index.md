@@ -272,7 +272,7 @@ blocks:
     _template: accordian
   - style:
       alignment: flex-col-reverse items-start gap-6
-      padding: 'pt-14 pb-0 pr-32 pl-32 sm:pt-14 sm:pb-0 sm:pr-10 sm:pl-10'
+      padding: 'pt-24 pb-0 pr-32 pl-32 sm:pt-14 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -333,7 +333,7 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
-      padding: 'pt-20 pb-0 pr-32 pl-32 sm:pt-14 sm:pb-0 sm:pr-24 sm:pl-24'
+      padding: 'pt-20 pb-0 pr-24 pl-24 sm:pt-14 sm:pb-0 sm:pr-24 sm:pl-24'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -341,8 +341,8 @@ blocks:
       textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: ' opacity-100'
-      grid: 'grid-cols-2 items-start  sm:grid-cols-1 items-start sm:gap-12'
-      alignment: flex-col items-start  undefined
+      grid: 'grid-cols-3 justify-center  sm:grid-cols-1 sm:justify-center sm:gap-12'
+      alignment: flex-col items-start  text-left
       image: ' hpx-200 object-center object-fill'
       imagePadding: 'pt-0 pb-0 pr-12 pl-12 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
       contentPadding: pt-0 pb-0 pr-0 pl-0
