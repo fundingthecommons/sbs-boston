@@ -9,6 +9,7 @@ import { embedBlockSchema } from "../components/blocks/embed";
 import { tailwindFeatureBlockSchema } from "../components/blocks/tailwind-feature"
 import { tailwindCardsBlockSchema } from "../components/blocks/tailwind-cards"
 import { fullImageBlockSchema } from "../components/blocks/full-image";
+import { videoBlockSchema } from "../components/blocks/video";
 import { eventTimelineBlockSchema } from "../components/blocks/event-timeline"
 
 // Collections
@@ -73,6 +74,7 @@ const config = defineStaticConfig({
               tailwindCardsBlockSchema,
               eventTimelineBlockSchema,
               fullImageBlockSchema,
+              videoBlockSchema,
             ],
           },
           {

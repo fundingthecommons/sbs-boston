@@ -7,6 +7,7 @@ import { TailwindFeature } from "./blocks/tailwind-feature";
 import { TailwindCards } from "./blocks/tailwind-cards";
 import { EventTimeline } from "./blocks/event-timeline";
 import { FullImage } from "./blocks/full-image";
+import { Video } from "./blocks/video";
 
 export const Blocks = (props: any) => {
   return (
@@ -83,7 +84,16 @@ export const Blocks = (props: any) => {
                     data-tinafield={`blocks.${i}`}
                     key={i + block.__typename}
                   >
-                    <FullImage data={block} events={props.events} parentField={`blocks.${i}`} />
+                    <FullImage data={block} parentField={`blocks.${i}`} />
+                  </div>
+                );
+              case "PageBlocksVideo":
+                return (
+                  <div
+                    data-tinafield={`blocks.${i}`}
+                    key={i + block.__typename}
+                  >
+                    <Video data={block} parentField={`blocks.${i}`} />
                   </div>
                 );
               default:
