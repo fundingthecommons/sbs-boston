@@ -397,6 +397,7 @@ blocks:
         headline: ''
         subhead: ''
         body: ''
+        link: 'https://protocol.ai/'
       - image:
           src: /uploads/filecoin-foundation-logo-blue.svg
         headline: ''
@@ -490,6 +491,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
