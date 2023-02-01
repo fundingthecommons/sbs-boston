@@ -137,7 +137,7 @@ blocks:
         subhead: Gainforest
         body: ''
       - image:
-          src: /uploads/alex-paris.jpeg
+          src: /uploads/alex-paris.jpg
         headline: Alex Paris
         subhead: UN Climate Change
         body: ''
@@ -513,6 +513,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
