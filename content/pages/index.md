@@ -252,6 +252,9 @@ blocks:
       sustainability into a Web3 superpower, and we need your help! Join the SBS
       Boston Hackathon as we aim to connect sustainability enthusiasts and web3
       developers to design and produce high-quality, substantive prototypes.
+    buttons:
+      - label: Apply to hack
+        link: 'https://sbsboston.devpost.com/'
     _template: feature
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -515,6 +518,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
