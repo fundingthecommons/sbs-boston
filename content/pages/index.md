@@ -257,7 +257,7 @@ blocks:
     _template: feature
   - style:
       alignment: 'flex-row items-center '
-      padding: pt-6 pb-20 pr-10 pl-10
+      padding: pt-0 pb-20 pr-10 pl-10
       featureImage: '  mx-auto'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
@@ -529,6 +529,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
