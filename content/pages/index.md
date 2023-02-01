@@ -255,6 +255,7 @@ blocks:
     buttons:
       - label: Apply to hack
         link: 'https://sbsboston.devpost.com/'
+        buttonStyle: primary
     _template: feature
   - style:
       alignment: flex-col-reverse items-center gap-6
