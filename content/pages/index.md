@@ -157,7 +157,7 @@ blocks:
         subhead: Forest Protocol
         body: ''
       - image:
-          src: /uploads/alan-ransil.jpeg
+          src: /uploads/alan-ransil.jpg
         headline: Alan Ransil
         subhead: Filecoin Green
         body: ''
@@ -513,12 +513,4 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
-
-
-
-
-
-
-
-
 
