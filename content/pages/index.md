@@ -392,12 +392,12 @@ blocks:
     body: ''
     items:
       - image:
-          src: /uploads/filecoin-foundation-logo-blue.svg
+          src: /uploads/protocol-labs-logo-blue.svg
         headline: ''
         subhead: ''
         body: ''
       - image:
-          src: /uploads/filecoin.svg
+          src: /uploads/filecoin-foundation-logo-blue.svg
         headline: ''
         subhead: ''
         body: ''
@@ -489,6 +489,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
