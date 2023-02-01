@@ -102,7 +102,7 @@ blocks:
       SBS Boston speaker lineup to be announced soon.
     items:
       - image:
-          src: /uploads/delton-chen-sq.png
+          src: /uploads/delton-chen.jpg
         headline: Delton Chen
         subhead: Global Carbon Reward
         body: ''
@@ -511,6 +511,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
