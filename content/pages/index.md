@@ -122,7 +122,7 @@ blocks:
         subhead: Impacta Finance
         body: ''
       - image:
-          src: /uploads/michael-casey.jpeg
+          src: /uploads/HOOKE3647.width-250.jpg
         headline: Michael Casey
         subhead: Coindesk
         body: ''
@@ -511,6 +511,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
