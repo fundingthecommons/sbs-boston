@@ -358,6 +358,7 @@ blocks:
     items:
       - image:
           src: /uploads/UNCC-United-Nations-Climate-Change-logo-blue.svg
+        body: ''
       - image:
           src: /uploads/UNCC-United-Nations-Climate-Change-logo.svg
         label: ''
@@ -391,7 +392,7 @@ blocks:
     body: ''
     items:
       - image:
-          src: /uploads/protocol.svg
+          src: /uploads/filecoin-foundation-logo-blue.svg
         headline: ''
         subhead: ''
         body: ''
@@ -488,6 +489,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
