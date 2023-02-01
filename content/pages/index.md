@@ -136,7 +136,7 @@ blocks:
         subhead: UN Climate Change
         body: ''
       - image:
-          src: ''
+          src: /uploads/sage-shelton.jpg
         headline: Sage Shelton
         subhead: ReSci Network
         body: ''
@@ -512,6 +512,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
