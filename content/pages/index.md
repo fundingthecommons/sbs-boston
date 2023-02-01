@@ -487,6 +487,7 @@ blocks:
         headline: 'SBS LATAM Bogotá, Colombia'
         subhead: 'Oct. 12, 2022'
         body: ''
+        link: 'https://latam22.sbs.tech/'
       - image:
           src: /uploads/previous-sbs-paris.jpg
         headline: 'SBS EU, Paris, France'
@@ -507,6 +508,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
