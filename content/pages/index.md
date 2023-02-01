@@ -25,21 +25,6 @@ blocks:
       global economy with the natural world.
     _template: feature
   - style:
-      alignment: flex-row items-center gap-0
-      padding: pt-20 pb-20 pr-10 pl-10
-      featureImage: mx-auto
-      featureContent: w-1/2 min-h-0 text-left
-      labelStyles: text-black
-      headlineStyles: text-black
-      subheadStyles: text-black
-      textStyles: text-black
-    headline: ''
-    subhead: ''
-    buttons:
-      - label: Sponsor SBS Boston
-        buttonStyle: primary
-    _template: feature
-  - style:
       alignment: flex-col items-start gap-6
       padding: 'pt-0 pb-10 pr-32 pl-32 sm:pt-0 sm:pb-20 sm:pr-5 sm:pl-5'
       featureImage: wpx-450  mr-auto
@@ -416,6 +401,21 @@ blocks:
         body: ''
         link: 'https://fil.org/'
     _template: cards
+  - style:
+      alignment: 'flex-row items-center '
+      padding: pt-20 pb-20 pr-10 pl-10
+      featureImage: '  mx-auto'
+      featureContent: w-full min-h-0 text-center
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black undefined undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
+    headline: ''
+    subhead: ''
+    buttons:
+      - label: Sponsor SBS Boston
+        buttonStyle: primary
+    _template: feature
   - image:
       src: /uploads/george-washington-statue.jpg
     _template: fullImage
@@ -503,6 +503,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
