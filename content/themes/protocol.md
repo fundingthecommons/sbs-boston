@@ -41,7 +41,7 @@ buttons:
   - label: Minor
     fill: ' opacity-100'
     typography: >-
-      {"color":"accent2","family":"Inter:wght@900","size":"18","lineHeight":"16","letterSpacing":"0","smSize":"18","smLineHeight":"16","smLetterSpacing":"0"}
+      {"color":"primary","family":"Inconsolata:wght@400","size":"18","lineHeight":"16","letterSpacing":"0","smSize":"18","smLineHeight":"16","smLetterSpacing":"0"}
     padding: pt-3.5 pb-3.5 undefined pl-6
     primaryBorder: border-white border-0
     primaryRounded: undefined
@@ -54,6 +54,7 @@ buttons:
     primaryRounded: rounded-none
 linkColor: primary
 ---
+
 
 
 
