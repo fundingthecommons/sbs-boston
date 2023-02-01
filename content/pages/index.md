@@ -237,7 +237,7 @@ blocks:
     _template: cards
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: pt-0 pb-40 pr-32 pl-32
+      padding: pt-0 pb-0 pr-32 pl-32
       featureImage: '  mx-auto'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
@@ -254,14 +254,14 @@ blocks:
       developers to design and produce high-quality, substantive prototypes.
     _template: feature
   - style:
-      alignment: flex-row items-center gap-0
-      padding: pt-20 pb-20 pr-10 pl-10
-      featureImage: mx-auto
-      featureContent: w-1/2 min-h-0 text-left
-      labelStyles: text-black
-      headlineStyles: text-black
-      subheadStyles: text-black
-      textStyles: text-black
+      alignment: 'flex-row items-center '
+      padding: pt-6 pb-20 pr-10 pl-10
+      featureImage: '  mx-auto'
+      featureContent: w-full min-h-0 text-center
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black undefined undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
     headline: ''
     subhead: ''
     buttons:
@@ -531,6 +531,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
