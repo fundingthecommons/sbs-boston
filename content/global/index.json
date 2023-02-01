@@ -16,7 +16,7 @@
       }
     ],
     "navAlignment": "text-right",
-    "navTypeStyle": "text-accent2 mg-body-sm ",
+    "navTypeStyle": "text-accent2 mg-copy-medium  sm:text-white mg-copy-medium sm:",
     "navBackgroundColor": "bg-primary opacity-100",
     "padding": "pt-7 pb-10 pr-10 pl-8"
   }
