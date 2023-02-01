@@ -61,8 +61,8 @@ blocks:
       Join us at SBS Boston to tackle pressing questions like reducing
       environmental impact, regenerating the natural world, and uplifting
       marginalized communities.
-    textStyles: text-white mg-video-overlay mb-0
-    padding: 'undefined undefined pr-28 pl-28 undefined undefined sm:pr-10 sm:pl-10'
+    textStyles: 'text-white mg-video-overlay  sm:text-white undefined sm:'
+    padding: undefined undefined pr-20 pl-20
     _template: video
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -142,7 +142,7 @@ blocks:
         subhead: UN Climate Change
         body: ''
       - image:
-          src: /uploads/sage-shelton.jpg
+          src: /uploads/sage-shelton2.jpg
         headline: Sage Shelton
         subhead: ReSci Network
         body: ''
@@ -243,7 +243,7 @@ blocks:
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black mg-headline-medium undefined
-      textStyles: text-black mg-copy-medium undefined
+      textStyles: text-black undefined undefined
     headline: Hackathon
     subhead: >-
       Students, join the SBS Boston Virtual Hackathon: February 20 – April 2,
@@ -518,6 +518,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
