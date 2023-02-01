@@ -41,10 +41,10 @@ buttons:
   - label: Minor
     fill: ' opacity-100'
     typography: >-
-      {"color":"text-primary","family":"Inter:wght@400","size":"18","lineHeight":"16","letterSpacing":"0","smSize":"18","smLineHeight":"16","smLetterSpacing":"0"}
-    padding: pt-3.5 pb-3.5 undefined undefined
+      {"color":"accent2","family":"Inter:wght@700","size":"16","lineHeight":"16","letterSpacing":"0","smSize":"16","smLineHeight":"16","smLetterSpacing":"0"}
+    padding: pt-3.5 pb-3.5 pr-4 pl-4
     primaryBorder: border-white border-0
-    primaryRounded: undefined
+    primaryRounded: rounded-none
   - label: Primary
     fill: bg-primary opacity-100
     typography: >-
