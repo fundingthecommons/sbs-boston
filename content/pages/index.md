@@ -296,7 +296,7 @@ blocks:
     _template: accordian
   - style:
       alignment: 'flex-row-reverse items-center '
-      padding: pt-20 pb-20 pr-10 pl-10
+      padding: pt-0 pb-20 pr-32 pl-32
       featureImage: '  mx-auto'
       featureContent: w-1/2 min-h-0 text-left
       labelStyles: text-black undefined undefined
@@ -492,6 +492,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
