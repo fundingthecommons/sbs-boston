@@ -145,7 +145,9 @@ blocks:
         headline: Kevin Owocki
         subhead: Gitcoin
         body: ''
-      - headline: Rim Jeong
+      - image:
+          src: /uploads/rim-jeong.jpg
+        headline: Rim Jeong
         subhead: Forest Protocol
         body: ''
       - image:
@@ -510,6 +512,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
