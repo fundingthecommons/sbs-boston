@@ -319,7 +319,7 @@ blocks:
     _template: accordian
   - style:
       alignment: flex-col-reverse items-start gap-6
-      padding: 'pt-24 pb-0 pr-32 pl-32 sm:pt-14 sm:pb-0 sm:pr-10 sm:pl-10'
+      padding: 'pt-24 pb-9 pr-32 pl-32 sm:pt-14 sm:pb-6 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -360,10 +360,6 @@ blocks:
           src: /uploads/UNCC-United-Nations-Climate-Change-logo-blue.svg
         body: ''
         link: ''
-      - image:
-          src: /uploads/UNCC-United-Nations-Climate-Change-logo.svg
-        label: ''
-        body: ''
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -492,6 +488,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
