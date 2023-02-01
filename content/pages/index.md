@@ -148,7 +148,9 @@ blocks:
       - headline: Rim Jeong
         subhead: Forest Protocol
         body: ''
-      - headline: Alan Ransil
+      - image:
+          src: /uploads/alan-ransil.jpg
+        headline: Alan Ransil
         subhead: Filecoin Green
         body: ''
     navigationLabel: Speakers
@@ -508,6 +510,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
