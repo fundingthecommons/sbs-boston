@@ -62,7 +62,7 @@ blocks:
       environmental impact, regenerating the natural world, and uplifting
       marginalized communities.
     textStyles: 'text-white mg-video-overlay  sm:text-white undefined sm:'
-    padding: undefined undefined pr-40 pl-40
+    padding: undefined undefined pr-20 pl-20
     _template: video
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -237,7 +237,7 @@ blocks:
     _template: cards
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: pt-0 pb-0 pr-32 pl-32
+      padding: pt-0 pb-40 pr-32 pl-32
       featureImage: '  mx-auto'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
@@ -252,22 +252,6 @@ blocks:
       sustainability into a Web3 superpower, and we need your help! Join the SBS
       Boston Hackathon as we aim to connect sustainability enthusiasts and web3
       developers to design and produce high-quality, substantive prototypes.
-    _template: feature
-  - style:
-      alignment: 'flex-row items-center '
-      padding: pt-6 pb-20 pr-10 pl-10
-      featureImage: '  mx-auto'
-      featureContent: w-full min-h-0 text-center
-      labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-    headline: ''
-    subhead: ''
-    buttons:
-      - label: Apply to hack
-        link: 'https://sbsboston.devpost.com/'
-        buttonStyle: primary
     _template: feature
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -324,10 +308,6 @@ blocks:
         text: >
           Please email requests about press passes to
           [sbs-boston@protocol.ai](mailto:sbs-boston@protocol.ai)
-      - headline: Is there a dress code?
-        subhead: ''
-        text: |
-          There is no dress code.
       - headline: Will there be Wi-Fi at the event?
         text: >
           Yes, complimentary wifi will be available to all registered attendees.
@@ -438,7 +418,7 @@ blocks:
     body: ''
     buttons:
       - label: Inquire about SBS Boston Sponsorship
-        link: 'mailto:sbs-sponsor@protocol.ai'
+        link: 'https://airtable.com/shr5furygEMRLAn1h'
         buttonStyle: primary
     _template: feature
   - image:
@@ -531,6 +511,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
