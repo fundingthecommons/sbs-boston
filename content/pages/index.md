@@ -245,16 +245,13 @@ blocks:
       subheadStyles: text-black mg-headline-medium undefined
       textStyles: text-black undefined undefined
     headline: Hackathon
-    subhead: >-
-      Students, join the SBS Boston Virtual Hackathon: February 20 – April 2,
-      2023
+    subhead: 'Join the SBS Boston Virtual Hackathon: February 20 – April 2, 2023'
     body: >
-      As a student, there’s never been a more exciting time to help shape the
-      future of sustainability through Web3 than now. Filecoin Green aims to
-      turn sustainability into a Web3 superpower, and we need your help! Come
-      join the sustainability blockchain hackathon as we aim to connect
-      sustainability enthusiasts and web3 developers to design and produce
-      high-quality, substantive prototypes.
+      There’s never been a more exciting time to help shape the future of
+      sustainability through Web3 than now. Filecoin Green aims to turn
+      sustainability into a Web3 superpower, and we need your help! Join the SBS
+      Boston Hackathon as we aim to connect sustainability enthusiasts and web3
+      developers to design and produce high-quality, substantive prototypes.
     _template: feature
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -518,6 +515,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
