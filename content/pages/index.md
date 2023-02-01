@@ -54,6 +54,9 @@ blocks:
         link: '#'
         buttonStyle: primary
         fathomId: ''
+      - label: Apply to speak
+        link: 'https://airtable.com/shraw5RmmT5VzCGNS'
+        buttonStyle: minor
     navigationLabel: Tickets
     _template: feature
   - src: sbs-boston-loop.mp4
@@ -102,7 +105,7 @@ blocks:
       SBS Boston speaker lineup to be announced soon.
     items:
       - image:
-          src: /uploads/delton-chen-sq.png
+          src: /uploads/delton-chen.jpg
         headline: Delton Chen
         subhead: Global Carbon Reward
         body: ''
@@ -112,17 +115,17 @@ blocks:
         subhead: Protocol Labs
         body: ''
       - image:
-          src: /uploads/kirsteen-harrison.png
+          src: /uploads/avatar.jpg
         headline: Kirsteen Harrison
         subhead: Zumo
         body: ''
       - image:
-          src: /uploads/paula-palermo.png
+          src: /uploads/Screen_Shot_2022-07-08_at_2.02.19_PM_skwhh9.png
         headline: Paula Palermo
         subhead: Impacta Finance
         body: ''
       - image:
-          src: /uploads/michael-casey.jpeg
+          src: /uploads/HOOKE3647.width-250.jpg
         headline: Michael Casey
         subhead: Coindesk
         body: ''
@@ -237,7 +240,7 @@ blocks:
     _template: cards
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: pt-0 pb-40 pr-32 pl-32
+      padding: pt-0 pb-6 pr-32 pl-32
       featureImage: '  mx-auto'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
@@ -252,6 +255,23 @@ blocks:
       sustainability into a Web3 superpower, and we need your help! Join the SBS
       Boston Hackathon as we aim to connect sustainability enthusiasts and web3
       developers to design and produce high-quality, substantive prototypes.
+    _template: feature
+  - style:
+      alignment: 'flex-row items-center '
+      padding: pt-0 pb-20 pr-10 pl-10
+      featureImage: '  mx-auto'
+      featureContent: w-full min-h-0 text-center
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black undefined undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
+    headline: ''
+    subhead: ''
+    body: ''
+    buttons:
+      - label: Apply to hack
+        link: 'https://sbsboston.devpost.com/'
+        buttonStyle: primary
     _template: feature
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -308,10 +328,6 @@ blocks:
         text: >
           Please email requests about press passes to
           [sbs-boston@protocol.ai](mailto:sbs-boston@protocol.ai)
-      - headline: Is there a dress code?
-        subhead: ''
-        text: |
-          There is no dress code.
       - headline: Will there be Wi-Fi at the event?
         text: >
           Yes, complimentary wifi will be available to all registered attendees.
@@ -422,7 +438,7 @@ blocks:
     body: ''
     buttons:
       - label: Inquire about SBS Boston Sponsorship
-        link: 'mailto:sbs-sponsor@protocol.ai'
+        link: 'https://airtable.com/shr5furygEMRLAn1h'
         buttonStyle: primary
     _template: feature
   - image:
@@ -515,6 +531,21 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
