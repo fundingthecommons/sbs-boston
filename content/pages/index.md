@@ -56,6 +56,7 @@ blocks:
         fathomId: ''
       - label: Apply to speak
         link: 'https://airtable.com/shraw5RmmT5VzCGNS'
+        buttonStyle: minor
     navigationLabel: Tickets
     _template: feature
   - src: sbs-boston-loop.mp4
@@ -266,6 +267,7 @@ blocks:
       textStyles: text-black undefined undefined
     headline: ''
     subhead: ''
+    body: ''
     buttons:
       - label: Apply to hack
         link: 'https://sbsboston.devpost.com/'
@@ -529,6 +531,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
