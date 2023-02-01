@@ -471,7 +471,7 @@ blocks:
       contentPadding: pt-3 pb-3 pr-5 pl-5
       borderStyles: border-white border-0
       labelStyles: text-black undefined undefined
-      headlineStyles: text-white mg-headline-medium mb-3
+      headlineStyles: 'text-white mg-headline-medium '
       subheadStyles: text-white mg-copy-small undefined
       textStyles: text-black undefined undefined
       buttonLayout: undefined
@@ -492,6 +492,7 @@ blocks:
         headline: 'SBS EU, Paris, France'
         subhead: 'July 22—23, 2022'
         body: ''
+        link: 'https://paris22.sbs.tech/'
     navigationLabel: Past Events
     _template: cards
 backgroundColor: white
@@ -506,6 +507,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
