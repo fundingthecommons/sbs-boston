@@ -61,7 +61,7 @@ blocks:
       Join us at SBS Boston to tackle pressing questions like reducing
       environmental impact, regenerating the natural world, and uplifting
       marginalized communities.
-    textStyles: 'text-white mg-video-overlay  sm:text-white mg-hidden sm:'
+    textStyles: 'text-white mg-video-overlay  sm:text-white undefined sm:'
     padding: undefined undefined pr-20 pl-20
     _template: video
   - style:
@@ -178,9 +178,18 @@ blocks:
     background:
       fillStyles: ' opacity-100'
       ornaments:
-        - src: /uploads/bg-green-ocean.png
+        - video: waves.mp4
           alignment: top
+          width: '720'
+          height: '480'
+          xOffset: '-900'
           yOffset: '-180'
+        - src: /uploads/green-ramp.svg
+          alignment: top
+          width: '2800'
+          height: '804'
+          xOffset: '0'
+          yOffset: '-220'
     label: ''
     headline: Conference Topics
     subhead: ''
@@ -233,10 +242,17 @@ blocks:
     background:
       fillStyles: ' opacity-100'
       ornaments:
-        - src: /uploads/bg-blue-windmills.png
+        - video: windmills.mp4
           alignment: top
+          width: '720'
+          height: '480'
+          xOffset: '200'
+          yOffset: '-210'
+        - src: /uploads/blue-ramp.svg
+          alignment: top
+          width: ''
           xOffset: ''
-          yOffset: '-200'
+          yOffset: '-345'
     label: ''
     headline: FAQ
     subhead: ''

@@ -50,6 +50,10 @@ export const Section = ({
               "left": "0,-50%",
               "top-left": "0,0"
             };
+            const videoWrapStyle = {
+              width: `${ornament.width}px`,
+              height: `${ornament.height}px`,
+            };
             const imgStyle = {
               width: `${ornament.width}px`,
               height: `${ornament.height}px`,
@@ -58,13 +62,22 @@ export const Section = ({
             };
             const element = (
               <div className={`absolute ${anchorPosition[ornament.alignment]}`} style={wrapStyle} key={index} >
-                <img
-                  className="absolute"
-                  src={ornament.src}
-                  style={imgStyle}
-                  width={ornament.width}
-                  height={ornament.height}
-                />
+                  {ornament.video && (
+                    <div style={videoWrapStyle}>
+                      <video width={ornament.width} height={ornament.height} autoPlay loop muted>
+                        <source src={`/uploads/${ornament.video}`} type="video/mp4" />
+                      </video>
+                    </div>
+                  )}
+                  {!ornament.video && ornament.src && (
+                    <img
+                      className="absolute"
+                      src={ornament.src}
+                      style={imgStyle}
+                      width={ornament.width}
+                      height={ornament.height}
+                    />
+                  )}
               </div>
             )
             return element

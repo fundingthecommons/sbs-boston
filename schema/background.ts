@@ -43,11 +43,23 @@ export const backgroundSchema = {
       name: 'ornaments',
       type: "object",
       list: true,
+      ui: {
+        component: "itemListField",
+      },
       fields: [
         {
           label: "Image",
           name: "src",
           type: "image",
+          ui: {
+            clearable: true,
+          }
+        },
+        {
+          label: "Video",
+          description: "Video will override image that is set, this is the file name of the uploaded file.",
+          name: "video",
+          type: "string",
           ui: {
             clearable: true,
           }
