@@ -147,7 +147,7 @@ blocks:
         subhead: ReSci Network
         body: ''
       - image:
-          src: /uploads/kevin-owocki.jpg
+          src: /uploads/kevin-owocki-sq.jpg
         headline: Kevin Owocki
         subhead: Gitcoin
         body: ''
@@ -518,6 +518,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
