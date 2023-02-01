@@ -129,7 +129,9 @@ blocks:
       - headline: Steven Haft
         subhead: Consensus
         body: ''
-      - headline: Sharfy Adamantine
+      - image:
+          src: /uploads/sharfy-adamantine.jpg
+        headline: Sharfy Adamantine
         subhead: Gainforest
         body: ''
       - image:
@@ -514,6 +516,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
