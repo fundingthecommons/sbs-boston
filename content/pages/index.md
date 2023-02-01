@@ -126,23 +126,17 @@ blocks:
         headline: Michael Casey
         subhead: Coindesk
         body: ''
-      - image:
-          src: /uploads/steven-haft.jpg
-        headline: Steven Haft
+      - headline: Steven Haft
         subhead: Consensus
         body: ''
-      - image:
-          src: /uploads/sharfy-adamantine.jpg
-        headline: Sharfy Adamantine
+      - headline: Sharfy Adamantine
         subhead: Gainforest
         body: ''
-      - image:
-          src: /uploads/alex-paris.jpg
-        headline: Alex Paris
+      - headline: Alex Paris
         subhead: UN Climate Change
         body: ''
       - image:
-          src: /uploads/sage-shelton.jpg
+          src: ''
         headline: Sage Shelton
         subhead: ReSci Network
         body: ''
@@ -151,14 +145,10 @@ blocks:
         headline: Kevin Owocki
         subhead: Gitcoin
         body: ''
-      - image:
-          src: /uploads/rim-jeong.jpg
-        headline: Rim Jeong
+      - headline: Rim Jeong
         subhead: Forest Protocol
         body: ''
-      - image:
-          src: /uploads/alan-ransil.jpg
-        headline: Alan Ransil
+      - headline: Alan Ransil
         subhead: Filecoin Green
         body: ''
     navigationLabel: Speakers
@@ -513,6 +503,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
