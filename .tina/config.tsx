@@ -64,6 +64,7 @@ const config = defineStaticConfig({
             label: "Sections",
             ui: {
               visualSelector: true,
+              component: "sectionListItems",
             },
             templates: [
               featureBlockSchema,
