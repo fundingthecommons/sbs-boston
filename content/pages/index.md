@@ -132,7 +132,9 @@ blocks:
       - headline: Sharfy Adamantine
         subhead: Gainforest
         body: ''
-      - headline: Alex Paris
+      - image:
+          src: /uploads/alex-paris.jpg
+        headline: Alex Paris
         subhead: UN Climate Change
         body: ''
       - image:
@@ -512,6 +514,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
