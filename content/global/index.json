@@ -9,9 +9,15 @@
     "imageWidth": "60"
   },
   "nav": {
+    "navItems": [
+      {
+        "label": "Hackathon",
+        "link": "https://sbsboston.devpost.com/?preview_token=Co%2B4ly%2BeNv4Gpw3W%2FhuXIhH9dVyRIihNVQeQQTKhILk%3D"
+      }
+    ],
     "navAlignment": "text-right",
-    "navTypeStyle": "text-accent2 mg-copy-medium  sm:text-white mg-copy-medium sm:",
-    "navBackgroundColor": "bg-primary opacity-100",
+    "navTypeStyle": "text-accent2 mg-body-sm ",
+    "navBackgroundColor": " opacity-100",
     "padding": "pt-7 pb-10 pr-10 pl-8"
   }
 }
