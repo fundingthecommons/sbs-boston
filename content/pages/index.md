@@ -373,9 +373,9 @@ blocks:
       textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: ' opacity-100'
-      grid: 'grid-cols-3 justify-center  sm:grid-cols-1 sm:justify-center sm:gap-12'
+      grid: 'grid-cols-2 justify-center  sm:grid-cols-1 sm:justify-center sm:gap-12'
       alignment: flex-col items-start  text-left
-      image: ' hpx-200 object-center object-fill'
+      image: ' hpx-194 object-center object-fill'
       imagePadding: 'pt-0 pb-0 pr-12 pl-12 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
       contentPadding: pt-0 pb-0 pr-0 pl-0
       borderStyles: border-white border-0
@@ -488,6 +488,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
