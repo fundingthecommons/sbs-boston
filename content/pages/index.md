@@ -62,7 +62,7 @@ blocks:
       environmental impact, regenerating the natural world, and uplifting
       marginalized communities.
     textStyles: 'text-white mg-video-overlay  sm:text-white undefined sm:'
-    padding: undefined undefined pr-20 pl-20
+    padding: undefined undefined pr-40 pl-40
     _template: video
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -531,6 +531,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
