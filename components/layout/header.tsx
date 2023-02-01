@@ -157,14 +157,14 @@ export const Header = ({
                   const subNavItems = item.subNavItems || null
                   if (subNavItems) {
                     return (
-                      <li className="relative inline-block ml-6" key={index}>
+                      <li className="relative inline-block bg-white px-4 py-1 ml-4" key={index}>
                         <Dropdown item={item} />
                       </li>
                     )
                   } else {
                     return (
-                      <li className="inline-block ml-8" key={index}>
-                        <a style={linkStyles} className={"block no-underline"} href={item.link} target={linkTarget(item.link)}>{item.label}</a>
+                      <li className="inline-block bg-white px-4 py-1 ml-4" key={index}>
+                        <a className={"block no-underline"} href={item.link} target={linkTarget(item.link)}>{item.label}</a>
                       </li>
                     )
                   }
