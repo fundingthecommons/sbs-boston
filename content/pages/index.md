@@ -403,6 +403,7 @@ blocks:
         headline: ''
         subhead: ''
         body: ''
+        link: 'https://fil.org/'
     _template: cards
   - image:
       src: /uploads/george-washington-statue.jpg
@@ -491,6 +492,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
