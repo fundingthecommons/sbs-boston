@@ -295,6 +295,18 @@ blocks:
     navigationLabel: FAQ
     _template: accordian
   - style:
+      alignment: flex-row items-center gap-0
+      padding: pt-20 pb-20 pr-10 pl-10
+      featureImage: mx-auto
+      featureContent: w-1/2 min-h-0 text-left
+      labelStyles: text-black
+      headlineStyles: text-black
+      subheadStyles: text-black
+      textStyles: text-black
+    headline: Hackathon
+    subhead: Subhead
+    _template: feature
+  - style:
       alignment: flex-col-reverse items-start gap-6
       padding: 'pt-24 pb-0 pr-32 pl-32 sm:pt-14 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
@@ -480,4 +492,5 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
