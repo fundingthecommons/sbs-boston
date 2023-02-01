@@ -126,23 +126,17 @@ blocks:
         headline: Michael Casey
         subhead: Coindesk
         body: ''
-      - image:
-          src: /uploads/steven-haft.jpg
-        headline: Steven Haft
+      - headline: Steven Haft
         subhead: Consensus
         body: ''
-      - image:
-          src: /uploads/sharfy-adamantine.jpg
-        headline: Sharfy Adamantine
+      - headline: Sharfy Adamantine
         subhead: Gainforest
         body: ''
-      - image:
-          src: /uploads/alex-paris.jpg
-        headline: Alex Paris
+      - headline: Alex Paris
         subhead: UN Climate Change
         body: ''
       - image:
-          src: /uploads/sage-shelton.jpg
+          src: ''
         headline: Sage Shelton
         subhead: ReSci Network
         body: ''
@@ -151,14 +145,10 @@ blocks:
         headline: Kevin Owocki
         subhead: Gitcoin
         body: ''
-      - image:
-          src: /uploads/rim-jeong.jpg
-        headline: Rim Jeong
+      - headline: Rim Jeong
         subhead: Forest Protocol
         body: ''
-      - image:
-          src: /uploads/alan-ransil.jpg
-        headline: Alan Ransil
+      - headline: Alan Ransil
         subhead: Filecoin Green
         body: ''
     navigationLabel: Speakers
@@ -237,7 +227,7 @@ blocks:
     _template: cards
   - style:
       alignment: 'flex-col-reverse items-center '
-      padding: 'pt-0 pb-40 pr-32 pl-32 sm:pt-0 sm:pb-10 sm:pr-5 sm:pl-5'
+      padding: pt-0 pb-40 pr-32 pl-32
       featureImage: '  mx-auto'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
@@ -362,12 +352,12 @@ blocks:
           xOffset: '-440'
           yOffset: '0'
     label: ''
-    headline: Sponsors
+    headline: Supporters
     subhead: ''
     body: ''
     items:
       - image:
-          src: /uploads/topl.svg
+          src: /uploads/UNCC-United-Nations-Climate-Change-logo.svg
         body: ''
       - image:
           src: /uploads/topl.svg
@@ -390,7 +380,7 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
-      padding: 'pt-20 pb-0 pr-24 pl-24 sm:pt-14 sm:pb-10 sm:pr-10 sm:pl-10'
+      padding: 'pt-20 pb-0 pr-24 pl-24 sm:pt-14 sm:pb-0 sm:pr-24 sm:pl-24'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -398,7 +388,7 @@ blocks:
       textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: ' opacity-100'
-      grid: 'grid-cols-3 justify-center  sm:grid-cols-2 sm:justify-center sm:gap-12'
+      grid: 'grid-cols-3 justify-center  sm:grid-cols-1 sm:justify-center sm:gap-12'
       alignment: flex-col items-start  text-left
       image: ' hpx-200 object-center object-fill'
       imagePadding: 'pt-0 pb-0 pr-12 pl-12 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
@@ -513,4 +503,5 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
