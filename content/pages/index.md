@@ -412,6 +412,7 @@ blocks:
       textStyles: text-black undefined undefined
     headline: ''
     subhead: ''
+    body: ''
     buttons:
       - label: Inquire about SBS Boston Sponsorship
         link: 'mailto:sbs-sponsor@protocol.ai'
@@ -504,6 +505,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
