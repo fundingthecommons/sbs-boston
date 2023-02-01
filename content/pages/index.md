@@ -256,6 +256,22 @@ blocks:
       developers to design and produce high-quality, substantive prototypes.
     _template: feature
   - style:
+      alignment: flex-row items-center gap-0
+      padding: pt-20 pb-20 pr-10 pl-10
+      featureImage: mx-auto
+      featureContent: w-1/2 min-h-0 text-left
+      labelStyles: text-black
+      headlineStyles: text-black
+      subheadStyles: text-black
+      textStyles: text-black
+    headline: ''
+    subhead: ''
+    buttons:
+      - label: Apply to hack
+        link: 'https://sbsboston.devpost.com/'
+        buttonStyle: primary
+    _template: feature
+  - style:
       alignment: flex-col-reverse items-center gap-6
       padding: 'pt-48 pb-20 pr-32 pl-32 sm:pt-20 sm:pb-20 sm:pr-5 sm:pl-5'
       featureContent: w-full min-h-0 text-left
@@ -513,6 +529,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
