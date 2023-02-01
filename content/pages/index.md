@@ -359,7 +359,7 @@ blocks:
       - image:
           src: /uploads/UNCC-United-Nations-Climate-Change-logo-blue.svg
         body: ''
-        link: 'https://www.un.org/en/climatechange'
+        link: ''
       - image:
           src: /uploads/UNCC-United-Nations-Climate-Change-logo.svg
         label: ''
@@ -492,6 +492,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
