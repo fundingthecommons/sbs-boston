@@ -153,7 +153,7 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-12
-      padding: 'pt-60 pb-40 pr-32 pl-32 sm:pt-60 sm:pb-14 sm:pr-5 sm:pl-5'
+      padding: 'pt-60 pb-16 pr-32 pl-32 sm:pt-60 sm:pb-14 sm:pr-5 sm:pl-5'
       featureContent: 'w-full min-h-0 text-center sm:w-full sm:min-h-0 sm:text-left'
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -223,6 +223,18 @@ blocks:
           resources to protect it?
     navigationLabel: Schedule
     _template: cards
+  - style:
+      alignment: 'flex-row-reverse items-center '
+      padding: pt-0 pb-20 pr-32 pl-32
+      featureImage: '  mx-auto'
+      featureContent: w-1/2 min-h-0 text-left
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-primary mg-headline-large undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
+    headline: Hackathon
+    subhead: Subhead
+    _template: feature
   - style:
       alignment: flex-col-reverse items-center gap-6
       padding: 'pt-48 pb-20 pr-32 pl-32 sm:pt-20 sm:pb-20 sm:pr-5 sm:pl-5'
@@ -294,18 +306,6 @@ blocks:
           Yes!
     navigationLabel: FAQ
     _template: accordian
-  - style:
-      alignment: 'flex-row-reverse items-center '
-      padding: pt-0 pb-20 pr-32 pl-32
-      featureImage: '  mx-auto'
-      featureContent: w-1/2 min-h-0 text-left
-      labelStyles: text-black undefined undefined
-      headlineStyles: text-primary mg-headline-large undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-    headline: Hackathon
-    subhead: Subhead
-    _template: feature
   - style:
       alignment: flex-col-reverse items-start gap-6
       padding: 'pt-24 pb-0 pr-32 pl-32 sm:pt-14 sm:pb-0 sm:pr-10 sm:pl-10'
@@ -492,6 +492,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
