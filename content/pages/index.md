@@ -102,7 +102,7 @@ blocks:
       SBS Boston speaker lineup to be announced soon.
     items:
       - image:
-          src: /uploads/delton-chen.jpg
+          src: /uploads/delton-chen-sq.png
         headline: Delton Chen
         subhead: Global Carbon Reward
         body: ''
@@ -112,53 +112,41 @@ blocks:
         subhead: Protocol Labs
         body: ''
       - image:
-          src: /uploads/kirsteen-harrison.jpg
+          src: /uploads/kirsteen-harrison.png
         headline: Kirsteen Harrison
         subhead: Zumo
         body: ''
       - image:
-          src: /uploads/paula-palermo.jpg
+          src: /uploads/paula-palermo.png
         headline: Paula Palermo
         subhead: Impacta Finance
         body: ''
       - image:
-          src: /uploads/michael-casey.jpg
+          src: /uploads/michael-casey.jpeg
         headline: Michael Casey
         subhead: Coindesk
         body: ''
-      - image:
-          src: /uploads/steven-haft.jpg
-        headline: Steven Haft
+      - headline: Steven Haft
         subhead: Consensus
         body: ''
-      - image:
-          src: /uploads/sharfy-adamantine.jpg
-        headline: Sharfy Adamantine
+      - headline: Sharfy Adamantine
         subhead: Gainforest
         body: ''
-      - image:
-          src: /uploads/alex-paris.jpg
-        headline: Alex Paris
+      - headline: Alex Paris
         subhead: UN Climate Change
         body: ''
       - image:
-          src: /uploads/sage-shelton.jpg
+          src: ''
         headline: Sage Shelton
         subhead: ReSci Network
         body: ''
-      - image:
-          src: /uploads/kevin-owocki.jpg
-        headline: Kevin Owocki
+      - headline: Kevin Owocki
         subhead: Gitcoin
         body: ''
-      - image:
-          src: /uploads/rim-jeong.jpg
-        headline: Rim Jeong
+      - headline: Rim Jeong
         subhead: Forest Protocol
         body: ''
-      - image:
-          src: /uploads/alan-ransil.jpg
-        headline: Alan Ransil
+      - headline: Alan Ransil
         subhead: Filecoin Green
         body: ''
     navigationLabel: Speakers
@@ -236,10 +224,10 @@ blocks:
     navigationLabel: Schedule
     _template: cards
   - style:
-      alignment: 'flex-row-reverse items-center '
+      alignment: 'flex-col-reverse items-center '
       padding: pt-0 pb-40 pr-32 pl-32
       featureImage: '  mx-auto'
-      featureContent: w-1/2 min-h-0 text-left
+      featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black mg-headline-medium undefined
@@ -513,4 +501,5 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
