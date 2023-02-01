@@ -157,7 +157,7 @@ blocks:
         subhead: Forest Protocol
         body: ''
       - image:
-          src: /uploads/alan-ransil.jpg
+          src: /uploads/alan-ransil-PL2.jpg
         headline: Alan Ransil
         subhead: Filecoin Green
         body: ''
@@ -518,6 +518,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
