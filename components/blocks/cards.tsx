@@ -316,6 +316,9 @@ export const cardsBlockSchema: any = {
       label: "Cards",
       name: "items",
       list: true,
+      ui: {
+        component: "itemListField",
+      },
       fields: [
         imageSchema,
         ...contentSchema,

@@ -102,7 +102,7 @@ blocks:
       SBS Boston speaker lineup to be announced soon.
     items:
       - image:
-          src: /uploads/delton-chen-sq.png
+          src: /uploads/delton-chen.jpg
         headline: Delton Chen
         subhead: Global Carbon Reward
         body: ''
@@ -111,22 +111,22 @@ blocks:
         headline: Juan Benet
         subhead: Protocol Labs
         body: ''
-      - image:
-          src: /uploads/kirsteen-harrison.png
-        headline: Kirsteen Harrison
+      - headline: Kirsteen Harrison
         subhead: Zumo
         body: ''
       - image:
-          src: /uploads/paula-palermo.png
+          src: /uploads/paula-palermo.jpg
         headline: Paula Palermo
         subhead: Impacta Finance
         body: ''
       - image:
-          src: /uploads/michael-casey.jpeg
+          src: /uploads/michael-casey.jpg
         headline: Michael Casey
         subhead: Coindesk
         body: ''
-      - headline: Steven Haft
+      - image:
+          src: /uploads/steven-haft.jpg
+        headline: Steven Haft
         subhead: Consensus
         body: ''
       - headline: Sharfy Adamantine
