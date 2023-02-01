@@ -146,10 +146,14 @@ blocks:
         headline: Sage Shelton
         subhead: ReSci Network
         body: ''
-      - headline: Kevin Owocki
+      - image:
+          src: /uploads/kevin-owocki.jpg
+        headline: Kevin Owocki
         subhead: Gitcoin
         body: ''
-      - headline: Rim Jeong
+      - image:
+          src: /uploads/rim-jeong.jpg
+        headline: Rim Jeong
         subhead: Forest Protocol
         body: ''
       - image:
@@ -509,6 +513,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
