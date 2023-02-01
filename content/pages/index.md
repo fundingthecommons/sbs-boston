@@ -61,8 +61,8 @@ blocks:
       Join us at SBS Boston to tackle pressing questions like reducing
       environmental impact, regenerating the natural world, and uplifting
       marginalized communities.
-    textStyles: 'text-white mg-video-overlay  sm:text-white undefined sm:'
-    padding: undefined undefined pr-20 pl-20
+    textStyles: text-white mg-video-overlay mb-0
+    padding: 'undefined undefined pr-28 pl-28 undefined undefined sm:pr-10 sm:pl-10'
     _template: video
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -243,7 +243,7 @@ blocks:
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black mg-headline-medium undefined
-      textStyles: text-black undefined undefined
+      textStyles: text-black mg-copy-medium undefined
     headline: Hackathon
     subhead: >-
       Students, join the SBS Boston Virtual Hackathon: February 20 – April 2,
