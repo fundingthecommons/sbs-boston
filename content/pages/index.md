@@ -111,7 +111,9 @@ blocks:
         headline: Juan Benet
         subhead: Protocol Labs
         body: ''
-      - headline: Kirsteen Harrison
+      - image:
+          src: /uploads/kirsteen-harrison.jpg
+        headline: Kirsteen Harrison
         subhead: Zumo
         body: ''
       - image:
@@ -129,14 +131,18 @@ blocks:
         headline: Steven Haft
         subhead: Consensus
         body: ''
-      - headline: Sharfy Adamantine
+      - image:
+          src: /uploads/sharfy-adamantine.jpg
+        headline: Sharfy Adamantine
         subhead: Gainforest
         body: ''
-      - headline: Alex Paris
+      - image:
+          src: /uploads/alex-paris.jpeg
+        headline: Alex Paris
         subhead: UN Climate Change
         body: ''
       - image:
-          src: ''
+          src: /uploads/sage-shelton.jpg
         headline: Sage Shelton
         subhead: ReSci Network
         body: ''
@@ -146,7 +152,9 @@ blocks:
       - headline: Rim Jeong
         subhead: Forest Protocol
         body: ''
-      - headline: Alan Ransil
+      - image:
+          src: /uploads/alan-ransil.jpeg
+        headline: Alan Ransil
         subhead: Filecoin Green
         body: ''
     navigationLabel: Speakers
@@ -501,6 +509,7 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
 
