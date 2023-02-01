@@ -126,7 +126,9 @@ blocks:
         headline: Michael Casey
         subhead: Coindesk
         body: ''
-      - headline: Steven Haft
+      - image:
+          src: /uploads/steven-haft.jpg
+        headline: Steven Haft
         subhead: Consensus
         body: ''
       - image:
@@ -516,6 +518,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
