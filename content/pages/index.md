@@ -359,24 +359,6 @@ blocks:
       - image:
           src: /uploads/UNCC-United-Nations-Climate-Change-logo.svg
         body: ''
-      - image:
-          src: /uploads/topl.svg
-        body: ''
-      - image:
-          src: /uploads/topl.svg
-        headline: ''
-        subhead: ''
-        body: ''
-      - image:
-          src: /uploads/topl.svg
-        headline: ''
-        subhead: ''
-        body: ''
-      - image:
-          src: /uploads/topl.svg
-        headline: ''
-        subhead: ''
-        body: ''
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -503,5 +485,6 @@ meta:
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
 ---
+
 
 
