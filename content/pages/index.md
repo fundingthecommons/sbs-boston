@@ -117,7 +117,7 @@ blocks:
         subhead: Zumo
         body: ''
       - image:
-          src: /uploads/paula-palermo.png
+          src: /uploads/Screen_Shot_2022-07-08_at_2.02.19_PM_skwhh9.png
         headline: Paula Palermo
         subhead: Impacta Finance
         body: ''
@@ -511,6 +511,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
