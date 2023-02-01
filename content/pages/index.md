@@ -132,7 +132,7 @@ blocks:
         subhead: Consensus
         body: ''
       - image:
-          src: /uploads/sharfy-adamantine.jpg
+          src: /uploads/sharfy-adamantine2.jpg
         headline: Sharfy Adamantine
         subhead: Gainforest
         body: ''
@@ -518,6 +518,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
