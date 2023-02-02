@@ -335,9 +335,6 @@ blocks:
           various materials and signage throughout the event.
       - headline: How do I reach the organizers?
         text: "Please reach out to\_ [sbs-boston@protocol.ai](mailto:sbs-boston@protocol.ai) with any questions or suggestions.\n"
-      - headline: Do you offset carbon emissions for attendees?
-        text: |
-          Yes!
     navigationLabel: FAQ
     _template: accordian
   - style:
@@ -531,6 +528,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
