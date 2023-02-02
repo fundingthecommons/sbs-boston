@@ -283,7 +283,7 @@ blocks:
       textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: ' opacity-100'
-      grid: grid-cols-3 items-start gap-6
+      grid: 'grid-cols-2 items-start gap-6 sm:grid-cols-1 items-start sm:gap-6'
       alignment: flex-row items-start  undefined
       image: '  undefined undefined'
       imagePadding: pt-0 pb-0 pr-0 pl-0
@@ -571,6 +571,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
