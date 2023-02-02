@@ -41,7 +41,8 @@ buttons:
   - label: Minor
     fill: ' opacity-100'
     typography: >-
-      {"color":"primary","family":"Inter:wght@700","size":"19","lineHeight":"16","letterSpacing":"0","smSize":"16","smLineHeight":"16","smLetterSpacing":"0"}
+      {"color":"gray-dark","family":"IM Fell English
+      SC:wght@400","size":"19","lineHeight":"16","letterSpacing":"0","smSize":"16","smLineHeight":"16","smLetterSpacing":"0"}
     padding: pt-3.5 pb-3.5 pr-4 pl-4
     primaryBorder: border-white border-0
     primaryRounded: rounded-none
@@ -54,6 +55,7 @@ buttons:
     primaryRounded: rounded-none
 linkColor: primary
 ---
+
 
 
 
