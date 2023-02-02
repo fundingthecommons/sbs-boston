@@ -49,6 +49,9 @@ blocks:
       planetary boundaries. Join the world’s premiere forum at the intersection
       of web3 and the biosphere to help us answer these questions together.
     buttons:
+      - label: 〈 Apply to hack 〉
+        link: >-
+          https://sbsboston.devpost.com/?ref_feature=challenge&ref_medium=discover
       - label: Tickets
         link: '#'
         buttonStyle: primary
@@ -535,6 +538,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
