@@ -259,20 +259,6 @@ blocks:
       we aim to connect sustainability enthusiasts and web3 developers to design
       and produce high-quality, substantive prototypes — no coding experience
       required.
-
-
-      \
-
-      Virtual Hackathon
-
-
-      Feb 20 - April 4, 2023
-
-
-      Hybrid Conference
-
-
-      April 13 - 14, 2023 / The Tower, Boston USA”
     _template: feature
   - style:
       alignment: flex-row items-center gap-0
@@ -285,6 +271,7 @@ blocks:
       textStyles: text-black
     headline: Headline
     subhead: Subhead
+    body: ''
     _template: feature
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -313,12 +300,14 @@ blocks:
     label: ''
     headline: ''
     subhead: ''
+    body: ''
     items:
       - headline: Virtual Hackathon
         subhead: 'Feb 20 - April 4, 2023'
         body: ''
       - headline: Hybrid Conference
         subhead: 'April 13 - 14, 2023 | The Tower, Boston USA'
+        body: ''
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -582,6 +571,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
