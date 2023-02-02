@@ -507,6 +507,8 @@ blocks:
         headline: SBS @ SXSW
         subhead: 'March 13, 2022'
         body: ''
+        link: >-
+          https://www.youtube.com/playlist?list=PL_0VrY55uV1_aJWwOGFchnpgzm3rdQbaQ
       - image:
           src: /uploads/SBS_Montana stage_-009.jpg
         headline: 'SBS LATAM Bogotá, Colombia'
