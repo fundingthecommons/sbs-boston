@@ -251,9 +251,9 @@ blocks:
       textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: ' opacity-100'
-      grid: grid-cols-2 items-start gap-6
-      alignment: flex-row items-start  undefined
-      image: '  undefined undefined'
+      grid: grid-cols-2 justify-center gap-6
+      alignment: flex-row items-start  text-left
+      image: '  object-center object-fill'
       imagePadding: pt-0 pb-0 pr-0 pl-0
       contentPadding: pt-8 pb-0 pr-8 pl-8
       borderStyles: border-primary border-1
@@ -292,6 +292,7 @@ blocks:
       textStyles: text-black undefined undefined
     headline: ''
     subhead: ''
+    body: ''
     buttons:
       - label: Apply to hack
         link: >-
@@ -435,6 +436,7 @@ blocks:
     subhead: ''
     body: ''
     items:
+      - body: ''
       - image:
           src: /uploads/filecoin-foundation-logo-blue.svg
         headline: ''
@@ -484,10 +486,10 @@ blocks:
       ornaments:
         - src: /uploads/ornament-windmill.svg
           alignment: bottom
-          width: '200'
+          width: '150'
           height: ''
-          xOffset: '400'
-          yOffset: '220'
+          xOffset: '480'
+          yOffset: '35'
     headline: Join us in Boston
     subhead: ''
     body: >
@@ -562,6 +564,4 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
-
-
 
