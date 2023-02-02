@@ -408,10 +408,6 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - label: ''
-        headline: SBS South by Southwest
-        subhead: 'March 13, 2022'
-        body: ''
       - image:
           src: /uploads/protocol-labs-logo-blue.svg
         headline: ''
@@ -507,6 +503,11 @@ blocks:
       See where we’ve been, and explore past content.
     items:
       - image:
+          src: /uploads/sxsw22-speaker.jpg
+        headline: SBS @ SXSW
+        subhead: 'March 13, 2022'
+        body: ''
+      - image:
           src: /uploads/SBS_Montana stage_-009.jpg
         headline: 'SBS LATAM Bogotá, Colombia'
         subhead: 'Oct. 12, 2022'
@@ -532,6 +533,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
