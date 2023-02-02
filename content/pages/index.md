@@ -55,7 +55,7 @@ blocks:
         fathomId: ''
       - label: Apply to speak
         link: 'https://airtable.com/shraw5RmmT5VzCGNS'
-        buttonStyle: primary
+        buttonStyle: minor
     navigationLabel: Tickets
     _template: feature
   - src: sbs-boston-loop.mp4
@@ -528,6 +528,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
