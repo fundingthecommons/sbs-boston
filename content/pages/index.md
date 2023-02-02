@@ -154,7 +154,7 @@ blocks:
         subhead: Gitcoin
         body: ''
       - image:
-          src: /uploads/rim-jeong.jpg
+          src: /uploads/rim-jeong-sq.jpg
         headline: Rim Jeong
         subhead: Open Forest Protocol
         body: ''
@@ -535,6 +535,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
