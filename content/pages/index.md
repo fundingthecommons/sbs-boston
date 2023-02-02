@@ -483,7 +483,7 @@ blocks:
     cardStyle:
       fillStyles: bg-primary opacity-100
       grid: >-
-        grid-cols-2 justify-center gap-6 sm:grid-cols-1 sm:justify-center
+        grid-cols-3 justify-center gap-6 sm:grid-cols-1 sm:justify-center
         sm:gap-6
       alignment: flex-col items-start  undefined
       image: wpx- hpx-300 object-center object-cover
@@ -503,13 +503,6 @@ blocks:
       See where we’ve been, and explore past content.
     items:
       - image:
-          src: /uploads/sxsw22-speaker.jpg
-        headline: SBS @ SXSW
-        subhead: 'March 13, 2022'
-        body: ''
-        link: >-
-          https://www.youtube.com/playlist?list=PL_0VrY55uV1_aJWwOGFchnpgzm3rdQbaQ
-      - image:
           src: /uploads/SBS_Montana stage_-009.jpg
         headline: 'SBS LATAM Bogotá, Colombia'
         subhead: 'Oct. 12, 2022'
@@ -521,6 +514,13 @@ blocks:
         subhead: 'July 22—23, 2022'
         body: ''
         link: 'https://paris22.sbs.tech/'
+      - image:
+          src: /uploads/sxsw22-speaker.jpg
+        headline: SBS @ SXSW
+        subhead: 'March 13, 2022'
+        body: ''
+        link: >-
+          https://www.youtube.com/playlist?list=PL_0VrY55uV1_aJWwOGFchnpgzm3rdQbaQ
     navigationLabel: Past Events
     _template: cards
 backgroundColor: white
@@ -535,6 +535,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
