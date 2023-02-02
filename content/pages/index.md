@@ -503,7 +503,7 @@ blocks:
       See where we’ve been, and explore past content.
     items:
       - image:
-          src: /uploads/previous-sbs-bogota.jpg
+          src: /uploads/SBS_Montana stage_-009.jpg
         headline: 'SBS LATAM Bogotá, Colombia'
         subhead: 'Oct. 12, 2022'
         body: ''
@@ -528,6 +528,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
