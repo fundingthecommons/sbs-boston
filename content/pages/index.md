@@ -59,6 +59,7 @@ blocks:
       - label: 〈  Apply to hack  〉
         link: >-
           https://sbsboston.devpost.com/?ref_feature=challenge&ref_medium=discover
+        buttonStyle: minor
     navigationLabel: Tickets
     _template: feature
   - src: sbs-boston-loop.mp4
@@ -538,6 +539,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
