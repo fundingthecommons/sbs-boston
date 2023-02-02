@@ -26,7 +26,7 @@ blocks:
     _template: feature
   - style:
       alignment: flex-col items-start gap-6
-      padding: 'pt-0 pb-10 pr-32 pl-32 sm:pt-4 sm:pb-10 sm:pr-5 sm:pl-5'
+      padding: 'pt-0 pb-10 pr-32 pl-32 sm:pt-4 sm:pb-20 sm:pr-5 sm:pl-5'
       featureImage: wpx-450  mr-auto
       featureContent: 'w-2/3 min-h-0 text-left sm:w-full sm:min-h-0 sm:text-left'
       labelStyles: text-primary mg-copy-medium mb-0
@@ -67,8 +67,8 @@ blocks:
       Join us at SBS Boston to tackle pressing questions like reducing
       environmental impact, regenerating the natural world, and uplifting
       marginalized communities.
-    textStyles: 'text-white mg-video-overlay  sm:text-white mg-copy-small sm:'
-    padding: 'undefined undefined pr-20 pl-20 undefined undefined sm:pr-8 sm:pl-8'
+    textStyles: 'text-white mg-video-overlay  sm:text-white undefined sm:'
+    padding: undefined undefined pr-20 pl-20
     _template: video
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -261,19 +261,6 @@ blocks:
       required.
     _template: feature
   - style:
-      alignment: flex-row items-center gap-0
-      padding: pt-20 pb-20 pr-10 pl-10
-      featureImage: mx-auto
-      featureContent: w-1/2 min-h-0 text-left
-      labelStyles: text-black
-      headlineStyles: text-black
-      subheadStyles: text-black
-      textStyles: text-black
-    headline: Headline
-    subhead: Subhead
-    body: ''
-    _template: feature
-  - style:
       alignment: flex-col-reverse items-center gap-6
       padding: pt-0 pb-20 pr-20 pl-20
       featureContent: w-full min-h-0 text-left
@@ -284,13 +271,13 @@ blocks:
     cardStyle:
       fillStyles: ' opacity-100'
       grid: 'grid-cols-2 items-start gap-6 sm:grid-cols-1 items-start sm:gap-6'
-      alignment: flex-row items-start  undefined
+      alignment: flex-row-reverse items-start  undefined
       image: '  undefined undefined'
       imagePadding: pt-0 pb-0 pr-0 pl-0
       contentPadding: pt-2 pb-2 pr-2 pl-2
       borderStyles: border-white border-0
       labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
+      headlineStyles: text-black mg-headline-medium undefined
       subheadStyles: text-black undefined undefined
       textStyles: text-black undefined undefined
       buttonLayout: undefined
@@ -571,3 +558,4 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
