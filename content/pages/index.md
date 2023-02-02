@@ -170,7 +170,7 @@ blocks:
     navigationLabel: Speakers
     _template: cards
   - style:
-      alignment: flex-col-reverse items-center gap-12
+      alignment: flex-col-reverse items-center gap-8
       padding: 'pt-60 pb-16 pr-32 pl-32 sm:pt-60 sm:pb-14 sm:pr-5 sm:pl-5'
       featureContent: 'w-full min-h-0 text-center sm:w-full sm:min-h-0 sm:text-left'
       labelStyles: text-black undefined undefined
@@ -242,14 +242,28 @@ blocks:
     navigationLabel: Schedule
     _template: cards
   - style:
-      alignment: 'flex-col-reverse items-center '
-      padding: 'pt-0 pb-6 pr-32 pl-32 sm:pt-0 sm:pb-6 sm:pr-5 sm:pl-5'
-      featureImage: '  mx-auto'
+      alignment: flex-col-reverse items-center gap-12
+      padding: 'pt-0 pb-8 pr-32 pl-32 sm:pt-0 sm:pb-8 sm:pr-5 sm:pl-5'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black mg-headline-medium undefined
       textStyles: text-black undefined undefined
+    cardStyle:
+      fillStyles: ' opacity-100'
+      grid: grid-cols-2 items-start gap-6
+      alignment: flex-row items-start  undefined
+      image: '  undefined undefined'
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      contentPadding: pt-8 pb-0 pr-8 pl-8
+      borderStyles: border-primary border-1
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black mg-headline-medium undefined
+      subheadStyles: text-black mg-copy-medium undefined
+      textStyles: 'text-black undefined '
+      buttonLayout: undefined
+      buttonWidth: undefined
+    label: ''
     headline: Hackathon
     subhead: 'Join the SBS Boston Virtual Hackathon: February 20 – April 2, 2023'
     body: >
@@ -259,22 +273,29 @@ blocks:
       we aim to connect sustainability enthusiasts and web3 developers to design
       and produce high-quality, substantive prototypes - no coding experience
       required.
-    _template: feature
+    items:
+      - headline: Virtual Hackathon
+        subhead: 'Feb 20 - April 4, 2023'
+        body: ''
+      - headline: Hybrid Conference
+        subhead: 'SubApril 13 - 14, 2023 | The Tower, Boston USA'
+        body: ''
+    _template: cards
   - style:
       alignment: 'flex-row items-center '
-      padding: pt-0 pb-20 pr-10 pl-10
+      padding: pt-0 pb-20 pr-0 pl-0
       featureImage: '  mx-auto'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
-      headlineStyles: text-black mg-headline-medium undefined
+      headlineStyles: text-black undefined undefined
       subheadStyles: text-black undefined undefined
       textStyles: text-black undefined undefined
     headline: ''
     subhead: ''
-    body: ''
     buttons:
       - label: Apply to hack
-        link: 'https://sbsboston.devpost.com/'
+        link: >-
+          https://sbsboston.devpost.com/?ref_feature=challenge&ref_medium=discover
         buttonStyle: primary
     _template: feature
   - style:
@@ -541,5 +562,6 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
