@@ -56,7 +56,7 @@ blocks:
       - label: ⚘ Apply to speak ⚘
         link: 'https://airtable.com/shraw5RmmT5VzCGNS'
         buttonStyle: minor
-      - label: 〈 Apply to hack 〉
+      - label: 〈  Apply to hack  〉
         link: >-
           https://sbsboston.devpost.com/?ref_feature=challenge&ref_medium=discover
     navigationLabel: Tickets
@@ -538,6 +538,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
