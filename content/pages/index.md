@@ -156,7 +156,7 @@ blocks:
       - image:
           src: /uploads/rim-jeong.jpg
         headline: Rim Jeong
-        subhead: Forest Protocol
+        subhead: Open Forest Protocol
         body: ''
       - image:
           src: /uploads/alan-ransil-PL2.jpg
@@ -535,6 +535,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
