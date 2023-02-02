@@ -251,51 +251,32 @@ blocks:
       subheadStyles: text-black mg-headline-medium undefined
       textStyles: text-black undefined undefined
     headline: Hackathon
-    subhead: 'Join the SBS Boston Hackathon February 20 – April 2, 2023'
+    subhead: 'Join the SBS Boston Virtual Hackathon: February 20 – April 2, 2023'
     body: >
       There’s never been a more exciting time to help shape the future of
       sustainability through Web3 than now. We aim to turn sustainability into a
       Web3 superpower, and we need your help! Join the SBS Boston Hackathon as
       we aim to connect sustainability enthusiasts and web3 developers to design
-      and produce high-quality, substantive prototypes — no coding experience
+      and produce high-quality, substantive prototypes - no coding experience
       required.
     _template: feature
   - style:
-      alignment: flex-col-reverse items-center gap-6
-      padding: pt-0 pb-20 pr-20 pl-20
-      featureContent: w-full min-h-0 text-left
-      labelStyles: text-black undefined undefined
-      headlineStyles: text-black  undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-    cardStyle:
-      fillStyles: ' opacity-100'
-      grid: 'grid-cols-2 items-start gap-6 sm:grid-cols-1 items-start sm:gap-6'
-      alignment: flex-row-reverse items-start  undefined
-      image: '  undefined undefined'
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      contentPadding: pt-2 pb-2 pr-2 pl-2
-      borderStyles: border-white border-0
+      alignment: 'flex-row items-center '
+      padding: pt-0 pb-20 pr-10 pl-10
+      featureImage: '  mx-auto'
+      featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-black mg-headline-medium undefined
       subheadStyles: text-black undefined undefined
       textStyles: text-black undefined undefined
-      buttonLayout: undefined
-      buttonWidth: undefined
-    background:
-      fillStyles: ' opacity-100'
-    label: ''
     headline: ''
     subhead: ''
     body: ''
-    items:
-      - headline: Virtual Hackathon
-        subhead: 'Feb 20 - April 4, 2023'
-        body: ''
-      - headline: Hybrid Conference
-        subhead: 'April 13 - 14, 2023 | The Tower, Boston USA'
-        body: ''
-    _template: cards
+    buttons:
+      - label: Apply to hack
+        link: 'https://sbsboston.devpost.com/'
+        buttonStyle: primary
+    _template: feature
   - style:
       alignment: flex-col-reverse items-center gap-6
       padding: 'pt-48 pb-20 pr-32 pl-32 sm:pt-20 sm:pb-20 sm:pr-5 sm:pl-5'
@@ -405,8 +386,8 @@ blocks:
         link: ''
     _template: cards
   - style:
-      alignment: flex-col-reverse items-center gap-6
-      padding: 'pt-20 pb-0 pr-24 pl-24 sm:pt-14 sm:pb-0 sm:pr-24 sm:pl-24'
+      alignment: flex-col-reverse items-center gap-8
+      padding: 'pt-20 pb-0 pr-10 pl-11 sm:pt-14 sm:pb-0 sm:pr-24 sm:pl-24'
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -414,10 +395,12 @@ blocks:
       textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: ' opacity-100'
-      grid: 'grid-cols-2 justify-center  sm:grid-cols-1 sm:justify-center sm:gap-12'
+      grid: >-
+        grid-cols-4 justify-center gap-20 sm:grid-cols-1 sm:justify-center
+        sm:gap-12
       alignment: flex-col items-start  text-left
       image: wpx- hpx-120 object-center object-fill
-      imagePadding: 'pt-0 pb-0 pr-24 pl-24 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
+      imagePadding: 'pt-0 pb-0 pr-0 pl-0 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
       contentPadding: pt-0 pb-0 pr-0 pl-0
       borderStyles: border-white border-0
       labelStyles: text-black undefined undefined
@@ -432,17 +415,17 @@ blocks:
     body: ''
     items:
       - image:
-          src: /uploads/protocol-labs-logo-blue.svg
-        headline: ''
-        subhead: ''
-        body: ''
-        link: 'https://protocol.ai/'
-      - image:
           src: /uploads/filecoin-foundation-logo-blue.svg
         headline: ''
         subhead: ''
         body: ''
         link: 'https://fil.org/'
+      - image:
+          src: /uploads/protocol-labs-logo-blue.svg
+        headline: ''
+        subhead: ''
+        body: ''
+        link: 'https://protocol.ai/'
     _template: cards
   - style:
       alignment: 'flex-row items-center '
