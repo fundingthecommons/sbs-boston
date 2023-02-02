@@ -49,9 +49,6 @@ blocks:
       planetary boundaries. Join the world’s premiere forum at the intersection
       of web3 and the biosphere to help us answer these questions together.
     buttons:
-      - label: 〈 Apply to hack 〉
-        link: >-
-          https://sbsboston.devpost.com/?ref_feature=challenge&ref_medium=discover
       - label: Tickets
         link: '#'
         buttonStyle: primary
@@ -59,6 +56,9 @@ blocks:
       - label: ⚘ Apply to speak ⚘
         link: 'https://airtable.com/shraw5RmmT5VzCGNS'
         buttonStyle: minor
+      - label: 〈 Apply to hack 〉
+        link: >-
+          https://sbsboston.devpost.com/?ref_feature=challenge&ref_medium=discover
     navigationLabel: Tickets
     _template: feature
   - src: sbs-boston-loop.mp4
