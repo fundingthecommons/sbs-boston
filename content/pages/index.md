@@ -317,10 +317,8 @@ blocks:
       - headline: Virtual Hackathon
         subhead: 'Feb 20 - April 4, 2023'
         body: ''
-      - headline: Headline
-        subhead: Subhead
-      - headline: Headline
-        subhead: Subhead
+      - headline: Hybrid Conference
+        subhead: 'April 13 - 14, 2023 | The Tower, Boston USA'
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -584,6 +582,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
