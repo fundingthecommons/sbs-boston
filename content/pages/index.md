@@ -251,14 +251,28 @@ blocks:
       subheadStyles: text-black mg-headline-medium undefined
       textStyles: text-black undefined undefined
     headline: Hackathon
-    subhead: 'Join the SBS Boston Virtual Hackathon: February 20 – April 2, 2023'
+    subhead: 'Join the SBS Boston Hackathon February 20 – April 2, 2023'
     body: >
       There’s never been a more exciting time to help shape the future of
       sustainability through Web3 than now. We aim to turn sustainability into a
       Web3 superpower, and we need your help! Join the SBS Boston Hackathon as
       we aim to connect sustainability enthusiasts and web3 developers to design
-      and produce high-quality, substantive prototypes - no coding experience
+      and produce high-quality, substantive prototypes — no coding experience
       required.
+
+
+      \
+
+      Virtual Hackathon
+
+
+      Feb 20 - April 4, 2023
+
+
+      Hybrid Conference
+
+
+      April 13 - 14, 2023 / The Tower, Boston USA”
     _template: feature
   - style:
       alignment: 'flex-row items-center '
@@ -539,6 +553,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
