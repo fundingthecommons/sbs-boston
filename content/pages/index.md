@@ -287,13 +287,13 @@ blocks:
     subhead: Subhead
     _template: feature
   - style:
-      alignment: flex-col-reverse items-start gap-6
-      padding: pt-20 pb-20 pr-20 pl-20
-      featureContent: w-1/2 min-h-0 text-left
-      labelStyles: text-black
-      headlineStyles: text-black
-      subheadStyles: text-black
-      textStyles: text-black
+      alignment: flex-col-reverse items-center gap-6
+      padding: pt-0 pb-20 pr-20 pl-20
+      featureContent: w-full min-h-0 text-left
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black  undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: ' opacity-100'
       grid: grid-cols-3 items-start gap-6
@@ -582,6 +582,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
