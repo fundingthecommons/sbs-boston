@@ -26,7 +26,7 @@ blocks:
     _template: feature
   - style:
       alignment: flex-col items-start gap-6
-      padding: 'pt-0 pb-10 pr-32 pl-32 sm:pt-4 sm:pb-20 sm:pr-5 sm:pl-5'
+      padding: 'pt-0 pb-10 pr-32 pl-32 sm:pt-4 sm:pb-10 sm:pr-5 sm:pl-5'
       featureImage: wpx-450  mr-auto
       featureContent: 'w-2/3 min-h-0 text-left sm:w-full sm:min-h-0 sm:text-left'
       labelStyles: text-primary mg-copy-medium mb-0
@@ -67,8 +67,8 @@ blocks:
       Join us at SBS Boston to tackle pressing questions like reducing
       environmental impact, regenerating the natural world, and uplifting
       marginalized communities.
-    textStyles: 'text-white mg-video-overlay  sm:text-white undefined sm:'
-    padding: undefined undefined pr-20 pl-20
+    textStyles: 'text-white mg-video-overlay  sm:text-white mg-copy-small sm:'
+    padding: 'undefined undefined pr-20 pl-20 undefined undefined sm:pr-8 sm:pl-8'
     _template: video
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -571,84 +571,3 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
