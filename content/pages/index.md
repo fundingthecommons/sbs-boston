@@ -393,7 +393,7 @@ blocks:
       fillStyles: ' opacity-100'
       grid: 'grid-cols-2 justify-center  sm:grid-cols-1 sm:justify-center sm:gap-12'
       alignment: flex-col items-start  text-left
-      image: wpx- hpx-136 object-center object-fill
+      image: wpx- hpx-120 object-center object-fill
       imagePadding: 'pt-0 pb-0 pr-24 pl-24 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
       contentPadding: pt-0 pb-0 pr-0 pl-0
       borderStyles: border-white border-0
@@ -528,6 +528,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
