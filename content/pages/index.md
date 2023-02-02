@@ -42,13 +42,12 @@ blocks:
     subhead: 'The Tower, Boston USA'
     body: >
       We bring together experts and enthusiasts in ReFi, Energy Systems, Carbon
-      Markets, and Cryptoeconomics for discussions and networking. Our focus is
-      on measuring and reducing the environmental impact of blockchains, using
-      web3 tools to regenerate the natural world, improving governance to
-      benefit those affected by climate change, and broadening our ambitions to
-      include all planetary boundaries. Join the world’s premiere forum at the
-      intersection of web3 and the biosphere to help us answer these questions
-      together.
+      Markets, and Cryptoeconomics for discussions and networking. We will
+      explore ways to reduce the environmental impact of blockchains, use web3
+      tools to regenerate the natural world, improve governance to benefit those
+      affected by climate change, and broaden our ambitions to include all
+      planetary boundaries. Join the world’s premiere forum at the intersection
+      of web3 and the biosphere to help us answer these questions together.
     buttons:
       - label: Tickets
         link: '#'
@@ -529,6 +528,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
