@@ -53,7 +53,7 @@ blocks:
         link: '#'
         buttonStyle: primary
         fathomId: ''
-      - label: Apply to speak
+      - label: ⚘ Apply to speak ⚘
         link: 'https://airtable.com/shraw5RmmT5VzCGNS'
         buttonStyle: minor
     navigationLabel: Tickets
@@ -528,6 +528,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
