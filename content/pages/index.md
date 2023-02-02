@@ -311,8 +311,8 @@ blocks:
       - headline: What does my ticket include?
         text: >
           All tickets include entry to the full 2-day event, access to all talks
-          and workshops, meals including breakfast, lunch, happy hour, plus
-          exclusive SBB swag.
+          and workshops, meals including coffee, lunch, happy hour, plus
+          exclusive SBS swag.
       - headline: Who is eligible for the EDU Ticket?
         text: >
           Anyone with a .edu email address can claim the complimentary EDU
@@ -528,6 +528,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
