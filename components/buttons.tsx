@@ -8,7 +8,7 @@ export const Buttons = ({
   parentField = ""
 }) => {
   return (
-    <div className={`inline-flex flex-wrap gap-4 items-center ${className}`}>
+    <div className={`inline-flex flex-wrap gap-10 items-center ${className}`}>
       {buttons &&
         buttons.map(function (button, index) {
           const element = (
