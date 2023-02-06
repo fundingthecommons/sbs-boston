@@ -50,7 +50,8 @@ blocks:
       of web3 and the biosphere to help us answer these questions together.
     buttons:
       - label: Tickets
-        link: '#'
+        link: >-
+          https://www.eventbrite.com/e/sustainable-blockchain-summit-boston-tickets-502882624467?aff=sbstech
         buttonStyle: primary
         fathomId: ''
       - label: ⚘ Apply to speak ⚘
@@ -564,4 +565,5 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
