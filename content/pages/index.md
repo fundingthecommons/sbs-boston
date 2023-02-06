@@ -499,7 +499,8 @@ blocks:
       Don't miss this opportunity to attend SBS Boston!
     buttons:
       - label: Tickets
-        link: '#'
+        link: >-
+          https://www.eventbrite.com/e/sustainable-blockchain-summit-boston-tickets-502882624467?aff=sbstech
         buttonStyle: primary
     _template: feature
   - style:
@@ -565,5 +566,6 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
