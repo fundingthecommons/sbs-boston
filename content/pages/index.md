@@ -340,11 +340,10 @@ blocks:
           All tickets include entry to the full 2-day event, access to all talks
           and workshops, meals including coffee, lunch, happy hour, plus
           exclusive SBS swag.
-      - headline: Who is eligible for the EDU Ticket?
+      - headline: Who is eligible for the Academic Ticket?
         text: >
-          Anyone with a .edu email address can claim the complimentary EDU
-          ticket. You must register using your .edu email address for
-          verification.
+          Anyone with a .edu email address can claim the academic ticket. You
+          must register using your .edu email address for verification.
       - headline: Where can I find the agenda?
         subhead: ''
         text: >
@@ -566,6 +565,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
