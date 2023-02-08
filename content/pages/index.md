@@ -279,6 +279,7 @@ blocks:
     items:
       - headline: Ideation Stage
         subhead: Feb 20 - March 5
+        body: ''
       - headline: Prototype Phase
         subhead: March 6 - April 2
         body: ''
@@ -341,9 +342,8 @@ blocks:
     items:
       - headline: What does my ticket include?
         text: >
-          All tickets include entry to the full 2-day event, access to all talks
-          and workshops, meals including coffee, lunch, happy hour, plus
-          exclusive SBS swag.
+          All tickets include entry to SBS, access to all talks and workshops,
+          meals including coffee, lunch, happy hour, plus exclusive SBS swag.
       - headline: Who is eligible for the Academic Ticket?
         text: >
           Anyone with a .edu email address can claim the academic ticket. You
@@ -525,6 +525,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
 
