@@ -364,50 +364,6 @@ blocks:
     navigationLabel: FAQ
     _template: accordian
   - style:
-      alignment: flex-col-reverse items-start gap-6
-      padding: 'pt-24 pb-9 pr-32 pl-32 sm:pt-14 sm:pb-6 sm:pr-10 sm:pl-10'
-      featureContent: w-full min-h-0 text-center
-      labelStyles: text-black undefined undefined
-      headlineStyles: text-primary mg-headline-large undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-    cardStyle:
-      fillStyles: ' opacity-100'
-      grid: >-
-        grid-cols-1 justify-center gap-6 sm:grid-cols-2 sm:justify-center
-        sm:gap-12
-      alignment: flex-col items-start  text-center
-      image: wpx- hpx-100 object-center object-fill
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      contentPadding: pt-0 pb-0 pr-0 pl-0
-      borderStyles: border-white border-0
-      labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-      buttonLayout: undefined
-      buttonWidth: undefined
-    background:
-      fillStyles: ' opacity-100'
-      src: /uploads/bg-gradient-slant-blue.svg
-      ornaments:
-        - src: /uploads/ornament-cloud.svg
-          alignment: top
-          width: '250'
-          height: ''
-          xOffset: '-440'
-          yOffset: '0'
-    label: ''
-    headline: Supporters
-    subhead: ''
-    body: ''
-    items:
-      - image:
-          src: /uploads/UNCC-United-Nations-Climate-Change-logo-blue.svg
-        body: ''
-        link: ''
-    _template: cards
-  - style:
       alignment: flex-col-reverse items-center gap-8
       padding: 'pt-20 pb-0 pr-10 pl-11 sm:pt-14 sm:pb-0 sm:pr-24 sm:pl-24'
       featureContent: w-full min-h-0 text-center
@@ -565,6 +521,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
