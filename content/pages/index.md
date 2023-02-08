@@ -252,7 +252,9 @@ blocks:
       textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: ' opacity-100'
-      grid: grid-cols-2 justify-center gap-6
+      grid: >-
+        grid-cols-3 justify-center gap-6 sm:grid-cols-1 sm:justify-center
+        sm:gap-6
       alignment: flex-row items-start  text-left
       image: '  object-center object-fill'
       imagePadding: pt-0 pb-0 pr-0 pl-0
@@ -275,11 +277,13 @@ blocks:
       and produce high-quality, substantive prototypes - no coding experience
       required.
     items:
-      - headline: Virtual Hackathon
-        subhead: 'Feb 20 - April 4, 2023'
+      - headline: Ideation Stage
+        subhead: Feb 20 - March 5
+      - headline: Prototype Phase
+        subhead: March 6 - April 2
         body: ''
       - headline: Hybrid Conference
-        subhead: 'April 13, 2023 | The Tower, Boston USA'
+        subhead: April 13
         body: ''
     _template: cards
   - style:
@@ -511,7 +515,7 @@ blocks:
     _template: cards
 backgroundColor: white
 meta:
-  title: SBS Boston | April 13-14 2023
+  title: 'SBS Boston | April 13, 2023'
   description: >-
     We bring together experts and enthusiasts in ReFi, Energy Systems, Carbon
     Markets, and Cryptoeconomics for discussions and networking. Our focus is on
@@ -519,8 +523,9 @@ meta:
     tools to regenerate the natural world, improving governance to benefit those
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
-  ogImage: /uploads/social-share-image.jpg
+  ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
 
