@@ -279,7 +279,7 @@ blocks:
         subhead: 'Feb 20 - April 4, 2023'
         body: ''
       - headline: Hybrid Conference
-        subhead: 'SubApril 13 - 14, 2023 | The Tower, Boston USA'
+        subhead: 'April 13 - 14, 2023 | The Tower, Boston USA'
         body: ''
     _template: cards
   - style:
@@ -521,6 +521,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
