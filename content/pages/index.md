@@ -119,7 +119,7 @@ blocks:
         subhead: Protocol Labs
         body: ''
       - image:
-          src: /uploads/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
+          src: /uploads/kirsteen-harrison2.jpg
         headline: Kirsteen Harrison
         subhead: Zumo
         body: ''
@@ -565,6 +565,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-share-image.jpg
 ---
+
 
 
 
