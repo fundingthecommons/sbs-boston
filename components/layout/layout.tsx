@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import { Header } from "./header";
+import { Footer } from "./footer";
 import { Blocks } from "../../components/blocks-renderer";
 import { styles } from "./styles"
 import { googleFontsLink } from "./google-fonts"
@@ -66,6 +67,7 @@ export const Layout = ({ rawData, children }) => {
         <div className={`flex flex-col`}>
           {children}
           <Blocks blocks={global.blocks} />
+          <Footer />
         </div>
       </div>
     </>

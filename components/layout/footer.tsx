@@ -29,6 +29,7 @@ export const Footer = () => {
         <li><a href="https://discuss.ipfs.tech/privacy">Privacy Policy</a></li>
         <li><a href="https://ipfs.tech/legal/">DMCA Policy</a></li>
       </ul>
+      <p className="text-center mt-4">Made with love by <a href="https://protocol.ai">Protocol Labs</a></p>
     </footer>
   );
 };
