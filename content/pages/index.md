@@ -346,8 +346,9 @@ blocks:
           SBS swag.
       - headline: Who is eligible for the Academic Ticket?
         text: >
-          Anyone with a .edu email address can claim the academic ticket. You
-          must register using your .edu email address for verification.
+          This ticket is for anyone in academia. You must register using your
+          academic email address for verification. Your ticket is subject to
+          cancellation if your email is not verified.
       - headline: Where can I find the agenda?
         subhead: ''
         text: >
@@ -525,6 +526,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
 
