@@ -1,6 +1,7 @@
 {
   "siteUrl": "sbs.tech",
-  "gtmId": "",
+  "favicon": "/uploads/favicon-sbs-boston.png",
+  "gtmId": "G-MY3M3C0XV0",
   "fathomSiteId": "",
   "theme": "content/themes/protocol.md",
   "logo": {
@@ -19,6 +20,5 @@
     "navTypeStyle": "text-accent2 mg-copy-medium  sm:text-white mg-copy-medium sm:",
     "navBackgroundColor": "bg-primary opacity-100",
     "padding": "pt-7 pb-10 pr-10 pl-8"
-  },
-  "favicon": "/uploads/favicon-sbs-boston.png"
+  }
 }
