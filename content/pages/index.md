@@ -69,7 +69,7 @@ blocks:
       environmental impact, regenerating the natural world, and uplifting
       marginalized communities.
     textStyles: 'text-white mg-video-overlay  sm:text-white undefined sm:'
-    padding: undefined undefined pr-20 pl-20
+    padding: 'undefined undefined pr-20 pl-20 undefined undefined sm:pr-5 sm:pl-5'
     _template: video
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -279,6 +279,7 @@ blocks:
     items:
       - headline: Ideation Stage
         subhead: Feb 20 - March 5
+        body: ''
       - headline: Prototype Phase
         subhead: March 6 - April 2
         body: ''
@@ -526,18 +527,4 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
