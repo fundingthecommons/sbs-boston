@@ -32,7 +32,7 @@ blocks:
       labelStyles: text-primary mg-copy-medium mb-0
       headlineStyles: 'text-black mg-hidden '
       subheadStyles: text-primary mg-copy-medium mb-7
-      textStyles: text-black mg-copy-medium mb-6
+      textStyles: text-black mg-copy-medium mb-10
     background:
       fillStyles: ' opacity-100'
     image:
