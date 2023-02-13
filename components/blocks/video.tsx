@@ -7,7 +7,7 @@ export const Video = ({ data, parentField = "" }) => {
     <Section>
       <div className="mx-auto max-w-desktop-full transform scale-110">
         <div className="relative w-full">
-          <video className="relative w-full transform border-2 border-white sm:h-80 object-cover" autoPlay loop muted>
+          <video className="relative w-full transform border-2 border-white sm:h-80 object-cover" autoPlay loop muted playsInline>
             <source src={`/uploads/${data.src}`} type="video/mp4" />
             Your browser does not support the video tag.
           </video>

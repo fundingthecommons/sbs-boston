@@ -64,7 +64,7 @@ export const Section = ({
               <div className={`absolute ${anchorPosition[ornament.alignment]}`} style={wrapStyle} key={index} >
                   {ornament.video && (
                     <div style={videoWrapStyle}>
-                      <video width={ornament.width} height={ornament.height} autoPlay loop muted>
+                      <video width={ornament.width} height={ornament.height} autoPlay loop muted playsInline>
                         <source src={`/uploads/${ornament.video}`} type="video/mp4" />
                       </video>
                     </div>
