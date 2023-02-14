@@ -69,7 +69,7 @@ blocks:
       environmental impact, regenerating the natural world, and uplifting
       marginalized communities.
     textStyles: 'text-white mg-video-overlay  sm:text-white undefined sm:'
-    padding: 'undefined undefined pr-20 pl-20 undefined undefined sm:pr-5 sm:pl-5'
+    padding: 'undefined undefined pr-20 pl-20 undefined undefined sm:pr-7 sm:pl-7'
     _template: video
   - style:
       alignment: flex-col-reverse items-center gap-8

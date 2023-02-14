@@ -6,10 +6,9 @@ export const Video = ({ data, parentField = "" }) => {
   return (
     <Section>
       <div className="mx-auto max-w-desktop-full transform scale-110">
-        <div className="relative w-full">
-          <video className="relative w-full transform sm:h-80 object-cover" autoPlay loop muted playsInline>
+        <div className="relative w-full overflow-hidden">
+          <video className="relative my-1 w-full transform sm:h-80 object-cover" autoPlay loop muted playsInline>
             <source src={`/uploads/${data.src}`} type="video/mp4" />
-            Your browser does not support the video tag.
           </video>
           {data?.text?.children && (
             <div className={`mx-auto py-16 sm:py-4 text-center absolute top-1/2 transform -translate-y-1/2 ${data.padding} ${data.textStyles}`}>
@@ -23,7 +22,7 @@ export const Video = ({ data, parentField = "" }) => {
               </div>
             </div>
           )}
-          <img className="absolute inset-0 sm:h-80" src="./uploads/video-overlay.png" />
+          <img className="absolute top-0 h-full w-full" src="./uploads/video-overlay.png" />
         </div>
       </div>
     </Section>
