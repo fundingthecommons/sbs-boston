@@ -61,7 +61,7 @@ export const Section = ({
               maxWidth: "none"
             };
             const element = (
-              <div className={`absolute ${anchorPosition[ornament.alignment]}`} style={wrapStyle} key={index} >
+              <div className={`absolute ornament-${ornament.video ? ornament.video.replace('.','') : ''} ${anchorPosition[ornament.alignment]}`} style={wrapStyle} key={index} >
                   {ornament.video && (
                     <div style={videoWrapStyle}>
                       <video width={ornament.width} height={ornament.height} autoPlay loop muted playsInline>

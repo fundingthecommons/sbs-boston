@@ -177,5 +177,13 @@ export const styles = (theme) => {
     @media only screen and (max-width: 700px) {
       ${typographyClasses(theme.typo, true)}
     }
+    @media only screen and (max-width: 700px) {
+      .ornament-wavesmp4 {
+        transform: translate(-450px,-100px) !important;
+      }
+      .ornament-windmillsmp4 {
+        transform: translate(-150px,-200px) !important;
+      }
+    }
   `
 }
