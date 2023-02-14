@@ -316,7 +316,7 @@ blocks:
     cardStyle:
       fillStyles: bg-white opacity-100
       fillStylesActive: ' opacity-100'
-      padding: pt-4 pb-4 pr-0 pl-0
+      padding: pt-4 pb-4 pr-9 pl-0
       borderStyles: border-black border-1
       headlineStyles: text-black mg-headline-medium undefined
       subheadStyles: text-black undefined undefined
