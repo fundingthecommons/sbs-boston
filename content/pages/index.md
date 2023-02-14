@@ -513,7 +513,7 @@ blocks:
         body: ''
         link: >-
           https://www.youtube.com/playlist?list=PL_0VrY55uV1_aJWwOGFchnpgzm3rdQbaQ
-    navigationLabel: Past Events
+    navigationLabel: ''
     _template: cards
 backgroundColor: white
 meta:

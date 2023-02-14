@@ -13,7 +13,7 @@ const ProtocolLogo = ({className}) => {
 
 export const Footer = () => {
   return (
-    <footer className="relative bg-accent4 text-white p-16 sm:p-10">
+    <footer id="footer" className="relative bg-accent4 text-white p-16 sm:p-10">
       <div className="flex items-center gap-6 mb-10 sm:flex-col sm:text-center sm:gap-8">
         <FilecoinMark className="flex-none" />
         <div className="flex-1">
