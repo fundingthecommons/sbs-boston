@@ -371,7 +371,7 @@ blocks:
     _template: accordian
   - style:
       alignment: flex-col-reverse items-center gap-6
-      padding: pt-20 pb-20 pr-20 pl-20
+      padding: pt-20 pb-10 pr-20 pl-20
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -566,5 +566,6 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
