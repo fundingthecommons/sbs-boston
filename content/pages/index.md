@@ -370,6 +370,44 @@ blocks:
     navigationLabel: FAQ
     _template: accordian
   - style:
+      alignment: flex-col-reverse items-center gap-6
+      padding: pt-20 pb-20 pr-20 pl-20
+      featureContent: w-full min-h-0 text-center
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-primary mg-headline-large undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
+    cardStyle:
+      fillStyles: ' opacity-100'
+      grid: 'grid-cols-4 items-start gap-20 sm:grid-cols-1 items-start sm:gap-12'
+      alignment: flex-row items-start  undefined
+      image: '  undefined undefined'
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      contentPadding: pt-2 pb-2 pr-2 pl-2
+      borderStyles: border-white border-0
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black undefined undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
+      buttonLayout: undefined
+      buttonWidth: undefined
+    label: ''
+    headline: Sponsors
+    subhead: ''
+    items:
+      - {}
+      - image:
+          src: /uploads/climate collective.svg
+        headline: ''
+        subhead: ''
+      - image:
+          src: /uploads/hyphen1.svg
+        headline: ''
+        subhead: ''
+      - headline: ''
+        subhead: ''
+    _template: cards
+  - style:
       alignment: flex-col-reverse items-center gap-8
       padding: 'pt-20 pb-0 pr-10 pl-11 sm:pt-14 sm:pb-0 sm:pr-24 sm:pl-24'
       featureContent: w-full min-h-0 text-center
@@ -383,7 +421,7 @@ blocks:
         grid-cols-4 justify-center gap-20 sm:grid-cols-1 sm:justify-center
         sm:gap-12
       alignment: flex-col items-start  text-left
-      image: wpx- hpx-120 object-center object-fill
+      image: wpx- hpx- object-center object-fill
       imagePadding: 'pt-0 pb-0 pr-0 pl-0 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
       contentPadding: pt-0 pb-0 pr-0 pl-0
       borderStyles: border-white border-0
@@ -398,7 +436,7 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - body: ''
+      - {}
       - image:
           src: /uploads/filecoin-foundation-logo-blue.svg
         headline: ''
@@ -411,6 +449,7 @@ blocks:
         subhead: ''
         body: ''
         link: 'https://protocol.ai/'
+      - {}
     _template: cards
   - style:
       alignment: 'flex-row items-center '
@@ -527,4 +566,5 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
