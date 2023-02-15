@@ -7,7 +7,7 @@
   "logo": {
     "logoTypeStyle": "undefined undefined ",
     "image": "/uploads/sbs-symbol.svg",
-    "imageWidth": "60"
+    "imageWidth": "40"
   },
   "nav": {
     "navItems": [
@@ -21,8 +21,8 @@
       }
     ],
     "navAlignment": "text-right",
-    "navTypeStyle": "text-accent2 mg-copy-medium  sm:text-white undefined sm:",
+    "navTypeStyle": "text-gray-light mg-copy-medium  sm:text-white undefined sm:",
     "navBackgroundColor": "bg-primary opacity-100",
-    "padding": "pt-7 pb-10 pr-10 pl-8"
+    "padding": "pt-3 pb-3 pr-10 pl-8"
   }
 }

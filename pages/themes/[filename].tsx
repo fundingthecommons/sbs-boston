@@ -7,7 +7,7 @@ function slugify(string: string) {
 }
 
 const Typography = ({ item, index, parentField = "" }) => {
-  const typography = JSON.parse(item.typography)
+  const typography = JSON.parse(item.typography) || {}
   let sample
   if (Number(typography.size) > 40) {
     sample = 'The quick brown fox jumps over the lazy dog'
@@ -16,7 +16,7 @@ const Typography = ({ item, index, parentField = "" }) => {
   } else {
     sample = 'The quick brown fox jumps over the lazy dog The quick brown fox jumps over the lazy dog The quick brown fox jumps over the lazy dog The quick brown fox jumps over the lazy dog The quick brown fox jumps over the lazy dog'
   }
-
+  
   return (
     <div className="flex items-center gap-10 mb-16">
       <div className="flex-none text-gray text-right uppercase w-40">
@@ -25,7 +25,7 @@ const Typography = ({ item, index, parentField = "" }) => {
         <div style={{fontSize: "12px" }}>{typography.size}px / {typography.lineHeight}px</div>
       </div>
       <div className=" w-full rounded overflow-hidden border-b border-gray-light">
-        <h3 className={`mg-${slugify(item.label)}`}>{sample}</h3>
+        <h3 className={item.label && `mg-${slugify(item.label)}`}>{sample}</h3>
       </div>
     </div>
   )
@@ -85,7 +85,7 @@ export default function ThemePage(
                     <div style={{fontSize: "14px" }}>{item.label}</div>
                   </div>
                   <div className="w-full">
-                    <a className={`btn-${slugify(item.label)}`} href="#">Do Nothing</a>
+                    <a className={item.label && `btn-${slugify(item.label)}`} href="#">Do Nothing</a>
                   </div>
                 </div>
               )

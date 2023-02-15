@@ -8,12 +8,12 @@ export const googleFontsLink = (theme) => {
   const systemFonts = ['Arial','Courier','Geneva','Georgia', 'Helvetica','Impact','Lucida Console','Lucida Grande','Monaco','Palatino','Tahoma','Times New Roman','Verdana']
   const customFonts = ['Suisse Intl']
   const typographyFontFamilies = theme.typo?.map(item => {
-    const fontObject = JSON.parse(item.typography)
-    return fontObject.family || null
+    const fontObject = JSON.parse(item.typography) || {}
+    return fontObject.family || ""
   }) || []
   const buttonFontFamilies = theme.buttons?.map(item => {
     const fontObject = JSON.parse(item.typography)
-    return fontObject.family || null
+    return fontObject.family || ""
   }) || []
   const fontFamilies = [...typographyFontFamilies, ...buttonFontFamilies]
   const uniqueFontList = unique(fontFamilies)

@@ -37,7 +37,7 @@ const Dropdown = ({item}) => {
           {item.subNavItems.map(function (subItem, index) {
             return (
               <li className="block" key={index}>
-                <a className={"block no-underline whitespace-nowrap px-4 py-1"} href={subItem.link} target={linkTarget(subItem.link)} onClick={() => setIsOpen(!isOpen)}>{subItem.label}</a>
+                <a className={"block no-underline whitespace-nowrap px-3 py-1"} href={subItem.link} target={linkTarget(subItem.link)} onClick={() => setIsOpen(!isOpen)}>{subItem.label}</a>
               </li>
             )
           })}
@@ -139,15 +139,15 @@ export const Header = ({
     <section className="relative">
       <>
         {/* Desktop Nav */}
-        <div className="md:hidden absolute z-10 top-0 left-0 right-0">
+        <div className="md:hidden absolute bg-black z-10 top-0 left-0 right-0">
           <div className={`max-w-desktop-full mx-auto ${nav?.padding}`}>
             <div className="flex items-center">
               <Logo className="flex-none" />
-              <ul style={navStyles} className={`${nav?.navTypeStyle} ${nav?.navAlignment} flex-grow list-none md:hidden`}>
+              <ul style={navStyles} className={`${nav?.navTypeStyle} ${nav?.navAlignment} mb-0 flex-grow list-none md:hidden`}>
 
                 {pageJumps(blocks)?.map(function (item, index) {
                   return (
-                    <li className="inline-block bg-white px-4 py-1 ml-4 first:ml-0" key={index}>
+                    <li className="inline-block px-3 py-1 ml-4 first:ml-0" key={index}>
                       <a className={"block no-underline"} href={`#${lowerDash(item)}`} onClick={ () => pageJump(item) }>{item}</a>
                     </li>
                   )
@@ -157,13 +157,13 @@ export const Header = ({
                   const subNavItems = item.subNavItems || null
                   if (subNavItems) {
                     return (
-                      <li className="relative inline-block bg-white px-4 py-1 ml-4" key={index}>
+                      <li className="relative inline-block px-3 py-1 ml-4" key={index}>
                         <Dropdown item={item} />
                       </li>
                     )
                   } else {
                     return (
-                      <li className="inline-block bg-white px-4 py-1 ml-4" key={index}>
+                      <li className="inline-block px-3 py-1 ml-4" key={index}>
                         <a className={"block no-underline"} href={item.link} target={linkTarget(item.link)}>{item.label}</a>
                       </li>
                     )

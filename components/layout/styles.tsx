@@ -13,7 +13,7 @@ function slugify(string: string) {
 }
 
 function buttonClass(obj) {
-  const typography = JSON.parse(obj.typography)
+  const typography = JSON.parse(obj.typography) || {}
   const color = typography.color.replace("text-", "")
   
   const getPadding = (obj, paddingPrefix) => {
@@ -93,8 +93,8 @@ function buttonClass(obj) {
       display: inline-block;
       color: var(--${color}-color);
       background: ${getBackground(obj)};
-      font-family: ${justFontFamily(typography?.family)};
-      font-weight: ${justFontWeight(typography?.family)};
+      font-family: ${justFontFamily(typography.family)};
+      font-weight: ${justFontWeight(typography.family)};
       font-size: ${typography.size}px;
       line-height: ${typography.lineHeight}px;
       letter-spacing: ${typography.letterSpacing}px;
