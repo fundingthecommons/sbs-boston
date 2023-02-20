@@ -379,7 +379,7 @@ blocks:
       textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: ' opacity-100'
-      grid: 'grid-cols-4 items-start gap-20 sm:grid-cols-1 items-start sm:gap-12'
+      grid: 'grid-cols-3 items-start gap-20 sm:grid-cols-1 items-start sm:gap-12'
       alignment: flex-row items-start  undefined
       image: '  undefined undefined'
       imagePadding: pt-0 pb-0 pr-0 pl-0
@@ -394,18 +394,20 @@ blocks:
     label: ''
     headline: Sponsors
     subhead: ''
+    body: ''
     items:
-      - {}
       - image:
-          src: /uploads/climate collective.svg
+          src: /uploads/logo-uncc.svg
         headline: ''
         subhead: ''
+        body: ''
       - image:
-          src: /uploads/hyphen1.svg
+          src: /uploads/logo-climate-collective.svg
+      - image:
+          src: /uploads/logo-hyphen.svg
         headline: ''
         subhead: ''
-      - headline: ''
-        subhead: ''
+        body: ''
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -436,7 +438,7 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - {}
+      - body: ''
       - image:
           src: /uploads/filecoin-foundation-logo-blue.svg
         headline: ''
@@ -449,7 +451,7 @@ blocks:
         subhead: ''
         body: ''
         link: 'https://protocol.ai/'
-      - {}
+      - body: ''
     _template: cards
   - style:
       alignment: 'flex-row items-center '
@@ -566,6 +568,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
 
