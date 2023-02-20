@@ -392,15 +392,52 @@ blocks:
       buttonLayout: undefined
       buttonWidth: undefined
     label: ''
+    headline: Supporter
+    subhead: ''
+    items:
+      - headline: ''
+        subhead: ''
+      - image:
+          src: /uploads/UNCC-United-Nations-Climate-Change-logo-blue.svg
+        headline: ''
+        subhead: ''
+      - headline: ''
+        subhead: ''
+    _template: cards
+  - style:
+      alignment: flex-col-reverse items-center gap-6
+      padding: pt-20 pb-10 pr-10 pl-10
+      featureContent: w-full min-h-0 text-center
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-primary mg-headline-large undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
+    cardStyle:
+      fillStyles: ' opacity-100'
+      grid: 'grid-cols-4 items-start gap-12 sm:grid-cols-1 items-start sm:gap-12'
+      alignment: flex-row items-start  undefined
+      image: '  undefined undefined'
+      imagePadding: pt-0 pb-0 pr-0 pl-0
+      contentPadding: pt-2 pb-2 pr-2 pl-2
+      borderStyles: border-white border-0
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-black undefined undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black undefined undefined
+      buttonLayout: undefined
+      buttonWidth: undefined
+    label: ''
     headline: Sponsors
     subhead: ''
     body: ''
     items:
+      - {}
       - image:
-          src: /uploads/logo-uncc.svg
-        headline: ''
-        subhead: ''
-        body: ''
+          src: /uploads/logo-hbar.svg
+      - image:
+          src: /uploads/logo-toucan.svg
+      - {}
+      - {}
       - image:
           src: /uploads/logo-climate-collective.svg
         body: ''
@@ -409,6 +446,7 @@ blocks:
         headline: ''
         subhead: ''
         body: ''
+      - {}
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -421,7 +459,7 @@ blocks:
     cardStyle:
       fillStyles: ' opacity-100'
       grid: >-
-        grid-cols-4 justify-center gap-20 sm:grid-cols-1 sm:justify-center
+        grid-cols-4 justify-center gap-12 sm:grid-cols-1 sm:justify-center
         sm:gap-12
       alignment: flex-col items-start  text-left
       image: wpx- hpx- object-center object-fill
@@ -441,13 +479,13 @@ blocks:
     items:
       - body: ''
       - image:
-          src: /uploads/filecoin-foundation-logo-blue.svg
+          src: /uploads/logo-filecoin-foundation.svg
         headline: ''
         subhead: ''
         body: ''
         link: 'https://fil.org/'
       - image:
-          src: /uploads/protocol-labs-logo-blue.svg
+          src: /uploads/logo-protocol-labs.svg
         headline: ''
         subhead: ''
         body: ''
@@ -569,6 +607,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
 
