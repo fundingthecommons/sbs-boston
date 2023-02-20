@@ -371,7 +371,7 @@ blocks:
     _template: accordian
   - style:
       alignment: flex-col-reverse items-center gap-6
-      padding: pt-20 pb-10 pr-20 pl-20
+      padding: pt-20 pb-10 pr-10 pl-10
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -403,6 +403,7 @@ blocks:
         body: ''
       - image:
           src: /uploads/logo-climate-collective.svg
+        body: ''
       - image:
           src: /uploads/logo-hyphen.svg
         headline: ''
@@ -411,7 +412,7 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-8
-      padding: 'pt-20 pb-0 pr-10 pl-11 sm:pt-14 sm:pb-0 sm:pr-24 sm:pl-24'
+      padding: pt-20 pb-0 pr-10 pl-10
       featureContent: w-full min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -568,6 +569,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
 
