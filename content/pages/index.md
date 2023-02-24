@@ -39,7 +39,7 @@ blocks:
       src: /uploads/sbs-boston-logo.svg
     label: 'April 13, 2023'
     headline: SBS Boston
-    subhead: ''
+    subhead: ' '
     body: >
       We bring together experts and enthusiasts in ReFi, Energy Systems, Carbon
       Markets, and Cryptoeconomics for discussions and networking. We will
@@ -608,6 +608,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
 
