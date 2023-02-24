@@ -39,7 +39,7 @@ blocks:
       src: /uploads/sbs-boston-logo.svg
     label: 'April 13, 2023'
     headline: SBS Boston
-    subhead: 'The Tower, Boston USA'
+    subhead: ''
     body: >
       We bring together experts and enthusiasts in ReFi, Energy Systems, Carbon
       Markets, and Cryptoeconomics for discussions and networking. We will
@@ -345,11 +345,6 @@ blocks:
           All tickets include entry to the event, access to all talks and
           workshops, meals including coffee, lunch, happy hour, plus exclusive
           SBS swag.
-      - headline: Who is eligible for the Academic Ticket?
-        text: >
-          This ticket is for anyone in academia. You must register using your
-          academic email address for verification. Your ticket is subject to
-          cancellation if your email is not verified.
       - headline: Where can I find the agenda?
         subhead: ''
         text: >
@@ -394,15 +389,19 @@ blocks:
     label: ''
     headline: Supporter
     subhead: ''
+    body: ''
     items:
       - headline: ''
         subhead: ''
+        body: ''
       - image:
           src: /uploads/UNCC-United-Nations-Climate-Change-logo-blue.svg
         headline: ''
         subhead: ''
+        body: ''
       - headline: ''
         subhead: ''
+        body: ''
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -431,13 +430,15 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - {}
+      - body: ''
       - image:
           src: /uploads/logo-hbar.svg
+        body: ''
       - image:
           src: /uploads/logo-toucan.svg
-      - {}
-      - {}
+        body: ''
+      - body: ''
+      - body: ''
       - image:
           src: /uploads/logo-climate-collective.svg
         body: ''
@@ -446,7 +447,7 @@ blocks:
         headline: ''
         subhead: ''
         body: ''
-      - {}
+      - body: ''
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -607,6 +608,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
 
