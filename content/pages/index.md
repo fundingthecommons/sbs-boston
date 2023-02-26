@@ -395,12 +395,12 @@ blocks:
         subhead: ''
         body: ''
       - image:
-          src: /uploads/UNCC-United-Nations-Climate-Change-logo-blue.svg
+          src: /uploads/logo-uncc2.svg
         headline: ''
         subhead: ''
         body: ''
       - image:
-          src: /uploads/logo-mit-energy-club2.png
+          src: /uploads/logo-mit-energy2.svg
         body: ''
       - headline: ''
         subhead: ''
@@ -611,6 +611,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
 
