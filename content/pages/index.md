@@ -387,7 +387,7 @@ blocks:
       buttonLayout: undefined
       buttonWidth: undefined
     label: ''
-    headline: Supporter
+    headline: Supporters
     subhead: ''
     body: ''
     items:
@@ -401,6 +401,7 @@ blocks:
         body: ''
       - image:
           src: /uploads/logo-mit-energy-club2.png
+        body: ''
       - headline: ''
         subhead: ''
         body: ''
@@ -610,6 +611,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
 
