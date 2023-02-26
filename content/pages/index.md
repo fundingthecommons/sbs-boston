@@ -375,8 +375,8 @@ blocks:
     cardStyle:
       fillStyles: ' opacity-100'
       grid: 'grid-cols-4 items-start gap-20 sm:grid-cols-1 items-start sm:gap-12'
-      alignment: flex-row items-start  undefined
-      image: '  undefined undefined'
+      alignment: flex-row items-center  undefined
+      image: '  object-center undefined'
       imagePadding: pt-0 pb-0 pr-0 pl-0
       contentPadding: pt-2 pb-2 pr-2 pl-2
       borderStyles: border-white border-0
@@ -611,6 +611,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
 
