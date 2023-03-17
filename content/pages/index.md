@@ -54,9 +54,6 @@ blocks:
           https://www.eventbrite.com/e/sustainable-blockchain-summit-boston-tickets-502882624467?aff=sbstech
         buttonStyle: primary
         fathomId: ''
-      - label: ⚘ Apply to speak ⚘
-        link: 'https://airtable.com/shraw5RmmT5VzCGNS'
-        buttonStyle: minor
       - label: ≓ Apply to hack ≒
         link: >-
           https://sbsboston.devpost.com/?ref_feature=challenge&ref_medium=discover
@@ -611,6 +608,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
 
