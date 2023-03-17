@@ -413,9 +413,11 @@ blocks:
       textStyles: text-black undefined undefined
     cardStyle:
       fillStyles: ' opacity-100'
-      grid: 'grid-cols-4 items-start gap-12 sm:grid-cols-1 items-start sm:gap-12'
-      alignment: flex-row items-start  undefined
-      image: '  undefined undefined'
+      grid: >-
+        grid-cols-5 justify-center gap-12 sm:grid-cols-1 sm:justify-center
+        sm:gap-12
+      alignment: flex-row items-start  text-center
+      image: '  object-center undefined  sm:hpx-0 sm:object-center undefined'
       imagePadding: pt-0 pb-0 pr-0 pl-0
       contentPadding: pt-2 pb-2 pr-2 pl-2
       borderStyles: border-white border-0
@@ -432,15 +434,10 @@ blocks:
     items:
       - body: ''
       - image:
-          src: /uploads/logo-hbar.svg
-        body: ''
-      - image:
-          src: /uploads/logo-toucan.svg
-        body: ''
-      - body: ''
-      - body: ''
-      - image:
           src: /uploads/logo-climate-collective.svg
+        body: ''
+      - image:
+          src: /uploads/logo-hbar.svg
         body: ''
       - image:
           src: /uploads/logo-hyphen.svg
@@ -448,6 +445,20 @@ blocks:
         subhead: ''
         body: ''
       - {}
+      - {}
+      - image:
+          src: /uploads/logo-blockgreen-blue.svg
+      - image:
+          src: /uploads/logo-toucan.svg
+        body: ''
+      - image:
+          src: /uploads/logo-boston-dao-blue.png
+      - {}
+      - {}
+      - {}
+      - image:
+          src: /uploads/logo-ethboston-blue.png
+      - body: ''
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -608,6 +619,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
 
