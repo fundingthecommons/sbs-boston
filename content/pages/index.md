@@ -430,7 +430,6 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - {}
       - body: ''
       - image:
           src: /uploads/logo-hbar.svg
@@ -444,13 +443,11 @@ blocks:
           src: /uploads/logo-climate-collective.svg
         body: ''
       - image:
-          src: /uploads/logo-boston-dao-blue.png
-        body: ''
-      - image:
           src: /uploads/logo-hyphen.svg
         headline: ''
         subhead: ''
         body: ''
+      - {}
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -611,6 +608,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
+
 
 
 
