@@ -24,10 +24,11 @@ export const SectionListItemsPlugin = {
       const templateNames = {
         accordian: 'Accordian',
         banner: 'Banner',
+        cards: 'Cards',
         embed: 'Embed',
         feature: 'Feature',
         fullImage: 'Image',
-        cards: 'Cards',
+        timeline: 'Timeline',
         tailwindCards: 'Cards TW',
         tailwindFeature: 'Feature TW',
         textCards: 'Text Cards',

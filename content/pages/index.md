@@ -168,6 +168,147 @@ blocks:
     navigationLabel: Speakers
     _template: cards
   - style:
+      alignment: flex-col-reverse items-center gap-12
+      padding: pt-20 pb-20 pr-32 pl-32
+      featureContent: w-4/5 min-h-0 text-center
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-primary mg-headline-large undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black mg-copy-medium undefined
+    headline: Agenda
+    body: >
+      Qui nobis sint sed omnis explicabo 33 ducimus ratione non dolor saepe est
+      debitis debitis. Eos obcaecati enim qui delectus cupiditate sed assumenda
+      cupiditate quo voluptates quisquam. Qui aliquid tempora ut illum nostrum
+      est aspernatur dolores.
+    timelines:
+      - headline: Montaña Stage
+        subhead: ''
+        body: ''
+        events:
+          - time: '10:00'
+            headline: Doors Open
+            subhead: Snacks provided
+          - time: '10:45'
+            headline: Building Blocks for the Regenerative Economy
+            subhead: 'Alan Ransil, Filecoin Green'
+          - time: '11:05'
+            headline: Unlocking Carbon Market Interoperability
+            subhead: 'Juan Duran, EcoRegistry & Marc Johnson, Filecoin Green'
+          - time: '11:25'
+            headline: >-
+              How to Bridge the Gap Between Web3 and Traditional Businesses in
+              the Carbon Markets
+            subhead: 'Joseph Hargreaves, Thallo'
+          - time: '11:40'
+            headline: How to Start a New Carbon Project That Has an Impact
+            subhead: 'Stenver Jerkku, Solid World DAO'
+          - time: '12:00'
+            headline: Unlocking Novel Demand for Carbon Credits
+            subhead: 'Marcus Aurelius, KlimaDAO'
+          - time: '12:15'
+            headline: Blockchain as a Driver of Economies in Latin America
+            subhead: 'Eloisa Cadenas, Cryptofintech'
+          - time: '12:30'
+            headline: Lunch
+          - time: '1:30'
+            headline: 'Web3 for the Real World: Including the Next Billion'
+            subhead: 'Chris Georgen, Topl'
+          - time: '1:55'
+            headline: Explore Data Center Carbon Credit Protocol (DCCC)
+            subhead: 'Sherlock Shi, Meson Network'
+          - time: '2:15'
+            headline: 'How Impact Certificates Will Change Web3 Incentives for Impact '
+            subhead: 'Holke Brammer, Protocol Labs/ Hypercerts.xyz'
+          - time: '2:30'
+            headline: Radical Transparency for Ecosystem Restoration Through NFTs
+            subhead: 'Facundo Cajén, GainForest'
+          - time: '2:45'
+            headline: The Revolution of Digital Property in the Amazonian
+            subhead: 'Brian Becerra Rojas, 21MBulls'
+          - time: '3:05'
+            headline: 'Keynote: The Global Carbon Reward'
+            subhead: 'Delton Chen PhD, Global Carbon Reward'
+          - time: '3:30'
+            headline: Greenverse Meets the Greenest Country on Earth
+            subhead: 'John Goedschalk, Conservation International Suriname'
+          - time: '3:45'
+            headline: 'The Narratives and Faces of ReFi '
+            subhead: 'Marcelo de Almeida Silva, ReFi Spring'
+          - time: '4:00'
+            headline: Scientific Collaboration for Ecosystem Regeneration
+            subhead: 'Sage Shelton, ReSci Network'
+          - time: '4:20'
+            headline: >-
+              Building on a Successful Model of Large-Scale Conservation with
+              Indigenous Peoples
+            subhead: 'John Meisner, The Kayapo Project'
+          - time: '4:35'
+            headline: 'The *Real* Ministry for the Future: An Urgent Call to Action'
+            subhead: 'Alan Ransil, Filecoin Green & Delton Chen, Global Carbon Reward '
+          - time: '5:15'
+            headline: Happy Hour
+            subhead: 'Featuring local music, food, and drinks'
+          - time: '7:00'
+            headline: Event Ends
+      - label: Selva Track
+        headline: Selva Stage
+        subhead: ''
+        body: ''
+        events:
+          - time: '10:00'
+            headline: Doors Open
+            subhead: Snacks provided
+          - time: '11:45'
+            headline: 'Topl-ing the World: Financial Innovation for Improved Impact'
+            subhead: 'Erin Murphy & Chris Georgen, Topl'
+          - time: '12:30 '
+            headline: Lunch
+            subhead: ''
+          - time: '1:30'
+            headline: Fundraising for ReFi / ReGen Projects
+            subhead: 'Laura Vidiella, LedgerPrime'
+          - time: '1:50'
+            headline: The ReFi Stack
+            subhead: 'Phil Fogel, Flowcarbon'
+          - time: '2:05'
+            headline: >-
+              Tokenizing Carbon Offsets for Brand Engagement and Loyalty
+              Programs
+            subhead: 'Tom Herman, Meta Carbon'
+          - time: '2:25'
+            headline: Changing the Mainstream Narrative around Crypto
+            subhead: 'Azeem Khan, Gitcoin'
+          - time: '2:45'
+            headline: Aligning on a Baseline Carbon Token Standard
+            subhead: 'John X, Toucan Protocol'
+          - time: '3:00'
+            headline: Reimagining the Money Game
+            subhead: 'Lauren Luz, Giveth'
+          - time: '3:15'
+            headline: Gamify ReFi to Make any Blockchain Provably Green
+            subhead: 'Beltran Berrocal, ZeroLabs'
+          - time: '3:35'
+            headline: 'Making ReFi Real - Liquidity and Pricing of Ecological Assets '
+            subhead: 'Jahed Momand, Cerulean Ventures'
+          - time: '4:00'
+            headline: Incentivizing Sustainability with Blockchain
+            subhead: 'Anya Singh, University Affiliation'
+          - time: '4:15'
+            headline: Building the Climate Data Internet
+            subhead: 'Marco Schletz, Open Earth Foundation & Data-Driven Lab'
+          - time: '4:30'
+            headline: Colombia/Latam Acting on Offsetting Carbon Emissions
+            subhead: 'Ester Fonseca Silva, Carb0n.Fi'
+          - time: '4:45'
+            headline: >-
+              How NFT Technology Can Help Monitor and Commit to a True
+              Protection of the Green Arks of the Planet
+            subhead: >-
+              Juan José Giraldo Campuzano & Álvaro Vanegas, Green Digital
+              Guardians
+    _template: timeline
+  - style:
       alignment: flex-col-reverse items-center gap-8
       padding: 'pt-60 pb-16 pr-32 pl-32 sm:pt-60 sm:pb-14 sm:pr-5 sm:pl-5'
       featureContent: 'w-full min-h-0 text-center sm:w-full sm:min-h-0 sm:text-left'
@@ -447,7 +588,7 @@ blocks:
         headline: ''
         subhead: ''
         body: ''
-      - {}
+      - body: ''
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -608,18 +749,4 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-boston-social-image-website.png
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
