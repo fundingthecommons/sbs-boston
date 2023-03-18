@@ -59,7 +59,7 @@ export const Timeline = ({ data, parentField = "" }) => {
               <div className="absolute top-40 bottom-20 left-1/2 border-l-2 border-dashed hidden sm:block"></div>
               {data.timelines.map(function (timeline, index) {
                 return (
-                  <TimelineItem timeline={timeline} isActive={true} index={index} />
+                  <TimelineItem timeline={timeline} isActive={true} index={index} key={index} />
                 )
               })}
             </div>
