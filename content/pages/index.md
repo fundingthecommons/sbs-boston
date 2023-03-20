@@ -409,7 +409,7 @@ blocks:
       grid: >-
         grid-cols-2 justify-center gap-12 sm:grid-cols-1 sm:justify-center
         sm:gap-12
-      gridWidth: 'w-3/4 sm:w-3/4'
+      gridWidth: 'w-3/5 sm:w-3/4'
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
@@ -435,9 +435,9 @@ blocks:
       padding: 'pt-20 pb-0 pr-32 pl-32 sm:pt-20 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
       grid: >-
-        grid-cols-2 justify-center gap-12 sm:grid-cols-1 sm:justify-center
+        grid-cols-3 justify-center gap-12 sm:grid-cols-1 sm:justify-center
         sm:gap-12
-      gridWidth: 'w-3/4 sm:w-3/4'
+      gridWidth: 'w-full sm:w-3/4'
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
@@ -447,10 +447,13 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - src: /uploads/logo-hbar.svg
-      - src: /uploads/logo-toucan.svg
       - src: /uploads/logo-climate-collective.svg
+      - src: /uploads/logo-hbar.svg
       - src: /uploads/logo-hyphen.svg
+      - src: /uploads/logo-blockgreen.svg
+      - src: /uploads/logo-toucan.svg
+      - src: /uploads/logo-boston-dao.png
+      - src: /uploads/logo-ethboston.png
     _template: logos
   - style:
       padding: 'pt-20 pb-0 pr-32 pl-32 sm:pt-20 sm:pb-0 sm:pr-10 sm:pl-10'
@@ -458,7 +461,7 @@ blocks:
       grid: >-
         grid-cols-2 justify-center gap-12 sm:grid-cols-1 sm:justify-center
         sm:gap-12
-      gridWidth: 'w-3/4 sm:w-3/4'
+      gridWidth: 'w-3/5 sm:w-3/4'
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
