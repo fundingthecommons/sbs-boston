@@ -116,12 +116,12 @@ blocks:
         subhead: Protocol Labs
         body: ''
       - image:
-          src: /uploads/kirsteen-harrison3.jpg
+          src: /uploads/kirsteen-harrison.jpg
         headline: Kirsteen Harrison
         subhead: Zumo
         body: ''
       - image:
-          src: /uploads/Screen_Shot_2022-07-08_at_2.02.19_PM_skwhh9.png
+          src: /uploads/paula-palermo.jpg
         headline: Paula Palermo
         subhead: Impacta Finance
         body: ''
@@ -136,7 +136,7 @@ blocks:
         subhead: Consensus
         body: ''
       - image:
-          src: /uploads/sharfy-adamantine2.jpg
+          src: /uploads/sharfy-adamantine.jpg
         headline: Sharfy Adamantine
         subhead: Gainforest
         body: ''
@@ -146,7 +146,7 @@ blocks:
         subhead: UNFCCC
         body: ''
       - image:
-          src: /uploads/sage-shelton2.jpg
+          src: /uploads/sage-shelton.jpg
         headline: Sage Shelton
         subhead: ReSci Network
         body: ''
@@ -161,7 +161,7 @@ blocks:
         subhead: Open Forest Protocol
         body: ''
       - image:
-          src: /uploads/alan-ransil-PL2.jpg
+          src: /uploads/alan-ransil.jpg
         headline: Alan Ransil
         subhead: Filecoin Green
         body: ''
@@ -362,148 +362,76 @@ blocks:
     navigationLabel: FAQ
     _template: accordian
   - style:
-      alignment: flex-col-reverse items-center gap-6
-      padding: pt-20 pb-10 pr-10 pl-10
+      padding: 'pt-32 pb-0 pr-32 pl-32 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
+      grid: >-
+        grid-cols-2 justify-center gap-12 sm:grid-cols-1 sm:justify-center
+        sm:gap-12
+      gridWidth: 'w-3/5 sm:w-3/4'
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-    cardStyle:
+      textStyles: text-black mg-copy-medium undefined
+    background:
       fillStyles: ' opacity-100'
-      grid: 'grid-cols-4 items-start gap-20 sm:grid-cols-1 items-start sm:gap-12'
-      alignment: flex-row items-center  undefined
-      image: '  object-center undefined'
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      contentPadding: pt-2 pb-2 pr-2 pl-2
-      borderStyles: border-white border-0
-      labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-      buttonLayout: undefined
-      buttonWidth: undefined
+      src: /uploads/bg-gradient-slant-blue.svg
+      ornaments:
+        - src: /uploads/ornament-cloud.svg
+          alignment: top
+          width: '250'
+          xOffset: '-500'
+          yOffset: '80'
     label: ''
     headline: Supporters
     subhead: ''
     body: ''
     items:
-      - headline: ''
-        subhead: ''
-        body: ''
-      - image:
-          src: /uploads/logo-uncc2.svg
-        headline: ''
-        subhead: ''
-        body: ''
-      - image:
-          src: /uploads/logo-mit-energy2.svg
-        body: ''
-      - headline: ''
-        subhead: ''
-        body: ''
-    _template: cards
+      - src: /uploads/logo-uncc.svg
+      - src: /uploads/logo-mit-energy.svg
+    _template: logos
   - style:
-      alignment: flex-col-reverse items-center gap-6
-      padding: pt-20 pb-10 pr-10 pl-10
+      padding: 'pt-20 pb-0 pr-32 pl-32 sm:pt-20 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
+      grid: >-
+        grid-cols-3 justify-center gap-12 sm:grid-cols-1 sm:justify-center
+        sm:gap-12
+      gridWidth: 'w-full sm:w-3/4'
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-    cardStyle:
-      fillStyles: ' opacity-100'
-      grid: >-
-        grid-cols-5 justify-center gap-12 sm:grid-cols-1 sm:justify-center
-        sm:gap-12
-      alignment: flex-row items-start  text-center
-      image: '  object-center undefined  sm:hpx-0 sm:object-center undefined'
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      contentPadding: pt-2 pb-2 pr-2 pl-2
-      borderStyles: border-white border-0
-      labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-      buttonLayout: undefined
-      buttonWidth: undefined
+      textStyles: text-black mg-copy-medium undefined
     label: ''
     headline: Sponsors
     subhead: ''
     body: ''
     items:
-      - body: ''
-      - image:
-          src: /uploads/logo-climate-collective.svg
-        body: ''
-      - image:
-          src: /uploads/logo-hbar.svg
-        body: ''
-      - image:
-          src: /uploads/logo-hyphen.svg
-        headline: ''
-        subhead: ''
-        body: ''
-      - {}
-      - {}
-      - image:
-          src: /uploads/logo-blockgreen-blue.svg
-      - image:
-          src: /uploads/logo-toucan.svg
-        body: ''
-      - image:
-          src: /uploads/logo-boston-dao-blue.png
-      - {}
-      - {}
-      - {}
-      - image:
-          src: /uploads/logo-ethboston-blue.png
-      - body: ''
-    _template: cards
+      - src: /uploads/logo-climate-collective.svg
+      - src: /uploads/logo-hbar.svg
+      - src: /uploads/logo-hyphen.svg
+      - src: /uploads/logo-blockgreen.svg
+      - src: /uploads/logo-toucan.svg
+      - src: /uploads/logo-boston-dao.png
+      - src: /uploads/logo-ethboston.png
+    _template: logos
   - style:
-      alignment: flex-col-reverse items-center gap-8
-      padding: pt-20 pb-0 pr-10 pl-10
+      padding: 'pt-20 pb-0 pr-32 pl-32 sm:pt-20 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
+      grid: >-
+        grid-cols-2 justify-center gap-12 sm:grid-cols-1 sm:justify-center
+        sm:gap-12
+      gridWidth: 'w-3/5 sm:w-3/4'
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-    cardStyle:
-      fillStyles: ' opacity-100'
-      grid: >-
-        grid-cols-4 justify-center gap-12 sm:grid-cols-1 sm:justify-center
-        sm:gap-12
-      alignment: flex-col items-start  text-left
-      image: wpx- hpx- object-center object-fill
-      imagePadding: 'pt-0 pb-0 pr-0 pl-0 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
-      contentPadding: pt-0 pb-0 pr-0 pl-0
-      borderStyles: border-white border-0
-      labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-      buttonLayout: undefined
-      buttonWidth: undefined
+      textStyles: text-black mg-copy-medium undefined
     label: ''
     headline: Partners
     subhead: ''
     body: ''
     items:
-      - body: ''
-      - image:
-          src: /uploads/logo-filecoin-foundation.svg
-        headline: ''
-        subhead: ''
-        body: ''
-        link: 'https://fil.org/'
-      - image:
-          src: /uploads/logo-protocol-labs.svg
-        headline: ''
-        subhead: ''
-        body: ''
-        link: 'https://protocol.ai/'
-      - body: ''
-    _template: cards
+      - src: /uploads/logo-filecoin-foundation.svg
+      - src: /uploads/logo-protocol-labs.svg
+    _template: logos
   - style:
       alignment: 'flex-row items-center '
       padding: pt-20 pb-20 pr-10 pl-10
@@ -587,7 +515,7 @@ blocks:
       See where we’ve been, and explore past content.
     items:
       - image:
-          src: /uploads/SBS_Montana stage_-009.jpg
+          src: /uploads/sbs-montana-stage.jpg
         headline: 'SBS LATAM Bogotá, Colombia'
         subhead: 'Oct. 12, 2022'
         body: ''
@@ -617,21 +545,6 @@ meta:
     tools to regenerate the natural world, improving governance to benefit those
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
-  ogImage: /uploads/sbs-boston-social-image-website.png
+  ogImage: /uploads/social-image.png
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

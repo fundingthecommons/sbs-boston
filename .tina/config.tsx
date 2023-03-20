@@ -2,20 +2,22 @@ import { defineStaticConfig } from "tinacms";
 import { colorOptions } from "../schema/options";
 
 // Blocks
-import { featureBlockSchema } from "../components/blocks/feature";
-import { cardsBlockSchema } from "../components/blocks/cards";
 import { accordianBlockSchema } from "../components/blocks/accordian";
+import { cardsBlockSchema } from "../components/blocks/cards";
 import { embedBlockSchema } from "../components/blocks/embed";
-import { tailwindFeatureBlockSchema } from "../components/blocks/tailwind-feature"
-import { tailwindCardsBlockSchema } from "../components/blocks/tailwind-cards"
-import { fullImageBlockSchema } from "../components/blocks/full-image";
-import { videoBlockSchema } from "../components/blocks/video";
 import { eventTimelineBlockSchema } from "../components/blocks/event-timeline"
+import { featureBlockSchema } from "../components/blocks/feature";
+import { fullImageBlockSchema } from "../components/blocks/full-image";
+import { logosBlockSchema } from "../components/blocks/logos";
+import { tailwindCardsBlockSchema } from "../components/blocks/tailwind-cards"
+import { tailwindFeatureBlockSchema } from "../components/blocks/tailwind-feature"
+import { videoBlockSchema } from "../components/blocks/video";
+import { timelineBlockSchema } from "../components/blocks/timeline"
 
 // Collections
 import { eventCollectionSchema } from "../schema/collections/events"
-import { postCollectionSchema } from "../schema/collections/posts"
 import { globalCollectionSchema } from "../schema/collections/global"
+import { postCollectionSchema } from "../schema/collections/posts"
 import { themeCollectionSchema } from "../schema/collections/themes"
 
 const config = defineStaticConfig({
@@ -71,10 +73,11 @@ const config = defineStaticConfig({
               cardsBlockSchema,
               accordianBlockSchema,
               embedBlockSchema,
+              logosBlockSchema,
               tailwindFeatureBlockSchema,
               tailwindCardsBlockSchema,
-              eventTimelineBlockSchema,
               fullImageBlockSchema,
+              timelineBlockSchema,
               videoBlockSchema,
             ],
           },
