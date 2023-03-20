@@ -1,12 +1,13 @@
 import React from "react";
-import { Feature } from "./blocks/feature";
-import { Cards } from "./blocks/cards";
 import { Accordian } from "./blocks/accordian";
+import { Cards } from "./blocks/cards";
 import { Embed } from "./blocks/embed";
-import { TailwindFeature } from "./blocks/tailwind-feature";
-import { TailwindCards } from "./blocks/tailwind-cards";
 import { EventTimeline } from "./blocks/event-timeline";
+import { Feature } from "./blocks/feature";
 import { FullImage } from "./blocks/full-image";
+import { Logos } from "./blocks/logos";
+import { TailwindCards } from "./blocks/tailwind-cards";
+import { TailwindFeature } from "./blocks/tailwind-feature";
 import { Video } from "./blocks/video";
 
 export const Blocks = (props: any) => {
@@ -15,13 +16,13 @@ export const Blocks = (props: any) => {
       {props.blocks
         ? props.blocks.map(function (block, i) {
             switch (block.__typename) {
-              case "PageBlocksFeature":
+              case "PageBlocksAccordian":
                 return (
                   <div
                     data-tinafield={`blocks.${i}`}
                     key={i + block.__typename}
                   >
-                    <Feature data={block} parentField={`blocks.${i}`} />
+                    <Accordian data={block} parentField={`blocks.${i}`} />
                   </div>
                 );
               case "PageBlocksCards":
@@ -33,15 +34,6 @@ export const Blocks = (props: any) => {
                     <Cards data={block} parentField={`blocks.${i}`} />
                   </div>
                 );
-              case "PageBlocksAccordian":
-                return (
-                  <div
-                    data-tinafield={`blocks.${i}`}
-                    key={i + block.__typename}
-                  >
-                    <Accordian data={block} parentField={`blocks.${i}`} />
-                  </div>
-                );
               case "PageBlocksEmbed":
                 return (
                   <div
@@ -49,24 +41,6 @@ export const Blocks = (props: any) => {
                     key={i + block.__typename}
                   >
                     <Embed data={block} parentField={`blocks.${i}`} />
-                  </div>
-                );
-              case "PageBlocksTailwindFeature":
-                return (
-                  <div
-                    data-tinafield={`blocks.${i}`}
-                    key={i + block.__typename}
-                  >
-                    <TailwindFeature data={block} parentField={`blocks.${i}`} />
-                  </div>
-                );
-              case "PageBlocksTailwindCards":
-                return (
-                  <div
-                    data-tinafield={`blocks.${i}`}
-                    key={i + block.__typename}
-                  >
-                    <TailwindCards data={block} parentField={`blocks.${i}`} />
                   </div>
                 );
               case "PageBlocksEventTimeline":
@@ -78,6 +52,15 @@ export const Blocks = (props: any) => {
                     <EventTimeline data={block} events={props.events} parentField={`blocks.${i}`} />
                   </div>
                 );
+              case "PageBlocksFeature":
+                return (
+                  <div
+                    data-tinafield={`blocks.${i}`}
+                    key={i + block.__typename}
+                  >
+                    <Feature data={block} parentField={`blocks.${i}`} />
+                  </div>
+                );
               case "PageBlocksFullImage":
                 return (
                   <div
@@ -85,6 +68,33 @@ export const Blocks = (props: any) => {
                     key={i + block.__typename}
                   >
                     <FullImage data={block} parentField={`blocks.${i}`} />
+                  </div>
+                );
+              case "PageBlocksLogos":
+                return (
+                  <div
+                    data-tinafield={`blocks.${i}`}
+                    key={i + block.__typename}
+                  >
+                    <Logos data={block} parentField={`blocks.${i}`} />
+                  </div>
+                );
+              case "PageBlocksTailwindCards":
+                return (
+                  <div
+                    data-tinafield={`blocks.${i}`}
+                    key={i + block.__typename}
+                  >
+                    <TailwindCards data={block} parentField={`blocks.${i}`} />
+                  </div>
+                );
+              case "PageBlocksTailwindFeature":
+                return (
+                  <div
+                    data-tinafield={`blocks.${i}`}
+                    key={i + block.__typename}
+                  >
+                    <TailwindFeature data={block} parentField={`blocks.${i}`} />
                   </div>
                 );
               case "PageBlocksVideo":

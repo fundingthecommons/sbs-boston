@@ -362,137 +362,64 @@ blocks:
     navigationLabel: FAQ
     _template: accordian
   - style:
-      alignment: flex-col-reverse items-center gap-6
-      padding: pt-20 pb-10 pr-10 pl-10
+      padding: 'pt-10 pb-0 pr-32 pl-32 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
+      grid: >-
+        grid-cols-2 justify-center gap-12 sm:grid-cols-1 sm:justify-center
+        sm:gap-12
+      gridWidth: 'w-3/4 sm:w-3/4'
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-    cardStyle:
-      fillStyles: ' opacity-100'
-      grid: 'grid-cols-4 items-start gap-20 sm:grid-cols-1 items-start sm:gap-12'
-      alignment: flex-row items-center  undefined
-      image: '  object-center undefined'
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      contentPadding: pt-2 pb-2 pr-2 pl-2
-      borderStyles: border-white border-0
-      labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-      buttonLayout: undefined
-      buttonWidth: undefined
+      textStyles: text-black mg-copy-medium undefined
     label: ''
     headline: Supporters
     subhead: ''
     body: ''
     items:
-      - headline: ''
-        subhead: ''
-        body: ''
-      - image:
-          src: /uploads/logo-uncc2.svg
-        headline: ''
-        subhead: ''
-        body: ''
-      - image:
-          src: /uploads/logo-mit-energy2.svg
-        body: ''
-      - headline: ''
-        subhead: ''
-        body: ''
-    _template: cards
+      - src: /uploads/UNCC-United-Nations-Climate-Change-logo-blue.svg
+      - src: /uploads/logo-mit-energy.svg
+    _template: logos
   - style:
-      alignment: flex-col-reverse items-center gap-6
-      padding: pt-20 pb-10 pr-10 pl-10
+      padding: 'pt-20 pb-0 pr-32 pl-32 sm:pt-20 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
+      grid: >-
+        grid-cols-2 justify-center gap-12 sm:grid-cols-1 sm:justify-center
+        sm:gap-12
+      gridWidth: 'w-3/4 sm:w-3/4'
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-    cardStyle:
-      fillStyles: ' opacity-100'
-      grid: 'grid-cols-4 items-start gap-12 sm:grid-cols-1 items-start sm:gap-12'
-      alignment: flex-row items-start  undefined
-      image: '  undefined undefined'
-      imagePadding: pt-0 pb-0 pr-0 pl-0
-      contentPadding: pt-2 pb-2 pr-2 pl-2
-      borderStyles: border-white border-0
-      labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-      buttonLayout: undefined
-      buttonWidth: undefined
+      textStyles: text-black mg-copy-medium undefined
     label: ''
     headline: Sponsors
     subhead: ''
     body: ''
     items:
-      - body: ''
-      - image:
-          src: /uploads/logo-hbar.svg
-        body: ''
-      - image:
-          src: /uploads/logo-toucan.svg
-        body: ''
-      - body: ''
-      - body: ''
-      - image:
-          src: /uploads/logo-climate-collective.svg
-        body: ''
-      - image:
-          src: /uploads/logo-hyphen.svg
-        headline: ''
-        subhead: ''
-        body: ''
-      - {}
-    _template: cards
+      - src: /uploads/logo-hbar.svg
+      - src: /uploads/logo-toucan.svg
+      - src: /uploads/logo-climate-collective.svg
+      - src: /uploads/logo-hyphen.svg
+    _template: logos
   - style:
-      alignment: flex-col-reverse items-center gap-8
-      padding: pt-20 pb-0 pr-10 pl-10
+      padding: 'pt-20 pb-0 pr-32 pl-32 sm:pt-20 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
+      grid: >-
+        grid-cols-2 justify-center gap-12 sm:grid-cols-1 sm:justify-center
+        sm:gap-12
+      gridWidth: 'w-3/4 sm:w-3/4'
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-    cardStyle:
-      fillStyles: ' opacity-100'
-      grid: >-
-        grid-cols-4 justify-center gap-12 sm:grid-cols-1 sm:justify-center
-        sm:gap-12
-      alignment: flex-col items-start  text-left
-      image: wpx- hpx- object-center object-fill
-      imagePadding: 'pt-0 pb-0 pr-0 pl-0 sm:pt-0 sm:pb-0 sm:pr-0 sm:pl-0'
-      contentPadding: pt-0 pb-0 pr-0 pl-0
-      borderStyles: border-white border-0
-      labelStyles: text-black undefined undefined
-      headlineStyles: text-black undefined undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black undefined undefined
-      buttonLayout: undefined
-      buttonWidth: undefined
+      textStyles: text-black mg-copy-medium undefined
     label: ''
     headline: Partners
     subhead: ''
     body: ''
     items:
-      - body: ''
-      - image:
-          src: /uploads/logo-filecoin-foundation.svg
-        headline: ''
-        subhead: ''
-        body: ''
-        link: 'https://fil.org/'
-      - image:
-          src: /uploads/logo-protocol-labs.svg
-        headline: ''
-        subhead: ''
-        body: ''
-        link: 'https://protocol.ai/'
-      - body: ''
-    _template: cards
+      - src: /uploads/logo-filecoin-foundation.svg
+      - src: /uploads/logo-protocol-labs.svg
+    _template: logos
   - style:
       alignment: 'flex-row items-center '
       padding: pt-20 pb-20 pr-10 pl-10

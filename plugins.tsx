@@ -27,7 +27,7 @@ export const SectionListItemsPlugin = {
         embed: 'Embed',
         feature: 'Feature',
         fullImage: 'Image',
-        cards: 'Cards',
+        logos: 'Logos',
         tailwindCards: 'Cards TW',
         tailwindFeature: 'Feature TW',
         textCards: 'Text Cards',
@@ -58,7 +58,7 @@ export const itemListFieldPlugin = {
     const field = {
       ...props.field,
       itemProps: (item) => {
-        return { label: item.headline || item.subhead || item.label || item.src || item.video }
+        return { label: item.headline || item.subhead || item.label || item.src?.replace('/uploads/', '') || item.video }
       },
     }
     return <GroupListField {...props} field={field} />
