@@ -176,11 +176,7 @@ blocks:
       subheadStyles: text-black undefined undefined
       textStyles: text-black mg-copy-medium undefined
     headline: Agenda
-    body: >
-      Qui nobis sint sed omnis explicabo 33 ducimus ratione non dolor saepe est
-      debitis debitis. Eos obcaecati enim qui delectus cupiditate sed assumenda
-      cupiditate quo voluptates quisquam. Qui aliquid tempora ut illum nostrum
-      est aspernatur dolores.
+    body: 
     timelines:
       - headline: Track 1
         subhead: ''
