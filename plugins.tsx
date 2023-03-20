@@ -29,6 +29,7 @@ export const SectionListItemsPlugin = {
         feature: 'Feature',
         fullImage: 'Image',
         logos: 'Logos',
+        timeline: 'Timeline',
         tailwindCards: 'Cards TW',
         tailwindFeature: 'Feature TW',
         textCards: 'Text Cards',
