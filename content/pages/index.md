@@ -404,7 +404,7 @@ blocks:
     navigationLabel: FAQ
     _template: accordian
   - style:
-      padding: 'pt-10 pb-0 pr-32 pl-32 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
+      padding: 'pt-32 pb-0 pr-32 pl-32 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
       grid: >-
         grid-cols-2 justify-center gap-12 sm:grid-cols-1 sm:justify-center
@@ -414,6 +414,15 @@ blocks:
       headlineStyles: text-primary mg-headline-large undefined
       subheadStyles: text-black undefined undefined
       textStyles: text-black mg-copy-medium undefined
+    background:
+      fillStyles: ' opacity-100'
+      src: /uploads/bg-gradient-slant-blue.svg
+      ornaments:
+        - src: /uploads/ornament-cloud.svg
+          alignment: top
+          width: '250'
+          xOffset: '-500'
+          yOffset: '80'
     label: ''
     headline: Supporters
     subhead: ''
