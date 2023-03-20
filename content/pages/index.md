@@ -176,7 +176,7 @@ blocks:
       subheadStyles: text-black undefined undefined
       textStyles: text-black mg-copy-medium undefined
     headline: Agenda
-    body: 
+    body: ''
     timelines:
       - headline: Track 1
         subhead: ''
@@ -403,7 +403,7 @@ blocks:
       padding: 'pt-32 pb-0 pr-32 pl-32 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
       grid: >-
-        grid-cols-2 justify-center gap-12 sm:grid-cols-1 sm:justify-center
+        grid-cols-2 justify-center gap-20 sm:grid-cols-1 sm:justify-center
         sm:gap-12
       gridWidth: 'w-3/5 sm:w-3/4'
       labelStyles: text-black undefined undefined
@@ -431,7 +431,7 @@ blocks:
       padding: 'pt-20 pb-0 pr-32 pl-32 sm:pt-20 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
       grid: >-
-        grid-cols-3 justify-center gap-12 sm:grid-cols-1 sm:justify-center
+        grid-cols-3 justify-center gap-20 sm:grid-cols-1 sm:justify-center
         sm:gap-12
       gridWidth: 'w-full sm:w-3/4'
       labelStyles: text-black undefined undefined
@@ -488,7 +488,7 @@ blocks:
         buttonStyle: primary
     _template: feature
   - image:
-      src: /uploads/george-washington-statue.jpg
+      src: /uploads/boston-graphic.jpg
     _template: fullImage
   - style:
       alignment: 'flex-col-reverse items-center '
@@ -585,4 +585,5 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
