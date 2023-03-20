@@ -168,48 +168,6 @@ blocks:
     navigationLabel: Speakers
     _template: cards
   - style:
-      alignment: flex-col-reverse items-center gap-12
-      padding: pt-20 pb-20 pr-32 pl-32
-      featureContent: w-4/5 min-h-0 text-center
-      labelStyles: text-black undefined undefined
-      headlineStyles: text-primary mg-headline-large undefined
-      subheadStyles: text-black undefined undefined
-      textStyles: text-black mg-copy-medium undefined
-    headline: Agenda
-    body: >
-      Qui nobis sint sed omnis explicabo 33 ducimus ratione non dolor saepe est
-      debitis debitis. Eos obcaecati enim qui delectus cupiditate sed assumenda
-      cupiditate quo voluptates quisquam. Qui aliquid tempora ut illum nostrum
-      est aspernatur dolores.
-    timelines:
-      - headline: Track 1
-        subhead: ''
-        body: ''
-        events:
-          - time: '10:00'
-            headline: Doors Open
-            subhead: Snacks provided
-          - time: '10:45'
-            headline: Building Blocks for the Regenerative Economy
-            subhead: 'Alan Ransil, Filecoin Green'
-          - time: '11:05'
-            headline: Unlocking Carbon Market Interoperability
-            subhead: 'Juan Duran, EcoRegistry & Marc Johnson, Filecoin Green'
-      - headline: Track 2
-        subhead: ''
-        body: ''
-        events:
-          - time: '10:00'
-            headline: Doors Open
-            subhead: Snacks provided
-          - time: '11:45'
-            headline: 'Topl-ing the World: Financial Innovation for Improved Impact'
-            subhead: 'Erin Murphy & Chris Georgen, Topl'
-          - time: '12:30 '
-            headline: Lunch
-            subhead: ''
-    _template: timeline
-  - style:
       alignment: flex-col-reverse items-center gap-8
       padding: 'pt-60 pb-16 pr-32 pl-32 sm:pt-60 sm:pb-14 sm:pr-5 sm:pl-5'
       featureContent: 'w-full min-h-0 text-center sm:w-full sm:min-h-0 sm:text-left'
