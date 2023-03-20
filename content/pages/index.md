@@ -116,12 +116,12 @@ blocks:
         subhead: Protocol Labs
         body: ''
       - image:
-          src: /uploads/kirsteen-harrison3.jpg
+          src: /uploads/kirsteen-harrison.jpg
         headline: Kirsteen Harrison
         subhead: Zumo
         body: ''
       - image:
-          src: /uploads/Screen_Shot_2022-07-08_at_2.02.19_PM_skwhh9.png
+          src: /uploads/paula-palermo.jpg
         headline: Paula Palermo
         subhead: Impacta Finance
         body: ''
@@ -136,7 +136,7 @@ blocks:
         subhead: Consensus
         body: ''
       - image:
-          src: /uploads/sharfy-adamantine2.jpg
+          src: /uploads/sharfy-adamantine.jpg
         headline: Sharfy Adamantine
         subhead: Gainforest
         body: ''
@@ -146,7 +146,7 @@ blocks:
         subhead: UNFCCC
         body: ''
       - image:
-          src: /uploads/sage-shelton2.jpg
+          src: /uploads/sage-shelton.jpg
         headline: Sage Shelton
         subhead: ReSci Network
         body: ''
@@ -161,7 +161,7 @@ blocks:
         subhead: Open Forest Protocol
         body: ''
       - image:
-          src: /uploads/alan-ransil-PL2.jpg
+          src: /uploads/alan-ransil.jpg
         headline: Alan Ransil
         subhead: Filecoin Green
         body: ''
@@ -377,7 +377,7 @@ blocks:
     subhead: ''
     body: ''
     items:
-      - src: /uploads/UNCC-United-Nations-Climate-Change-logo-blue.svg
+      - src: /uploads/logo-uncc.svg
       - src: /uploads/logo-mit-energy.svg
     _template: logos
   - style:
@@ -533,7 +533,7 @@ meta:
     tools to regenerate the natural world, improving governance to benefit those
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
-  ogImage: /uploads/sbs-boston-social-image-website.png
+  ogImage: /uploads/social-image.png
 ---
 
 
