@@ -105,8 +105,14 @@ blocks:
       leaders, NGO's and leaders from web3 and ReFi projects.&#x20;
     items:
       - {}
-      - {}
-      - {}
+      - image:
+          src: /uploads/Ripplenami-IMG_9965-Final-4x5V Tighter.jpg
+        headline: Jaye Connolly-LaBelle
+        subhead: Caelum Resources
+      - image:
+          src: /uploads/Isha - headshot (1).jpg
+        headline: Isha Varshney
+        subhead: Celo Foundation
       - image:
           src: /uploads/Screenshot 2023-03-29 at 8.00.53 AM.png
         headline: Doug Miller
@@ -621,6 +627,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
