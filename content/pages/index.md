@@ -97,76 +97,282 @@ blocks:
     background:
       fillStyles: ' opacity-100'
     label: ''
-    headline: Previous Speakers
+    headline: Speakers
     subhead: ''
     body: >
-      Past SBS events have featured a diverse range of speakers, including
-      representatives from the UNFCCC, UNESCO, government officials, legacy
-      energy industry leaders, NGO's and leaders from web3 and ReFi projects.
-      SBS Boston speaker lineup to be announced soon.
+      SBS will feature a diverse range of speakers, including representatives
+      from the UNFCCC, legacy energy industry leaders, NGO's, and leaders from
+      web3 and ReFi projects.&#x20;
     items:
       - image:
-          src: /uploads/delton-chen.jpg
-        headline: Delton Chen
-        subhead: Global Carbon Reward
+          src: /uploads/Screenshot 2023-03-29 at 7.44.46 AM.png
+        headline: Jason Jay
+        subhead: MIT Sloan School of Management
         body: ''
       - image:
-          src: /uploads/juan-benet.jpg
-        headline: Juan Benet
-        subhead: Protocol Labs
-        body: ''
-      - image:
-          src: /uploads/kirsteen-harrison.jpg
+          src: /uploads/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
         headline: Kirsteen Harrison
         subhead: Zumo
-        body: ''
-      - image:
-          src: /uploads/paula-palermo.jpg
-        headline: Paula Palermo
-        subhead: Impacta Finance
-        body: ''
-      - image:
-          src: /uploads/michael-casey-sq.jpg
-        headline: Michael Casey
-        subhead: Coindesk
-        body: ''
-      - image:
-          src: /uploads/steven-haft.jpg
-        headline: Steven Haft
-        subhead: Consensus
-        body: ''
-      - image:
-          src: /uploads/sharfy-adamantine.jpg
-        headline: Sharfy Adamantine
-        subhead: Gainforest
-        body: ''
       - image:
           src: /uploads/alex-paris.jpg
         headline: Alex Paris
         subhead: UNFCCC
         body: ''
       - image:
-          src: /uploads/sage-shelton.jpg
-        headline: Sage Shelton
-        subhead: ReSci Network
-        body: ''
+          src: /uploads/Screenshot 2023-03-29 at 8.15.44 AM.png
+        headline: Killian Daly
+        subhead: EnergyTag
       - image:
-          src: /uploads/kevin-owocki-sq.jpg
-        headline: Kevin Owocki
-        subhead: Gitcoin
-        body: ''
+          src: /uploads/1516158845713 (1).jpeg
+        headline: Peter Rosberg
+        subhead: Ripple
       - image:
-          src: /uploads/rim-jeong-sq.jpg
-        headline: Rim Jeong
-        subhead: Open Forest Protocol
-        body: ''
+          src: /uploads/Screenshot 2023-03-29 at 8.06.54 AM.png
+        headline: Maria Eisner Pelch
+        subhead: Concordium
+      - image:
+          src: /uploads/88DC979F-CCE1-4C02-B422-99C9F0AC73C5 (1).jpeg
+        headline: Joshua Soloway
+        subhead: Ethicstream
+      - image:
+          src: /uploads/Colour-Wash_Example.jpg
+        headline: Sebastien Hess
+        subhead: Block Green
+      - image:
+          src: /uploads/Ripplenami-IMG_9965-Final-4x5V Tighter.jpg
+        headline: Jaye Connolly-LaBelle
+        subhead: Caelum Resources
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 8.00.53 AM.png
+        headline: Doug Miller
+        subhead: Clean Energy Buyers Institute
+      - image:
+          src: /uploads/110714-A3.032 - Copy.JPG
+        headline: Cathy Mulligan
+        subhead: CM Digital Innovations
       - image:
           src: /uploads/alan-ransil.jpg
         headline: Alan Ransil
         subhead: Filecoin Green
         body: ''
+      - image:
+          src: /uploads/IMG_5451 (1).jpeg
+        headline: "Simge\tSandal"
+        subhead: GainForest
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.59.04 AM.png
+        headline: "Alexey\tShadrin"
+        subhead: Evercity
+      - image:
+          src: /uploads/Isha - headshot (1).jpg
+        headline: Isha Varshney
+        subhead: Celo Foundation
+      - image:
+          src: /uploads/IMG_7299.jpg
+        headline: "Wes\tGeisenberger"
+        subhead: HBAR Foundation
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.42.21 AM.png
+        headline: Gregory Landua
+        subhead: Regen Network
+        body: ''
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 8.10.53 AM.png
+        headline: Ryan Thomas
+        subhead: Simbiotica Finance
+      - image:
+          src: /uploads/1601586153430.jpg
+        headline: "Sam\tFlanagan"
+        subhead: Web3ForGood
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.59.56 AM.png
+        headline: "Boone\tBergsma"
+        subhead: Blockchain Laboratories and Carbonland Trust & DAO
+      - image:
+          src: /uploads/Screenshot 2023-03-28 at 5.43.53 PM.png
+        headline: Erin Murphy
+        subhead: Topl
+        body: ''
+      - image:
+          src: /uploads/MJ_29l (1).jpeg
+        headline: Marc Johnson
+        subhead: Filecoin Green
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 8.09.20 AM.png
+        headline: Kalyani Inampudi
+        subhead: ESG Consultant
+        body: ''
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.41.00 AM.png
+        headline: Fikriye Colette Kaya
+        subhead: 'CERN, Tufts University'
+        body: ''
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.43.38 AM.png
+        headline: Jason Kaasovic
+        subhead: Web3 Renewables
+        body: ''
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.55.03 AM.png
+        headline: Akshay Yeleswarapu
+        subhead: de-plan ostrom
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.45.57 AM.png
+        headline: Marcus Aurelius
+        subhead: KlimaDAO
+        body: ''
+      - image:
+          src: /uploads/HS Verra-1-278 copy.jpg
+        headline: "Benoît\tClément"
+        subhead: Verra
+      - image:
+          src: /uploads/IMG_2318 (1) (1).jpeg
+        headline: Ned Harvey
+        subhead: Digital Gaia
+        body: ''
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 8.12.00 AM.png
+        headline: "Caitlin\tMoore"
+        subhead: Filecoin Green
+      - image:
+          src: /uploads/B944A3CC-BD95-4229-8C07-B13CE8018B63 (1).jpeg
+        headline: 'Gloria Kimbwala '
+        subhead: Buidlbox.io
+        body: ''
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.48.56 AM.png
+        headline: "Nick\tEdmonds"
+        subhead: Topl
+        body: ''
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.50.25 AM.png
+        headline: Nirvaan Ranganathan
+        subhead: Climate Collective
+        body: ''
+      - image:
+          src: /uploads/1663337537474 (1).jpg
+        headline: Maxwell Kanter
+        subhead: Gitcoin
+        body: ''
     navigationLabel: Speakers
     _template: cards
+  - style:
+      alignment: flex-col-reverse items-center gap-12
+      padding: pt-20 pb-20 pr-32 pl-32
+      featureContent: w-4/5 min-h-0 text-center
+      labelStyles: text-black undefined undefined
+      headlineStyles: text-primary mg-headline-large undefined
+      subheadStyles: text-black undefined undefined
+      textStyles: text-black mg-copy-medium undefined
+    headline: Agenda
+    subhead: ''
+    body: ''
+    timelines:
+      - headline: Track 1
+        subhead: ''
+        body: ''
+        events:
+          - time: '9:00'
+            headline: Doors Open
+            subhead: Snacks provided
+          - time: '10:00'
+            headline: Opening Remarks
+            subhead: 'Alan Ransil, Filecoin Green'
+          - time: '10:20'
+            headline: Incorporating Local Stakeholders into Digital MRV Systems
+            subhead: 'Nirvaan Ranganathan, Climate Collective'
+          - time: '10:40'
+            headline: 'Panel: Land in ReFi '
+            subhead: >-
+              Caitlin Moore, Akshay Yeleswarapu, Gloria Kimbwala, Isha Varshney,
+              Boone Bergsma
+          - time: '11:25'
+            headline: >-
+              There's Not Much Fi in ReFi Without Interoperability with the Real
+              Economy
+            subhead: 'Ned Harvey, Digital Gaia'
+          - time: '11:45'
+            headline: >-
+              How to Talk to Non-Tech Audiences About What We're Building and
+              Why the Fate of the World Depends on It
+            subhead: 'Sam Flangan, Web3ForGood'
+          - time: '12:05'
+            headline: 'Panel: Renewable Electricity'
+            subhead: >-
+              Doug Miller, Kirsteen Harrison, Killian Daly, Maria Eisner Pelch,
+              Cathy Mulligan, Sebastien Hess
+          - time: '12:45'
+            headline: Lunch
+            subhead: Meal provided
+          - time: '1:20'
+            headline: DeFi 4 ReFi
+            subhead: 'Marc Johnson, Ryan Thomas, Mukund Venkatakrishnan'
+          - time: '1:50'
+            headline: 'Panel: ESG'
+            subhead: >-
+              Kalyani Inampudi, Jaye Connelly-Labelle, Joshua Soloway, Alexey
+              Shadrin, Benoit Clement
+          - time: '2:40'
+            headline: >-
+              ReFi Ecosystems: Sustainable Finance, DMRV, & Carbon Market
+              Mechanisms on Hedera
+            subhead: "Wes\tGeisenberger, HBAR Foundation"
+          - time: '3:00'
+            headline: >-
+              The Physical Impacts of Greenhouse Gases and How to Counter with
+              Carbon-forward Solutions
+            subhead: 'Fikriye Colette Kaya, CERN, Tufts University'
+          - time: '3:20'
+            headline: 'En-Roads Keynote '
+            subhead: 'Jason Jay, MIT'
+          - time: '4:10'
+            headline: Hackathon Finale
+          - time: '5:15'
+            headline: 'Panel: Collective Action'
+          - time: '5:45'
+            headline: Networking Reception
+            subhead: ''
+          - time: '7:00'
+            headline: Event Ends
+      - headline: Track 2
+        subhead: ''
+        body: ''
+        events:
+          - time: '9:00'
+            headline: Doors Open
+            subhead: Snacks provided
+          - time: '10:40'
+            headline: Deploying Capital for Impact in Web3
+            subhead: 'Maxwell Kanter, Gitcoin'
+          - time: '11:00'
+            headline: Toward an Open Data Standard for Environmental Assets
+            subhead: 'Marcus Aurelius, KlimaDAO'
+          - time: '11:20'
+            headline: How Tokenization Unlocks Potential to Improve Carbon Markets
+            subhead: 'Peter Rosberg, Ripple'
+          - time: '11:40'
+            headline: Incentivizing Impact Beyond Carbon
+            subhead: 'Nick Edmonds & Erin Murphy, Topl'
+          - time: '12:00'
+            headline: 'Fireside: ESG as a Backbone for Carbon'
+            subhead: 'Kalyani Inampudi, Jonathan Rackoff, Susan Fredholm Murphy'
+          - time: '12:45 '
+            headline: Lunch
+            subhead: Meal provided
+          - time: '1:55'
+            headline: 'Workshop: Renewable Energy'
+          - time: '3:00'
+            headline: 'Regen Network Talk '
+            subhead: 'Gregory Landua, Regen Network'
+          - time: '3:40'
+            headline: >-
+              Improving Access to Green Energy Markets for Small and Local
+              Systems
+            subhead: 'Jason Kasovic, Web3 Renewables'
+          - time: '4:00'
+            headline: 'Measure-to-Earn: Empowering Marginalized Communities Through Web3 '
+            subhead: 'Simge Sandal, Gainforest'
+    _template: timeline
   - style:
       alignment: flex-col-reverse items-center gap-8
       padding: 'pt-60 pb-16 pr-32 pl-32 sm:pt-60 sm:pb-14 sm:pr-5 sm:pl-5'
@@ -365,7 +571,7 @@ blocks:
       padding: 'pt-32 pb-0 pr-32 pl-32 sm:pt-10 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
       grid: >-
-        grid-cols-2 justify-center gap-12 sm:grid-cols-1 sm:justify-center
+        grid-cols-2 justify-center gap-20 sm:grid-cols-1 sm:justify-center
         sm:gap-12
       gridWidth: 'w-3/5 sm:w-3/4'
       labelStyles: text-black undefined undefined
@@ -393,7 +599,7 @@ blocks:
       padding: 'pt-20 pb-0 pr-32 pl-32 sm:pt-20 sm:pb-0 sm:pr-10 sm:pl-10'
       featureContent: w-full min-h-0 text-center
       grid: >-
-        grid-cols-3 justify-center gap-12 sm:grid-cols-1 sm:justify-center
+        grid-cols-3 justify-center gap-20 sm:grid-cols-1 sm:justify-center
         sm:gap-12
       gridWidth: 'w-full sm:w-3/4'
       labelStyles: text-black undefined undefined
@@ -408,7 +614,9 @@ blocks:
       - src: /uploads/logo-climate-collective.svg
       - src: /uploads/logo-hbar.svg
       - src: /uploads/logo-hyphen.svg
+      - src: /uploads/logo-ripple-4.svg
       - src: /uploads/logo-blockgreen.svg
+      - src: /uploads/logo-celo.svg
       - src: /uploads/logo-toucan.svg
       - src: /uploads/logo-boston-dao.png
       - src: /uploads/logo-ethboston.png
@@ -450,7 +658,7 @@ blocks:
         buttonStyle: primary
     _template: feature
   - image:
-      src: /uploads/george-washington-statue.jpg
+      src: /uploads/boston-graphic.jpg
     _template: fullImage
   - style:
       alignment: 'flex-col-reverse items-center '
@@ -512,7 +720,7 @@ blocks:
     headline: Previous events
     subhead: ''
     body: |
-      See where we’ve been, and explore past content.
+      See where we’ve been and explore past content.
     items:
       - image:
           src: /uploads/sbs-montana-stage.jpg
@@ -547,5 +755,3 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
-
-
