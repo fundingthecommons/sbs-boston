@@ -344,7 +344,7 @@ blocks:
             subhead: Snacks provided
           - time: '10:40'
             headline: Deploying Capital for Impact in Web3
-            subhead: Gitcoin
+            subhead: 'Maxwell Kanter, Gitcoin'
           - time: '11:00'
             headline: Toward an Open Data Standard for Environmental Assets
             subhead: 'Marcus Aurelius, KlimaDAO'
@@ -734,6 +734,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
