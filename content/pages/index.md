@@ -290,7 +290,11 @@ blocks:
               There's Not Much Fi in ReFi Without Interoperability with the Real
               Economy
             subhead: 'Ned Harvey, Digital Gaia'
-          - {}
+          - time: '11:45'
+            headline: >-
+              How to Talk to Non-Tech Audiences About What We're Building and
+              Why the Fate of the World Depends on It
+            subhead: 'Sam Flangan, Web3ForGood'
           - {}
           - {}
       - headline: Track 2
@@ -689,6 +693,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
