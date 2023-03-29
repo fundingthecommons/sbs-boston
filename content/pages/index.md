@@ -392,6 +392,7 @@ blocks:
           - time: '4:00'
             headline: 'Measure-to-Earn: Empowering Marginalized Communities Through Web3 '
             subhead: 'Simge Sandal, Gainforest'
+    navigationLabel: Agenda
     _template: timeline
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -775,4 +776,5 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
