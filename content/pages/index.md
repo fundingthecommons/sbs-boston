@@ -368,7 +368,9 @@ blocks:
               Improving Access to Green Energy Markets for Small and Local
               Systems
             subhead: 'Jason Kasovic, Web3 Renewables'
-          - {}
+          - time: '4:00'
+            headline: 'Measure-to-Earn: Empowering Marginalized Communities Through Web3 '
+            subhead: 'Simge Sandal, Gainforest'
     _template: timeline
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -752,6 +754,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
