@@ -104,6 +104,13 @@ blocks:
       from the UNFCCC, UNESCO, government officials, legacy energy industry
       leaders, NGO's and leaders from web3 and ReFi projects.&#x20;
     items:
+      - {}
+      - {}
+      - {}
+      - image:
+          src: /uploads/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
+        headline: Kirsteen Harrison
+        subhead: Zumo
       - image:
           src: /uploads/88DC979F-CCE1-4C02-B422-99C9F0AC73C5 (1).jpeg
         headline: Joshua Soloway
@@ -630,6 +637,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
