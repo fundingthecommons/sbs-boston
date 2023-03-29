@@ -316,7 +316,11 @@ blocks:
               ReFi Ecosystems: Sustainable Finance, DMRV, & Carbon Market
               Mechanisms on Hedera
             subhead: "Wes\tGeisenberger, HBAR Foundation"
-          - {}
+          - time: '3:00'
+            headline: >-
+              The Physical Impacts of Greenhouse Gases and How to Counter with
+              Carbon-forward Solutions
+            subhead: 'Fikriye Colette Kaya, CERN, Tufts University'
       - headline: Track 2
         subhead: ''
         body: ''
@@ -713,6 +717,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
