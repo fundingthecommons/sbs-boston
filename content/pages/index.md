@@ -97,43 +97,42 @@ blocks:
     background:
       fillStyles: ' opacity-100'
     label: ''
-    headline: Previous Speakers
+    headline: Speakers
     subhead: ''
     body: >
-      Past SBS events have featured a diverse range of speakers, including
-      representatives from the UNFCCC, UNESCO, government officials, legacy
-      energy industry leaders, NGO's and leaders from web3 and ReFi projects.
-      SBS Boston speaker lineup to be announced soon.
+      SBS will featire a diverse range of speakers, including representatives
+      from the UNFCCC, UNESCO, government officials, legacy energy industry
+      leaders, NGO's and leaders from web3 and ReFi projects.&#x20;
     items:
       - image:
-          src: /uploads/delton-chen.jpg
-        headline: Delton Chen
-        subhead: Global Carbon Reward
+          src: /uploads/Screenshot 2023-03-28 at 5.43.53 PM.png
+        headline: Erin Murphy
+        subhead: Topl
         body: ''
       - image:
-          src: /uploads/juan-benet.jpg
-        headline: Juan Benet
-        subhead: Protocol Labs
+          src: /uploads/Screenshot 2023-03-29 at 7.41.00 AM.png
+        headline: Fikriye Colette Kaya
+        subhead: 'CERN, Tufts University'
         body: ''
       - image:
-          src: /uploads/kirsteen-harrison.jpg
-        headline: Kirsteen Harrison
-        subhead: Zumo
+          src: /uploads/Screenshot 2023-03-29 at 7.43.38 AM.png
+        headline: Jason Kaasovic
+        subhead: Web3 Renewables
         body: ''
       - image:
-          src: /uploads/paula-palermo.jpg
-        headline: Paula Palermo
-        subhead: Impacta Finance
+          src: /uploads/Screenshot 2023-03-29 at 7.42.21 AM.png
+        headline: Gregory Landua
+        subhead: Regen Network
         body: ''
       - image:
-          src: /uploads/michael-casey-sq.jpg
-        headline: Michael Casey
-        subhead: Coindesk
+          src: /uploads/Screenshot 2023-03-29 at 7.44.46 AM.png
+        headline: Jason Jay
+        subhead: MIT Sloan School of Management
         body: ''
       - image:
-          src: /uploads/steven-haft.jpg
-        headline: Steven Haft
-        subhead: Consensus
+          src: /uploads/Screenshot 2023-03-29 at 7.45.57 AM.png
+        headline: Marcus Aurelius
+        subhead: KlimaDAO
         body: ''
       - image:
           src: /uploads/sharfy-adamantine.jpg
@@ -587,6 +586,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
