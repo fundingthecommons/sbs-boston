@@ -337,8 +337,6 @@ blocks:
         subhead: ''
         body: ''
         events:
-          - {}
-          - {}
           - time: '9:00'
             headline: Doors Open
             subhead: Snacks provided
@@ -348,9 +346,13 @@ blocks:
           - time: '11:00'
             headline: Toward an Open Data Standard for Environmental Assets
             subhead: 'Marcus Aurelius, KlimaDAO'
+          - time: '11:20'
+            headline: How Tokenization Unlocks Potential to Improve Carbon Markets
+            subhead: 'Peter Rosberg, Ripple'
           - time: '12:30 '
             headline: Lunch
             subhead: ''
+          - {}
     _template: timeline
   - style:
       alignment: flex-col-reverse items-center gap-8
@@ -734,6 +736,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
