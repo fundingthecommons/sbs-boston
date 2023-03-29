@@ -277,9 +277,9 @@ blocks:
           - time: '10:00'
             headline: Opening Remarks
             subhead: 'Alan Ransil, Filecoin Green'
-          - time: '11:05'
-            headline: Unlocking Carbon Market Interoperability
-            subhead: 'Juan Duran, EcoRegistry & Marc Johnson, Filecoin Green'
+          - time: '10:20'
+            headline: Incorporating Local Stakeholders into Digital MRV Systems
+            subhead: 'Nirvaan Ranganathan, Climate Collective'
       - headline: Track 2
         subhead: ''
         body: ''
@@ -676,6 +676,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
