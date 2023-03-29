@@ -285,7 +285,8 @@ blocks:
             subhead: >-
               Caitlin Moore, Akshay Yeleswarapu, Gloria Kimbwala, Isha Varshney,
               Boone Bergsma
-          - headline: >-
+          - time: '11:25'
+            headline: >-
               There's Not Much Fi in ReFi Without Interoperability with the Real
               Economy
             subhead: 'Ned Harvey, Digital Gaia'
@@ -688,6 +689,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
