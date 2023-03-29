@@ -113,6 +113,7 @@ blocks:
           src: /uploads/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
         headline: Kirsteen Harrison
         subhead: Zumo
+        body: ''
       - image:
           src: /uploads/alex-paris.jpg
         headline: Alex Paris
@@ -122,34 +123,42 @@ blocks:
           src: /uploads/Screenshot 2023-03-29 at 8.15.44 AM.png
         headline: Killian Daly
         subhead: EnergyTag
+        body: ''
       - image:
           src: /uploads/1516158845713 (1).jpeg
         headline: Peter Rosberg
         subhead: Ripple
+        body: ''
       - image:
           src: /uploads/Screenshot 2023-03-29 at 8.06.54 AM.png
         headline: Maria Eisner Pelch
         subhead: Concordium
+        body: ''
       - image:
           src: /uploads/88DC979F-CCE1-4C02-B422-99C9F0AC73C5 (1).jpeg
         headline: Joshua Soloway
         subhead: Ethicstream
+        body: ''
       - image:
           src: /uploads/Colour-Wash_Example.jpg
         headline: Sebastien Hess
         subhead: Block Green
+        body: ''
       - image:
           src: /uploads/Ripplenami-IMG_9965-Final-4x5V Tighter.jpg
         headline: Jaye Connolly-LaBelle
         subhead: Caelum Resources
+        body: ''
       - image:
           src: /uploads/Screenshot 2023-03-29 at 8.00.53 AM.png
         headline: Doug Miller
         subhead: Clean Energy Buyers Institute
+        body: ''
       - image:
           src: /uploads/110714-A3.032 - Copy.JPG
         headline: Cathy Mulligan
         subhead: CM Digital Innovations
+        body: ''
       - image:
           src: /uploads/alan-ransil.jpg
         headline: Alan Ransil
@@ -159,18 +168,22 @@ blocks:
           src: /uploads/IMG_5451 (1).jpeg
         headline: "Simge\tSandal"
         subhead: GainForest
+        body: ''
       - image:
           src: /uploads/Screenshot 2023-03-29 at 7.59.04 AM.png
         headline: "Alexey\tShadrin"
         subhead: Evercity
+        body: ''
       - image:
           src: /uploads/Isha - headshot (1).jpg
         headline: Isha Varshney
         subhead: Celo Foundation
+        body: ''
       - image:
           src: /uploads/IMG_7299.jpg
         headline: "Wes\tGeisenberger"
         subhead: HBAR Foundation
+        body: ''
       - image:
           src: /uploads/Screenshot 2023-03-29 at 7.42.21 AM.png
         headline: Gregory Landua
@@ -180,14 +193,17 @@ blocks:
           src: /uploads/Screenshot 2023-03-29 at 8.10.53 AM.png
         headline: Ryan Thomas
         subhead: Simbiotica Finance
+        body: ''
       - image:
           src: /uploads/1601586153430.jpg
         headline: "Sam\tFlanagan"
         subhead: Web3ForGood
+        body: ''
       - image:
           src: /uploads/Screenshot 2023-03-29 at 7.59.56 AM.png
         headline: "Boone\tBergsma"
         subhead: Blockchain Laboratories and Carbonland Trust & DAO
+        body: ''
       - image:
           src: /uploads/Screenshot 2023-03-28 at 5.43.53 PM.png
         headline: Erin Murphy
@@ -197,6 +213,7 @@ blocks:
           src: /uploads/MJ_29l (1).jpeg
         headline: Marc Johnson
         subhead: Filecoin Green
+        body: ''
       - image:
           src: /uploads/Screenshot 2023-03-29 at 8.09.20 AM.png
         headline: Kalyani Inampudi
@@ -216,6 +233,7 @@ blocks:
           src: /uploads/Screenshot 2023-03-29 at 7.55.03 AM.png
         headline: Akshay Yeleswarapu
         subhead: de-plan ostrom
+        body: ''
       - image:
           src: /uploads/Screenshot 2023-03-29 at 7.45.57 AM.png
         headline: Marcus Aurelius
@@ -225,6 +243,7 @@ blocks:
           src: /uploads/HS Verra-1-278 copy.jpg
         headline: "Benoît\tClément"
         subhead: Verra
+        body: ''
       - image:
           src: /uploads/IMG_2318 (1) (1).jpeg
         headline: Ned Harvey
@@ -234,6 +253,7 @@ blocks:
           src: /uploads/Screenshot 2023-03-29 at 8.12.00 AM.png
         headline: "Caitlin\tMoore"
         subhead: Filecoin Green
+        body: ''
       - image:
           src: /uploads/B944A3CC-BD95-4229-8C07-B13CE8018B63 (1).jpeg
         headline: 'Gloria Kimbwala '
@@ -362,7 +382,7 @@ blocks:
           - time: '1:55'
             headline: 'Workshop: Renewable Energy'
           - time: '3:00'
-            headline: 'Regen Network Talk '
+            headline: 'Turning the Six Strings of Regenerative Finance: A One Year Update'
             subhead: 'Gregory Landua, Regen Network'
           - time: '3:40'
             headline: >-
@@ -755,3 +775,4 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
