@@ -104,7 +104,10 @@ blocks:
       from the UNFCCC, UNESCO, government officials, legacy energy industry
       leaders, NGO's and leaders from web3 and ReFi projects.&#x20;
     items:
-      - {}
+      - image:
+          src: /uploads/88DC979F-CCE1-4C02-B422-99C9F0AC73C5 (1).jpeg
+        headline: Joshua Soloway
+        subhead: Ethicstream
       - image:
           src: /uploads/Ripplenami-IMG_9965-Final-4x5V Tighter.jpg
         headline: Jaye Connolly-LaBelle
@@ -627,6 +630,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
