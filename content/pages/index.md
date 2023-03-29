@@ -106,7 +106,10 @@ blocks:
     items:
       - {}
       - {}
-      - {}
+      - image:
+          src: /uploads/MJ_29l (1).jpeg
+        headline: Marc Johnson
+        subhead: Filecoin Green
       - image:
           src: /uploads/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
         headline: Kirsteen Harrison
@@ -637,6 +640,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
