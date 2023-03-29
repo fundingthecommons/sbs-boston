@@ -105,7 +105,27 @@ blocks:
       leaders, NGO's and leaders from web3 and ReFi projects.&#x20;
     items:
       - {}
-      - {}
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 8.12.00 AM.png
+        headline: "Caitlin\tMoore"
+        subhead: Filecoin Green
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 8.10.53 AM.png
+        headline: Ryan Thomas
+        subhead: Simbiotica Finance
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 8.09.20 AM.png
+        headline: Kalyani Inampudi
+        subhead: ESG Consultant
+        body: ''
+      - image:
+          src: /uploads/Colour-Wash_Example.jpg
+        headline: Sebastien Hess
+        subhead: Block Green
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 8.06.54 AM.png
+        headline: Maria Eisner Pelch
+        subhead: Concordium
       - image:
           src: /uploads/MJ_29l (1).jpeg
         headline: Marc Johnson
@@ -640,6 +660,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
