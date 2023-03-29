@@ -446,7 +446,9 @@ blocks:
       - src: /uploads/logo-climate-collective.svg
       - src: /uploads/logo-hbar.svg
       - src: /uploads/logo-hyphen.svg
+      - src: /uploads/logo-ripple-4.svg
       - src: /uploads/logo-blockgreen.svg
+      - src: /uploads/logo-celo.svg
       - src: /uploads/logo-toucan.svg
       - src: /uploads/logo-boston-dao.png
       - src: /uploads/logo-ethboston.png
@@ -585,5 +587,6 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
