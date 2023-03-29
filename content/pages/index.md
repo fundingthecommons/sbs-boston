@@ -305,7 +305,7 @@ blocks:
             subhead: Meal provided
           - time: '1:20'
             headline: DeFi 4 ReFi
-            subhead: 'Marc Johnson, Ryan Thomas'
+            subhead: 'Marc Johnson, Ryan Thomas, Mukund Venkatakrishnan'
           - time: '1:50'
             headline: 'Panel: ESG'
             subhead: >-
@@ -729,6 +729,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
