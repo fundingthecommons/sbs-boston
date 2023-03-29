@@ -720,7 +720,7 @@ blocks:
     headline: Previous events
     subhead: ''
     body: |
-      See where we’ve been, and explore past content.
+      See where we’ve been and explore past content.
     items:
       - image:
           src: /uploads/sbs-montana-stage.jpg
@@ -755,6 +755,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
