@@ -135,9 +135,9 @@ blocks:
         subhead: KlimaDAO
         body: ''
       - image:
-          src: /uploads/sharfy-adamantine.jpg
-        headline: Sharfy Adamantine
-        subhead: Gainforest
+          src: /uploads/1663337537474 (1).jpg
+        headline: Maxwell Kanter
+        subhead: Gitcoin
         body: ''
       - image:
           src: /uploads/alex-paris.jpg
@@ -145,9 +145,9 @@ blocks:
         subhead: UNFCCC
         body: ''
       - image:
-          src: /uploads/sage-shelton.jpg
-        headline: Sage Shelton
-        subhead: ReSci Network
+          src: /uploads/IMG_2318 (1) (1).jpeg
+        headline: Ned Harvey
+        subhead: Digital Gaia
         body: ''
       - image:
           src: /uploads/kevin-owocki-sq.jpg
@@ -586,6 +586,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
