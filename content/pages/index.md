@@ -340,9 +340,9 @@ blocks:
           - time: '9:00'
             headline: Doors Open
             subhead: Snacks provided
-          - time: '11:45'
-            headline: 'Topl-ing the World: Financial Innovation for Improved Impact'
-            subhead: 'Erin Murphy & Chris Georgen, Topl'
+          - time: '10:40'
+            headline: Deploying Capital for Impact in Web3
+            subhead: Gitcoin
           - time: '12:30 '
             headline: Lunch
             subhead: ''
@@ -729,6 +729,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
