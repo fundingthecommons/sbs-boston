@@ -105,7 +105,26 @@ blocks:
       leaders, NGO's and leaders from web3 and ReFi projects.&#x20;
     items:
       - {}
-      - {}
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.59.04 AM.png
+        headline: "Alexey\tShadrin"
+        subhead: Evercity
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.55.03 AM.png
+        headline: Akshay Yeleswarapu
+        subhead: de-plan ostrom
+      - image:
+          src: /uploads/IMG_7299.jpg
+        headline: "Wes\tGeisenberger"
+        subhead: HBAR Foundation
+      - image:
+          src: /uploads/IMG_5451 (1).jpeg
+        headline: "Simge\tSandal"
+        subhead: GainForest
+      - image:
+          src: /uploads/1601586153430.jpg
+        headline: "Sam\tFlanagan"
+        subhead: Web3ForGood
       - image:
           src: /uploads/1516158845713 (1).jpeg
         headline: Peter Rosberg
@@ -592,6 +611,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
