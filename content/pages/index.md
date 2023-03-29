@@ -337,7 +337,7 @@ blocks:
         subhead: ''
         body: ''
         events:
-          - time: '10:00'
+          - time: '9:00'
             headline: Doors Open
             subhead: Snacks provided
           - time: '11:45'
@@ -729,6 +729,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
