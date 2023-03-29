@@ -271,11 +271,11 @@ blocks:
         subhead: ''
         body: ''
         events:
-          - time: '10:00'
+          - time: '9:00'
             headline: Doors Open
-            subhead: Snacks provided
-          - time: '10:45'
-            headline: Building Blocks for the Regenerative Economy
+            subhead: Light snacks provided
+          - time: '10:00'
+            headline: Opening Remarks
             subhead: 'Alan Ransil, Filecoin Green'
           - time: '11:05'
             headline: Unlocking Carbon Market Interoperability
@@ -676,6 +676,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
