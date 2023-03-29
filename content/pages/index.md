@@ -311,7 +311,11 @@ blocks:
             subhead: >-
               Kalyani Inampudi, Jaye Connelly-Labelle, Joshua Soloway, Alexey
               Shadrin, Benoit Clement
-          - {}
+          - time: '2:40'
+            headline: >-
+              ReFi Ecosystems: Sustainable Finance, DMRV, & Carbon Market
+              Mechanisms on Hedera
+            subhead: "Wes\tGeisenberger, HBAR Foundation"
           - {}
       - headline: Track 2
         subhead: ''
@@ -709,6 +713,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
