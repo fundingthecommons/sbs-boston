@@ -282,7 +282,7 @@ blocks:
             headline: Incorporating Local Stakeholders into Digital MRV Systems
             subhead: 'Nirvaan Ranganathan, Climate Collective'
           - time: '10:40'
-            headline: 'Land in Refi '
+            headline: 'Panel: Land in ReFi '
             subhead: >-
               Caitlin Moore, Akshay Yeleswarapu, Gloria Kimbwala, Isha Varshney,
               Boone Bergsma
@@ -755,6 +755,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
