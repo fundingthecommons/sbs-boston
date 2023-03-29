@@ -321,6 +321,18 @@ blocks:
               The Physical Impacts of Greenhouse Gases and How to Counter with
               Carbon-forward Solutions
             subhead: 'Fikriye Colette Kaya, CERN, Tufts University'
+          - time: '3:20'
+            headline: 'En-Roads Keynote '
+            subhead: 'Jason Jay, MIT'
+          - time: '4:10'
+            headline: Hackathon Finale
+          - time: '5:15'
+            headline: 'Panel: Collective Action'
+          - time: '5:30'
+            headline: Networking Reception
+            subhead: ''
+          - time: '7:00'
+            headline: Event Ends
       - headline: Track 2
         subhead: ''
         body: ''
@@ -717,6 +729,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
