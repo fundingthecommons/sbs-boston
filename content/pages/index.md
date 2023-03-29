@@ -295,6 +295,22 @@ blocks:
               How to Talk to Non-Tech Audiences About What We're Building and
               Why the Fate of the World Depends on It
             subhead: 'Sam Flangan, Web3ForGood'
+          - time: '12:05'
+            headline: 'Panel: Renewable Electricity'
+            subhead: >-
+              Doug Miller, Kirsteen Harrison, Killian Daly, Maria Eisner Pelch,
+              Cathy Mulligan, Sebastien Hess
+          - time: '12:45'
+            headline: Lunch
+            subhead: Meal provided
+          - time: '1:20'
+            headline: DeFi 4 ReFi
+            subhead: 'Marc Johnson, Ryan Thomas'
+          - time: '1:50'
+            headline: 'Panel: ESG'
+            subhead: >-
+              Kalyani Inampudi, Jaye Connelly-Labelle, Joshua Soloway, Alexey
+              Shadrin, Benoit Clement
           - {}
           - {}
       - headline: Track 2
@@ -693,6 +709,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
