@@ -115,105 +115,93 @@ blocks:
         subhead: UNFCCC
         body: ''
       - image:
-          src: /uploads/110714-A3.032 - Copy.JPG
-        headline: Cathy Mulligan
-        subhead: CM Digital Innovations
-      - image:
           src: /uploads/Screenshot 2023-03-29 at 8.15.44 AM.png
         headline: Killian Daly
         subhead: EnergyTag
-      - image:
-          src: /uploads/HS Verra-1-278 copy.jpg
-        headline: "Benoît\tClément"
-        subhead: Verra
-      - image:
-          src: /uploads/Screenshot 2023-03-29 at 8.12.00 AM.png
-        headline: "Caitlin\tMoore"
-        subhead: Filecoin Green
-      - image:
-          src: /uploads/Screenshot 2023-03-29 at 8.10.53 AM.png
-        headline: Ryan Thomas
-        subhead: Simbiotica Finance
-      - image:
-          src: /uploads/1516158845713 (1).jpeg
-        headline: Peter Rosberg
-        subhead: Ripple
-      - image:
-          src: /uploads/Screenshot 2023-03-29 at 8.09.20 AM.png
-        headline: Kalyani Inampudi
-        subhead: ESG Consultant
-        body: ''
       - image:
           src: /uploads/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
         headline: Kirsteen Harrison
         subhead: Zumo
       - image:
-          src: /uploads/Colour-Wash_Example.jpg
-        headline: Sebastien Hess
-        subhead: Block Green
+          src: /uploads/1516158845713 (1).jpeg
+        headline: Peter Rosberg
+        subhead: Ripple
       - image:
           src: /uploads/Screenshot 2023-03-29 at 8.06.54 AM.png
         headline: Maria Eisner Pelch
         subhead: Concordium
       - image:
-          src: /uploads/MJ_29l (1).jpeg
-        headline: Marc Johnson
-        subhead: Filecoin Green
+          src: /uploads/Colour-Wash_Example.jpg
+        headline: Sebastien Hess
+        subhead: Block Green
       - image:
           src: /uploads/88DC979F-CCE1-4C02-B422-99C9F0AC73C5 (1).jpeg
         headline: Joshua Soloway
         subhead: Ethicstream
       - image:
-          src: /uploads/Ripplenami-IMG_9965-Final-4x5V Tighter.jpg
-        headline: Jaye Connolly-LaBelle
-        subhead: Caelum Resources
-      - image:
-          src: /uploads/Isha - headshot (1).jpg
-        headline: Isha Varshney
-        subhead: Celo Foundation
-      - image:
           src: /uploads/Screenshot 2023-03-29 at 8.00.53 AM.png
         headline: Doug Miller
         subhead: Clean Energy Buyers Institute
       - image:
-          src: /uploads/Screenshot 2023-03-29 at 7.59.56 AM.png
-        headline: "Boone\tBergsma"
-        subhead: Blockchain Laboratories and Carbonland Trust & DAO
+          src: /uploads/110714-A3.032 - Copy.JPG
+        headline: Cathy Mulligan
+        subhead: CM Digital Innovations
+      - image:
+          src: /uploads/Ripplenami-IMG_9965-Final-4x5V Tighter.jpg
+        headline: Jaye Connolly-LaBelle
+        subhead: Caelum Resources
       - image:
           src: /uploads/alan-ransil.jpg
         headline: Alan Ransil
         subhead: Filecoin Green
         body: ''
       - image:
+          src: /uploads/Isha - headshot (1).jpg
+        headline: Isha Varshney
+        subhead: Celo Foundation
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.59.56 AM.png
+        headline: "Boone\tBergsma"
+        subhead: Blockchain Laboratories and Carbonland Trust & DAO
+      - image:
           src: /uploads/Screenshot 2023-03-29 at 7.59.04 AM.png
         headline: "Alexey\tShadrin"
         subhead: Evercity
       - image:
-          src: /uploads/B944A3CC-BD95-4229-8C07-B13CE8018B63 (1).jpeg
-        headline: 'Gloria Kimbwala '
-        subhead: Buidlbox.io
+          src: /uploads/Screenshot 2023-03-29 at 7.42.21 AM.png
+        headline: Gregory Landua
+        subhead: Regen Network
         body: ''
-      - image:
-          src: /uploads/Screenshot 2023-03-29 at 7.55.03 AM.png
-        headline: Akshay Yeleswarapu
-        subhead: de-plan ostrom
-      - image:
-          src: /uploads/IMG_7299.jpg
-        headline: "Wes\tGeisenberger"
-        subhead: HBAR Foundation
       - image:
           src: /uploads/IMG_5451 (1).jpeg
         headline: "Simge\tSandal"
         subhead: GainForest
       - image:
-          src: /uploads/1601586153430.jpg
-        headline: "Sam\tFlanagan"
-        subhead: Web3ForGood
+          src: /uploads/Screenshot 2023-03-29 at 8.09.20 AM.png
+        headline: Kalyani Inampudi
+        subhead: ESG Consultant
+        body: ''
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 8.10.53 AM.png
+        headline: Ryan Thomas
+        subhead: Simbiotica Finance
       - image:
           src: /uploads/Screenshot 2023-03-28 at 5.43.53 PM.png
         headline: Erin Murphy
         subhead: Topl
         body: ''
+      - image:
+          src: /uploads/IMG_7299.jpg
+        headline: "Wes\tGeisenberger"
+        subhead: HBAR Foundation
+      - image:
+          src: /uploads/1601586153430.jpg
+        headline: "Sam\tFlanagan"
+        subhead: Web3ForGood
+      - image:
+          src: /uploads/MJ_29l (1).jpeg
+        headline: Marc Johnson
+        subhead: Filecoin Green
       - image:
           src: /uploads/Screenshot 2023-03-29 at 7.41.00 AM.png
         headline: Fikriye Colette Kaya
@@ -225,15 +213,18 @@ blocks:
         subhead: Web3 Renewables
         body: ''
       - image:
-          src: /uploads/Screenshot 2023-03-29 at 7.42.21 AM.png
-        headline: Gregory Landua
-        subhead: Regen Network
-        body: ''
+          src: /uploads/Screenshot 2023-03-29 at 7.55.03 AM.png
+        headline: Akshay Yeleswarapu
+        subhead: de-plan ostrom
       - image:
           src: /uploads/Screenshot 2023-03-29 at 7.45.57 AM.png
         headline: Marcus Aurelius
         subhead: KlimaDAO
         body: ''
+      - image:
+          src: /uploads/HS Verra-1-278 copy.jpg
+        headline: "Benoît\tClément"
+        subhead: Verra
       - image:
           src: /uploads/1663337537474 (1).jpg
         headline: Maxwell Kanter
@@ -243,6 +234,15 @@ blocks:
           src: /uploads/IMG_2318 (1) (1).jpeg
         headline: Ned Harvey
         subhead: Digital Gaia
+        body: ''
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 8.12.00 AM.png
+        headline: "Caitlin\tMoore"
+        subhead: Filecoin Green
+      - image:
+          src: /uploads/B944A3CC-BD95-4229-8C07-B13CE8018B63 (1).jpeg
+        headline: 'Gloria Kimbwala '
+        subhead: Buidlbox.io
         body: ''
       - image:
           src: /uploads/Screenshot 2023-03-29 at 7.48.56 AM.png
@@ -676,6 +676,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
