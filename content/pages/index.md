@@ -328,7 +328,7 @@ blocks:
             headline: Hackathon Finale
           - time: '5:15'
             headline: 'Panel: Collective Action'
-          - time: '5:30'
+          - time: '5:45'
             headline: Networking Reception
             subhead: ''
           - time: '7:00'
@@ -754,6 +754,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
