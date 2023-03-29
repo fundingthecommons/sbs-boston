@@ -105,6 +105,16 @@ blocks:
       leaders, NGO's and leaders from web3 and ReFi projects.&#x20;
     items:
       - {}
+      - {}
+      - {}
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 8.00.53 AM.png
+        headline: Doug Miller
+        subhead: Clean Energy Buyers Institute
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.59.56 AM.png
+        headline: "Boone\tBergsma"
+        subhead: Blockchain Laboratories and Carbonland Trust & DAO
       - image:
           src: /uploads/Screenshot 2023-03-29 at 7.59.04 AM.png
         headline: "Alexey\tShadrin"
@@ -611,6 +621,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
