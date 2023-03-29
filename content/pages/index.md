@@ -349,9 +349,25 @@ blocks:
           - time: '11:20'
             headline: How Tokenization Unlocks Potential to Improve Carbon Markets
             subhead: 'Peter Rosberg, Ripple'
-          - time: '12:30 '
+          - time: '11:40'
+            headline: Incentivizing Impact Beyond Carbon
+            subhead: 'Nick Edmonds & Erin Murphy, Topl'
+          - time: '12:00'
+            headline: 'Fireside: ESG as a Backbone for Carbon'
+            subhead: 'Kalyani Inampudi, Jonathan Rackoff, Susan Fredholm Murphy'
+          - time: '12:45 '
             headline: Lunch
-            subhead: ''
+            subhead: Meal provided
+          - time: '1:55'
+            headline: 'Workshop: Renewable Energy'
+          - time: '3:00'
+            headline: 'Regen Network Talk '
+            subhead: 'Gregory Landua, Regen Network'
+          - time: '3:40'
+            headline: >-
+              Improving Access to Green Energy Markets for Small and Local
+              Systems
+            subhead: 'Jason Kasovic, Web3 Renewables'
           - {}
     _template: timeline
   - style:
@@ -736,6 +752,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
