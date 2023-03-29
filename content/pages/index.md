@@ -104,6 +104,12 @@ blocks:
       from the UNFCCC, UNESCO, government officials, legacy energy industry
       leaders, NGO's and leaders from web3 and ReFi projects.&#x20;
     items:
+      - {}
+      - {}
+      - image:
+          src: /uploads/1516158845713 (1).jpeg
+        headline: Peter Rosberg
+        subhead: Ripple
       - image:
           src: /uploads/Screenshot 2023-03-28 at 5.43.53 PM.png
         headline: Erin Murphy
@@ -150,14 +156,14 @@ blocks:
         subhead: Digital Gaia
         body: ''
       - image:
-          src: /uploads/kevin-owocki-sq.jpg
-        headline: Kevin Owocki
-        subhead: Gitcoin
+          src: /uploads/Screenshot 2023-03-29 at 7.48.56 AM.png
+        headline: "Nick\tEdmonds"
+        subhead: Topl
         body: ''
       - image:
-          src: /uploads/rim-jeong-sq.jpg
-        headline: Rim Jeong
-        subhead: Open Forest Protocol
+          src: /uploads/Screenshot 2023-03-29 at 7.50.25 AM.png
+        headline: Nirvaan Ranganathan
+        subhead: Climate Collective
         body: ''
       - image:
           src: /uploads/alan-ransil.jpg
@@ -586,6 +592,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
