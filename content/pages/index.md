@@ -101,10 +101,31 @@ blocks:
     subhead: ''
     body: >
       SBS will featire a diverse range of speakers, including representatives
-      from the UNFCCC, UNESCO, government officials, legacy energy industry
-      leaders, NGO's and leaders from web3 and ReFi projects.&#x20;
+      from the UNFCCC, legacy energy industry leaders, NGO's and leaders from
+      web3 and ReFi projects.&#x20;
     items:
-      - {}
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.44.46 AM.png
+        headline: Jason Jay
+        subhead: MIT Sloan School of Management
+        body: ''
+      - image:
+          src: /uploads/alex-paris.jpg
+        headline: Alex Paris
+        subhead: UNFCCC
+        body: ''
+      - image:
+          src: /uploads/110714-A3.032 - Copy.JPG
+        headline: Cathy Mulligan
+        subhead: CM Digital Innovations
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 8.15.44 AM.png
+        headline: Killian Daly
+        subhead: EnergyTag
+      - image:
+          src: /uploads/HS Verra-1-278 copy.jpg
+        headline: "Benoît\tClément"
+        subhead: Verra
       - image:
           src: /uploads/Screenshot 2023-03-29 at 8.12.00 AM.png
         headline: "Caitlin\tMoore"
@@ -114,10 +135,18 @@ blocks:
         headline: Ryan Thomas
         subhead: Simbiotica Finance
       - image:
+          src: /uploads/1516158845713 (1).jpeg
+        headline: Peter Rosberg
+        subhead: Ripple
+      - image:
           src: /uploads/Screenshot 2023-03-29 at 8.09.20 AM.png
         headline: Kalyani Inampudi
         subhead: ESG Consultant
         body: ''
+      - image:
+          src: /uploads/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
+        headline: Kirsteen Harrison
+        subhead: Zumo
       - image:
           src: /uploads/Colour-Wash_Example.jpg
         headline: Sebastien Hess
@@ -130,10 +159,6 @@ blocks:
           src: /uploads/MJ_29l (1).jpeg
         headline: Marc Johnson
         subhead: Filecoin Green
-      - image:
-          src: /uploads/Screen_Shot_2022-07-21_at_8.58.18_AM_nmtfxh.png
-        headline: Kirsteen Harrison
-        subhead: Zumo
       - image:
           src: /uploads/88DC979F-CCE1-4C02-B422-99C9F0AC73C5 (1).jpeg
         headline: Joshua Soloway
@@ -155,9 +180,19 @@ blocks:
         headline: "Boone\tBergsma"
         subhead: Blockchain Laboratories and Carbonland Trust & DAO
       - image:
+          src: /uploads/alan-ransil.jpg
+        headline: Alan Ransil
+        subhead: Filecoin Green
+        body: ''
+      - image:
           src: /uploads/Screenshot 2023-03-29 at 7.59.04 AM.png
         headline: "Alexey\tShadrin"
         subhead: Evercity
+      - image:
+          src: /uploads/B944A3CC-BD95-4229-8C07-B13CE8018B63 (1).jpeg
+        headline: 'Gloria Kimbwala '
+        subhead: Buidlbox.io
+        body: ''
       - image:
           src: /uploads/Screenshot 2023-03-29 at 7.55.03 AM.png
         headline: Akshay Yeleswarapu
@@ -174,10 +209,6 @@ blocks:
           src: /uploads/1601586153430.jpg
         headline: "Sam\tFlanagan"
         subhead: Web3ForGood
-      - image:
-          src: /uploads/1516158845713 (1).jpeg
-        headline: Peter Rosberg
-        subhead: Ripple
       - image:
           src: /uploads/Screenshot 2023-03-28 at 5.43.53 PM.png
         headline: Erin Murphy
@@ -199,11 +230,6 @@ blocks:
         subhead: Regen Network
         body: ''
       - image:
-          src: /uploads/Screenshot 2023-03-29 at 7.44.46 AM.png
-        headline: Jason Jay
-        subhead: MIT Sloan School of Management
-        body: ''
-      - image:
           src: /uploads/Screenshot 2023-03-29 at 7.45.57 AM.png
         headline: Marcus Aurelius
         subhead: KlimaDAO
@@ -212,11 +238,6 @@ blocks:
           src: /uploads/1663337537474 (1).jpg
         headline: Maxwell Kanter
         subhead: Gitcoin
-        body: ''
-      - image:
-          src: /uploads/alex-paris.jpg
-        headline: Alex Paris
-        subhead: UNFCCC
         body: ''
       - image:
           src: /uploads/IMG_2318 (1) (1).jpeg
@@ -232,11 +253,6 @@ blocks:
           src: /uploads/Screenshot 2023-03-29 at 7.50.25 AM.png
         headline: Nirvaan Ranganathan
         subhead: Climate Collective
-        body: ''
-      - image:
-          src: /uploads/alan-ransil.jpg
-        headline: Alan Ransil
-        subhead: Filecoin Green
         body: ''
     navigationLabel: Speakers
     _template: cards
@@ -660,6 +676,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
