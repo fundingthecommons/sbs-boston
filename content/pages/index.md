@@ -225,6 +225,10 @@ blocks:
         subhead: 'CERN, Tufts University'
         body: ''
       - image:
+          src: /uploads/JD_A1_color.jpg
+        headline: Jonathan Dotan
+        subhead: EQTY Lab
+      - image:
           src: /uploads/Screenshot 2023-03-29 at 7.43.38 AM.png
         headline: Jason Kaasovic
         subhead: Web3 Renewables
@@ -260,6 +264,11 @@ blocks:
         subhead: Buidlbox.io
         body: ''
       - image:
+          src: /uploads/IMG_3779 3.jpg
+        headline: Angelo Kalaw
+        subhead: Celo Foundation
+        body: ''
+      - image:
           src: /uploads/Screenshot 2023-03-29 at 7.48.56 AM.png
         headline: "Nick\tEdmonds"
         subhead: Topl
@@ -269,6 +278,10 @@ blocks:
         headline: Nirvaan Ranganathan
         subhead: Climate Collective
         body: ''
+      - image:
+          src: /uploads/Screenshot 2023-03-29 at 7.17.16 PM.png
+        headline: Mukund Venkatakrishnan
+        subhead: Blueprint Finance
       - image:
           src: /uploads/1663337537474 (1).jpg
         headline: Maxwell Kanter
@@ -308,9 +321,9 @@ blocks:
               Boone Bergsma
           - time: '11:25'
             headline: >-
-              There's Not Much Fi in ReFi Without Interoperability with the Real
-              Economy
-            subhead: 'Ned Harvey, Digital Gaia'
+              ReFi Ecosystems: Sustainable Finance, DMRV, & Carbon Market
+              Mechanisms on Hedera
+            subhead: "Wes\tGeisenberger, HBAR Foundation"
           - time: '11:45'
             headline: >-
               How to Talk to Non-Tech Audiences About What We're Building and
@@ -325,31 +338,22 @@ blocks:
             headline: Lunch
             subhead: Meal provided
           - time: '1:20'
-            headline: DeFi 4 ReFi
-            subhead: 'Marc Johnson, Ryan Thomas, Mukund Venkatakrishnan'
+            headline: 'Fireside Chat: Green Data Storage'
+            subhead: ''
           - time: '1:50'
             headline: 'Panel: ESG'
             subhead: >-
               Kalyani Inampudi, Jaye Connelly-Labelle, Joshua Soloway, Alexey
               Shadrin, Benoit Clement
           - time: '2:40'
-            headline: >-
-              ReFi Ecosystems: Sustainable Finance, DMRV, & Carbon Market
-              Mechanisms on Hedera
-            subhead: "Wes\tGeisenberger, HBAR Foundation"
-          - time: '3:00'
-            headline: >-
-              The Physical Impacts of Greenhouse Gases and How to Counter with
-              Carbon-forward Solutions
-            subhead: 'Fikriye Colette Kaya, CERN, Tufts University'
-          - time: '3:20'
             headline: 'En-Roads Keynote '
             subhead: 'Jason Jay, MIT'
-          - time: '4:10'
+          - time: '3:30'
             headline: Hackathon Finale
+          - time: '4:35'
+            headline: 'Closing Discussion: What next?'
+            subhead: 'Alan Ransil, Alex Paris, Simge Sandal, Angelo Kalaw, John X'
           - time: '5:15'
-            headline: 'Panel: Collective Action'
-          - time: '5:45'
             headline: Networking Reception
             subhead: ''
           - time: '7:00'
@@ -361,6 +365,11 @@ blocks:
           - time: '9:00'
             headline: Doors Open
             subhead: Snacks provided
+          - time: '10:20'
+            headline: >-
+              There's Not Much Fi in ReFi Without Interoperability with the Real
+              Economy
+            subhead: 'Ned Harvey, Digital Gaia'
           - time: '10:40'
             headline: Deploying Capital for Impact in Web3
             subhead: 'Maxwell Kanter, Gitcoin'
@@ -379,17 +388,25 @@ blocks:
           - time: '12:45 '
             headline: Lunch
             subhead: Meal provided
-          - time: '1:55'
+          - time: '1:20'
+            headline: 'Fireside Chat: DeFi 4 ReFi'
+            subhead: 'Marc Johnson, Ryan Thomas, Mukund Venkatakrishnan'
+          - time: '1:50'
             headline: 'Workshop: Renewable Energy'
-          - time: '3:00'
+          - time: '2:55'
             headline: 'Turning the Six Strings of Regenerative Finance: A One Year Update'
             subhead: 'Gregory Landua, Regen Network'
-          - time: '3:40'
+          - time: '3:15'
+            headline: >-
+              The Physical Impacts of Greenhouse Gases and How to Counter with
+              Carbon-forward Solutions
+            subhead: Fikriye Colette Kaya
+          - time: '3:35'
             headline: >-
               Improving Access to Green Energy Markets for Small and Local
               Systems
             subhead: 'Jason Kasovic, Web3 Renewables'
-          - time: '4:00'
+          - time: '3:55'
             headline: 'Measure-to-Earn: Empowering Marginalized Communities Through Web3 '
             subhead: 'Simge Sandal, Gainforest'
     navigationLabel: Agenda
@@ -776,5 +793,6 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
