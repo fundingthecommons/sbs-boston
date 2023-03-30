@@ -390,7 +390,9 @@ blocks:
             headline: Incentivizing Impact Beyond Carbon
             subhead: 'Nick Edmonds & Erin Murphy, Topl'
           - time: '12:00'
-            headline: 'Fireside: ESG and Carbon Disclosures: Tackling Today''s Landscape'
+            headline: >-
+              Fireside: ESG and Carbon Data Disclosures: Tackling Today's
+              Landscape
             subhead: 'Kalyani Inampudi, Jonathan Rackoff, Susan Fredholm Murphy'
           - time: '12:45 '
             headline: Lunch
@@ -800,6 +802,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
