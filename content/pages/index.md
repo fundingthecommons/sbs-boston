@@ -158,6 +158,7 @@ blocks:
           src: /uploads/Screenshot 2023-03-30 at 2.45.41 PM.png
         headline: John X
         subhead: Toucan Protocol
+        body: ''
       - image:
           src: /uploads/110714-A3.032 - Copy.JPG
         headline: Cathy Mulligan
@@ -347,7 +348,7 @@ blocks:
             headline: 'Fireside Chat: Green Data Storage'
             subhead: ''
           - time: '2:00'
-            headline: 'Panel: ESG'
+            headline: 'Panel: Carbon Offsetting and the Role of Blockchain'
             subhead: >-
               Kalyani Inampudi, Jaye Connelly-Labelle, Joshua Soloway, Alexey
               Shadrin, Benoit Clement
@@ -799,6 +800,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
