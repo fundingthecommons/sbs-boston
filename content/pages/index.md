@@ -155,6 +155,10 @@ blocks:
         subhead: Clean Energy Buyers Institute
         body: ''
       - image:
+          src: /uploads/Screenshot 2023-03-30 at 2.45.41 PM.png
+        headline: John X
+        subhead: Toucan Protocol
+      - image:
           src: /uploads/110714-A3.032 - Copy.JPG
         headline: Cathy Mulligan
         subhead: CM Digital Innovations
@@ -228,6 +232,7 @@ blocks:
           src: /uploads/JD_A1_color.jpg
         headline: Jonathan Dotan
         subhead: EQTY Lab
+        body: ''
       - image:
           src: /uploads/Screenshot 2023-03-29 at 7.43.38 AM.png
         headline: Jason Kaasovic
@@ -282,6 +287,7 @@ blocks:
           src: /uploads/Screenshot 2023-03-29 at 7.17.16 PM.png
         headline: Mukund Venkatakrishnan
         subhead: Blueprint Finance
+        body: ''
       - image:
           src: /uploads/1663337537474 (1).jpg
         headline: Maxwell Kanter
@@ -793,6 +799,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
