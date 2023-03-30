@@ -343,23 +343,23 @@ blocks:
           - time: '12:45'
             headline: Lunch
             subhead: Meal provided
-          - time: '1:20'
+          - time: '1:30'
             headline: 'Fireside Chat: Green Data Storage'
             subhead: ''
-          - time: '1:50'
+          - time: '2:00'
             headline: 'Panel: ESG'
             subhead: >-
               Kalyani Inampudi, Jaye Connelly-Labelle, Joshua Soloway, Alexey
               Shadrin, Benoit Clement
-          - time: '2:40'
+          - time: '2:50'
             headline: 'En-Roads Keynote '
             subhead: 'Jason Jay, MIT'
-          - time: '3:30'
+          - time: '3:40'
             headline: Hackathon Finale
-          - time: '4:35'
+          - time: '4:45'
             headline: 'Closing Discussion: What next?'
             subhead: 'Alan Ransil, Alex Paris, Simge Sandal, Angelo Kalaw, John X'
-          - time: '5:15'
+          - time: '5:30'
             headline: Networking Reception
             subhead: ''
           - time: '7:00'
@@ -394,25 +394,25 @@ blocks:
           - time: '12:45 '
             headline: Lunch
             subhead: Meal provided
-          - time: '1:20'
+          - time: '1:30'
             headline: 'Fireside Chat: DeFi 4 ReFi'
             subhead: 'Marc Johnson, Ryan Thomas, Mukund Venkatakrishnan'
-          - time: '1:50'
+          - time: '2:00'
             headline: 'Workshop: Renewable Energy'
-          - time: '2:55'
+          - time: '3:05'
             headline: 'Turning the Six Strings of Regenerative Finance: A One Year Update'
             subhead: 'Gregory Landua, Regen Network'
-          - time: '3:15'
+          - time: '3:25'
             headline: >-
               The Physical Impacts of Greenhouse Gases and How to Counter with
               Carbon-forward Solutions
             subhead: Fikriye Colette Kaya
-          - time: '3:35'
+          - time: '3:45'
             headline: >-
               Improving Access to Green Energy Markets for Small and Local
               Systems
             subhead: 'Jason Kasovic, Web3 Renewables'
-          - time: '3:55'
+          - time: '4:05'
             headline: 'Measure-to-Earn: Empowering Marginalized Communities Through Web3 '
             subhead: 'Simge Sandal, Gainforest'
     navigationLabel: Agenda
@@ -799,6 +799,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
