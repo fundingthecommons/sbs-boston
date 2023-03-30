@@ -222,7 +222,7 @@ blocks:
       - image:
           src: /uploads/Screenshot 2023-03-29 at 8.09.20 AM.png
         headline: Kalyani Inampudi
-        subhead: ESG Consultant
+        subhead: 'ESG and Carbon Consultant '
         body: ''
       - image:
           src: /uploads/Screenshot 2023-03-29 at 7.41.00 AM.png
@@ -800,6 +800,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
