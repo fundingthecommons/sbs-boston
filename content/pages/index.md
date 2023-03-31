@@ -101,8 +101,8 @@ blocks:
     subhead: ''
     body: >
       SBS will feature a diverse range of speakers, including representatives
-      from the UNFCCC, legacy energy industry leaders, NGO's, and leaders from
-      web3 and ReFi projects.&#x20;
+      from the UNFCCC, legacy energy industry leaders, NGO's, ESG, Carbon, and
+      leaders from web3 and ReFi projects.&#x20;
     items:
       - image:
           src: /uploads/Screenshot 2023-03-29 at 7.44.46 AM.png
@@ -802,6 +802,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/social-image.png
 ---
+
 
 
 
