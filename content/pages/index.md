@@ -800,8 +800,9 @@ meta:
     tools to regenerate the natural world, improving governance to benefit those
     affected by climate change, and broadening our ambitions to include all
     planetary boundaries.
-  ogImage: /uploads/sbs-social-image-web.png
+  ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
