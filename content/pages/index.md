@@ -297,7 +297,7 @@ blocks:
     navigationLabel: Speakers
     _template: cards
   - style:
-      alignment: flex-col-reverse items-center gap-12
+      alignment: 'flex-col-reverse items-center '
       padding: 'pt-20 pb-20 pr-32 pl-32 sm:pt-10 sm:pb-10 sm:pr-5 sm:pl-5'
       featureContent: w-4/5 min-h-0 text-center
       labelStyles: text-black undefined undefined
@@ -802,6 +802,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
