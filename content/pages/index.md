@@ -298,7 +298,7 @@ blocks:
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-12
-      padding: pt-20 pb-20 pr-32 pl-32
+      padding: 'pt-20 pb-20 pr-32 pl-32 sm:pt-10 sm:pb-10 sm:pr-5 sm:pl-5'
       featureContent: w-4/5 min-h-0 text-center
       labelStyles: text-black undefined undefined
       headlineStyles: text-primary mg-headline-large undefined
@@ -802,6 +802,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
