@@ -345,8 +345,8 @@ blocks:
             headline: Lunch
             subhead: Meal provided
           - time: '1:30'
-            headline: 'Fireside Chat: Green Data Storage'
-            subhead: ''
+            headline: 'Fireside Chat: Creating a Global Commons for Climate Data'
+            subhead: 'Jonathan Dotan, Angie Maguire'
           - time: '2:00'
             headline: 'Panel: Carbon Offsetting and the Role of Blockchain'
             subhead: >-
@@ -802,6 +802,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
