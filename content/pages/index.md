@@ -308,7 +308,7 @@ blocks:
     subhead: ''
     body: ''
     timelines:
-      - headline: Track 1
+      - headline: Harbor Stage
         subhead: ''
         body: ''
         events:
@@ -365,7 +365,7 @@ blocks:
             subhead: ''
           - time: '7:00'
             headline: Event Ends
-      - headline: Track 2
+      - headline: Greenway Stage
         subhead: ''
         body: ''
         events:
@@ -802,6 +802,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
