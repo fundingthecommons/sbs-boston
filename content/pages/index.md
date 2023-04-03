@@ -125,14 +125,14 @@ blocks:
         subhead: EnergyTag
         body: ''
       - image:
+          src: /uploads/Ripplenami-IMG_9965-Final-4x5V Tighter.jpg
+        headline: Jaye Connolly-LaBelle
+        subhead: Caelum Resources
+        body: ''
+      - image:
           src: /uploads/1516158845713 (1).jpeg
         headline: Peter Rosberg
         subhead: Ripple
-        body: ''
-      - image:
-          src: /uploads/Screenshot 2023-03-29 at 8.06.54 AM.png
-        headline: Maria Eisner Pelch
-        subhead: Concordium
         body: ''
       - image:
           src: /uploads/88DC979F-CCE1-4C02-B422-99C9F0AC73C5 (1).jpeg
@@ -143,11 +143,6 @@ blocks:
           src: /uploads/Colour-Wash_Example.jpg
         headline: Sebastien Hess
         subhead: Block Green
-        body: ''
-      - image:
-          src: /uploads/Ripplenami-IMG_9965-Final-4x5V Tighter.jpg
-        headline: Jaye Connolly-LaBelle
-        subhead: Caelum Resources
         body: ''
       - image:
           src: /uploads/Screenshot 2023-03-29 at 8.00.53 AM.png
@@ -194,6 +189,10 @@ blocks:
         headline: Gregory Landua
         subhead: Regen Network
         body: ''
+      - image:
+          src: /uploads/Angie.jpeg
+        headline: Angie Maguire
+        subhead: Protocol Labs
       - image:
           src: /uploads/Screenshot 2023-03-29 at 8.10.53 AM.png
         headline: Ryan Thomas
@@ -802,6 +801,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
