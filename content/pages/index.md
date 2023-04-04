@@ -54,10 +54,6 @@ blocks:
           https://www.eventbrite.com/e/sustainable-blockchain-summit-boston-tickets-502882624467?aff=sbstech
         buttonStyle: primary
         fathomId: ''
-      - label: ≓ Apply to hack ≒
-        link: >-
-          https://sbsboston.devpost.com/?ref_feature=challenge&ref_medium=discover
-        buttonStyle: minor
     navigationLabel: Tickets
     _template: feature
   - src: sbs-boston-loop.mp4
@@ -155,11 +151,6 @@ blocks:
         subhead: Toucan Protocol
         body: ''
       - image:
-          src: /uploads/110714-A3.032 - Copy.JPG
-        headline: Cathy Mulligan
-        subhead: CM Digital Innovations
-        body: ''
-      - image:
           src: /uploads/alan-ransil.jpg
         headline: Alan Ransil
         subhead: Filecoin Green
@@ -193,6 +184,7 @@ blocks:
           src: /uploads/Angie.jpeg
         headline: Angie Maguire
         subhead: Protocol Labs
+        body: ''
       - image:
           src: /uploads/Screenshot 2023-03-29 at 8.10.53 AM.png
         headline: Ryan Thomas
@@ -337,9 +329,7 @@ blocks:
             subhead: 'Sam Flangan, Web3ForGood'
           - time: '12:05'
             headline: 'Panel: Renewable Electricity'
-            subhead: >-
-              Doug Miller, Kirsteen Harrison, Killian Daly, Maria Eisner Pelch,
-              Cathy Mulligan, Sebastien Hess
+            subhead: 'Doug Miller, Kirsteen Harrison, Killian Daly, Sebastien Hess'
           - time: '12:45'
             headline: Lunch
             subhead: Meal provided
@@ -358,7 +348,7 @@ blocks:
             headline: Hackathon Finale
           - time: '4:45'
             headline: 'Closing Discussion: What next?'
-            subhead: 'Alan Ransil, Alex Paris, Simge Sandal, Angelo Kalaw, John X'
+            subhead: 'Alan Ransil, Gajanana Hegde, Simge Sandal, Angelo Kalaw, John X'
           - time: '5:30'
             headline: Networking Reception
             subhead: ''
@@ -489,7 +479,7 @@ blocks:
           The world is rapidly waking up to the biodiversity crisis. What role
           can web3 play in helping us to measure biodiversity and mobilize
           resources to protect it?
-    navigationLabel: Schedule
+    navigationLabel: ''
     _template: cards
   - style:
       alignment: flex-col-reverse items-center gap-12
@@ -801,6 +791,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
