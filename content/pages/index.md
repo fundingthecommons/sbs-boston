@@ -181,7 +181,7 @@ blocks:
         subhead: Regen Network
         body: ''
       - image:
-          src: /uploads/Angie.jpeg
+          src: /uploads/Screenshot 2023-04-05 at 8.04.41 AM.png
         headline: Angie Maguire
         subhead: Protocol Labs
         body: ''
@@ -791,6 +791,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
