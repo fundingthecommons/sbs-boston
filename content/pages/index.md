@@ -196,11 +196,6 @@ blocks:
         subhead: Web3ForGood
         body: ''
       - image:
-          src: /uploads/Screenshot 2023-03-29 at 7.59.56 AM.png
-        headline: "Boone\tBergsma"
-        subhead: Blockchain Laboratories and Carbonland Trust & DAO
-        body: ''
-      - image:
           src: /uploads/Screenshot 2023-03-28 at 5.43.53 PM.png
         headline: Erin Murphy
         subhead: Topl
@@ -314,9 +309,7 @@ blocks:
             subhead: 'Nirvaan Ranganathan, Climate Collective'
           - time: '10:40'
             headline: 'Panel: Land in ReFi '
-            subhead: >-
-              Caitlin Moore, Akshay Yeleswarapu, Gloria Kimbwala, Isha Varshney,
-              Boone Bergsma
+            subhead: 'Caitlin Moore, Akshay Yeleswarapu, Gloria Kimbwala, Isha Varshney'
           - time: '11:25'
             headline: >-
               ReFi Ecosystems: Sustainable Finance, DMRV, & Carbon Market
@@ -791,6 +784,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
