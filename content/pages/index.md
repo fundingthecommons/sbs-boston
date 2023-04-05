@@ -151,14 +151,14 @@ blocks:
         subhead: Toucan Protocol
         body: ''
       - image:
-          src: /uploads/alan-ransil.jpg
-        headline: Alan Ransil
-        subhead: Filecoin Green
-        body: ''
-      - image:
           src: /uploads/IMG_5451 (1).jpeg
         headline: "Simge\tSandal"
         subhead: GainForest
+        body: ''
+      - image:
+          src: /uploads/alan-ransil.jpg
+        headline: Alan Ransil
+        subhead: Filecoin Green
         body: ''
       - image:
           src: /uploads/Screenshot 2023-03-29 at 7.59.04 AM.png
@@ -784,6 +784,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
