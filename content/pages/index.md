@@ -373,7 +373,7 @@ blocks:
             subhead: 'Nick Edmonds & Erin Murphy, Topl'
           - time: '12:00'
             headline: >-
-              Fireside: ESG and Carbon Data Disclosures: Tackling Today's
+              Fireside Chat: ESG and Carbon Data Disclosures: Tackling Today's
               Landscape
             subhead: 'Kalyani Inampudi, Jonathan Rackoff, Susan Fredholm Murphy'
           - time: '12:45 '
@@ -784,6 +784,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
