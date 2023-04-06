@@ -381,7 +381,7 @@ blocks:
             subhead: Meal provided
           - time: '1:30'
             headline: 'Fireside Chat: DeFi 4 ReFi'
-            subhead: 'Marc Johnson, Ryan Thomas, Mukund Venkatakrishnan'
+            subhead: 'Marc Johnson, Ryan Thomas, Mukund Venkatakrishnan, Sebastien Hess'
           - time: '2:00'
             headline: 'Workshop: Renewable Energy'
           - time: '3:05'
@@ -784,6 +784,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
