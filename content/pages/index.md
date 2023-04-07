@@ -309,7 +309,9 @@ blocks:
             subhead: 'Nirvaan Ranganathan, Climate Collective'
           - time: '10:40'
             headline: 'Panel: Land in ReFi '
-            subhead: 'Caitlin Moore, Akshay Yeleswarapu, Gloria Kimbwala, Isha Varshney'
+            subhead: >-
+              Caitlin Moore, Akshay Yeleswarapu, Gloria Kimbwala, Isha Varshney,
+              Erin Murphy
           - time: '11:25'
             headline: >-
               ReFi Ecosystems: Sustainable Finance, DMRV, & Carbon Market
@@ -779,6 +781,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
