@@ -531,11 +531,6 @@ blocks:
     headline: ''
     subhead: ''
     body: ''
-    buttons:
-      - label: Apply to hack
-        link: >-
-          https://sbsboston.devpost.com/?ref_feature=challenge&ref_medium=discover
-        buttonStyle: primary
     _template: feature
   - style:
       alignment: flex-col-reverse items-center gap-6
@@ -784,6 +779,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
