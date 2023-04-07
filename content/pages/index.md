@@ -570,13 +570,13 @@ blocks:
       - headline: What does my ticket include?
         text: >
           All tickets include entry to the event, access to all talks and
-          workshops, meals including coffee, lunch, happy hour, plus exclusive
-          SBS swag.
+          workshops, meals including light breakfast, coffee, lunch, happy hour,
+          plus exclusive SBS swag.
       - headline: Where can I find the agenda?
         subhead: ''
         text: >
-          The agenda will be announced soon. Keep an eye out on this website for
-          updates.
+          The agenda can be found here
+          [https://sbs.tech/#agenda](https://sbs.tech/#agenda)
       - headline: Are there press passes?
         subhead: ''
         text: >
@@ -779,6 +779,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
