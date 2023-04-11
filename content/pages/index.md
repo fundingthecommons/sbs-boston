@@ -300,7 +300,7 @@ blocks:
         events:
           - time: '9:00'
             headline: Doors Open
-            subhead: Snacks provided
+            subhead: Light breakfast provided
           - time: '10:00'
             headline: Opening Remarks
             subhead: 'Alan Ransil, Filecoin Green'
@@ -329,8 +329,8 @@ blocks:
             headline: Lunch
             subhead: Meal provided
           - time: '1:30'
-            headline: 'Fireside Chat: Creating a Global Commons for Climate Data'
-            subhead: 'Jonathan Dotan, Angie Maguire'
+            headline: 'Fireside Chat: DeFi 4 ReFi'
+            subhead: 'Marc Johnson, Ryan Thomas, Mukund Venkatakrishnan, Sebastien Hess'
           - time: '2:00'
             headline: 'Panel: Carbon Offsetting and the Role of Blockchain'
             subhead: >-
@@ -355,7 +355,7 @@ blocks:
         events:
           - time: '9:00'
             headline: Doors Open
-            subhead: Snacks provided
+            subhead: Light breakfast provided
           - time: '10:20'
             headline: >-
               There's Not Much Fi in ReFi Without Interoperability with the Real
@@ -381,9 +381,6 @@ blocks:
           - time: '12:45 '
             headline: Lunch
             subhead: Meal provided
-          - time: '1:30'
-            headline: 'Fireside Chat: DeFi 4 ReFi'
-            subhead: 'Marc Johnson, Ryan Thomas, Mukund Venkatakrishnan, Sebastien Hess'
           - time: '2:00'
             headline: 'Workshop: Renewable Energy'
           - time: '3:05'
@@ -781,6 +778,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
