@@ -324,7 +324,7 @@ blocks:
             subhead: 'Sam Flangan, Web3ForGood'
           - time: '12:05'
             headline: 'Panel: Renewable Electricity'
-            subhead: 'Doug Miller, Kirsteen Harrison, Killian Daly'
+            subhead: 'Doug Miller, Kirsteen Harrison, Killian Daly, Jason Kaasovic'
           - time: '12:45'
             headline: Lunch
             subhead: Meal provided
@@ -778,6 +778,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
