@@ -53,7 +53,7 @@ blocks:
         link: >-
           https://www.eventbrite.com/e/sustainable-blockchain-summit-boston-tickets-502882624467?aff=ebdssbdestsearch
         buttonStyle: primary
-      - label: Join Livestream
+      - label: Livestream
         link: 'https://www.youtube.com/watch?v=7EkyOXF2F_8'
         buttonStyle: primary
         fathomId: ''
@@ -784,6 +784,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
