@@ -54,6 +54,9 @@ blocks:
           https://www.eventbrite.com/e/sustainable-blockchain-summit-boston-tickets-502882624467?aff=sbstech
         buttonStyle: primary
         fathomId: ''
+      - label: Get Notified About Future SBS Events
+        link: 'https://airtable.com/shrHLnufwtCcugTtm'
+        buttonStyle: minor
     navigationLabel: Tickets
     _template: feature
   - src: sbs-boston-loop.mp4
@@ -778,6 +781,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
