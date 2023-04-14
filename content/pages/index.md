@@ -49,10 +49,6 @@ blocks:
       planetary boundaries. Join the world’s premiere forum at the intersection
       of web3 and the biosphere to help us answer these questions together.
     buttons:
-      - label: Tickets
-        link: >-
-          https://www.eventbrite.com/e/sustainable-blockchain-summit-boston-tickets-502882624467?aff=ebdssbdestsearch
-        buttonStyle: primary
       - label: Livestream
         link: 'https://www.youtube.com/watch?v=7EkyOXF2F_8'
         buttonStyle: primary
@@ -784,6 +780,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
