@@ -49,7 +49,7 @@ blocks:
       planetary boundaries. Join the world’s premiere forum at the intersection
       of web3 and the biosphere to help us answer these questions together.
     buttons:
-      - label: Livestream
+      - label: Watch
         link: 'https://www.youtube.com/watch?v=7EkyOXF2F_8'
         buttonStyle: primary
         fathomId: ''
@@ -780,6 +780,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
