@@ -54,7 +54,7 @@ blocks:
         buttonStyle: primary
         fathomId: ''
       - label: Get Notified About Future SBS Events
-        link: 'https://airtable.com/shrHLnufwtCcugTtm'
+        link: 'https://mailchi.mp/90fdbff26d90/sustainable-blockchain-summit'
         buttonStyle: minor
     navigationLabel: Tickets
     _template: feature
@@ -780,6 +780,7 @@ meta:
     planetary boundaries.
   ogImage: /uploads/sbs-social-image-web.jpg
 ---
+
 
 
 
