@@ -108,7 +108,7 @@ blocks:
         subhead: MIT Sloan School of Management
         body: ''
       - image:
-          src: /uploads/kirsteen-harrison.png
+          src: /uploads/kirsteen-harrison.jpg
         headline: Kirsteen Harrison
         subhead: Zumo
         body: ''
